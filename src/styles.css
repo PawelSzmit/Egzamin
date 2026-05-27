@@ -532,12 +532,25 @@ button {
   padding: 0;
 }
 
+.modal-image-scroll {
+  max-height: calc(92vh - 72px);
+  overflow: auto;
+  background: #f6f9fb;
+}
+
 .modal img {
   width: 100%;
   max-height: calc(92vh - 72px);
   display: block;
   object-fit: contain;
-  background: #f6f9fb;
+}
+
+@media (max-width: 620px) {
+  .modal img {
+    width: auto;
+    max-width: none;
+    min-width: 720px;
+  }
 }
 
 @media (max-width: 1160px) {

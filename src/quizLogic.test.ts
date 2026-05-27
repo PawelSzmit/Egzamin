@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs";
 import { describe, expect, it, vi } from "vitest";
 import questions from "./data/questions.json";
 import { emptyProgress } from "./storage";
@@ -35,6 +36,19 @@ describe("question data", () => {
     const first = typedQuestions[0];
     expect(first.has_visual_reference).toBe(true);
     expect(first.page_image).toBe("exam-pages/page-01.jpg");
+    expect(first.visual_image).toBe("question-images/question-001.jpg");
+  });
+
+  it("has generated crop files for every visual question", () => {
+    const visualQuestions = typedQuestions.filter((question) => question.has_visual_reference);
+    expect(visualQuestions).toHaveLength(68);
+    expect(visualQuestions.every((question) => question.visual_image)).toBe(true);
+    expect(typedQuestions.find((question) => question.id === 146)?.visual_image).toBe("question-images/question-146.jpg");
+    expect(typedQuestions.find((question) => question.id === 147)?.visual_image).toBe("question-images/question-147.jpg");
+
+    for (const question of visualQuestions) {
+      expect(existsSync(`public/${question.visual_image}`)).toBe(true);
+    }
   });
 });
 

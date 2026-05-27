@@ -280,10 +280,10 @@ function App() {
                 <h1>{currentQuestion.question}</h1>
               </div>
 
-              {currentQuestion.has_visual_reference && currentQuestion.page_image ? (
+              {currentQuestion.has_visual_reference && (currentQuestion.visual_image || currentQuestion.page_image) ? (
                 <button className="visual-reference" type="button" onClick={() => setVisualQuestion(currentQuestion)}>
                   <Eye aria-hidden="true" />
-                  Zobacz rysunek lub znak ze strony {currentQuestion.page} PDF
+                  Zobacz wycinek z rysunkiem
                 </button>
               ) : null}
 
@@ -493,20 +493,22 @@ type VisualModalProps = {
 };
 
 function VisualModal({ question, onClose }: VisualModalProps) {
-  const image = `${import.meta.env.BASE_URL}${question.page_image}`;
+  const image = `${import.meta.env.BASE_URL}${question.visual_image ?? question.page_image}`;
   return (
-    <div className="modal-backdrop" role="dialog" aria-modal="true" aria-label="Podgląd strony z PDF">
+    <div className="modal-backdrop" role="dialog" aria-modal="true" aria-label="Podgląd rysunku do pytania">
       <div className="modal">
         <div className="modal-header">
           <div>
             <strong>Pytanie {question.id}</strong>
-            <span>Strona {question.page} oficjalnego PDF-a</span>
+            <span>Wycinek ze strony {question.page} oficjalnego PDF-a</span>
           </div>
           <button className="icon-button" type="button" onClick={onClose} aria-label="Zamknij podgląd">
             <X aria-hidden="true" />
           </button>
         </div>
-        <img src={image} alt={`Strona ${question.page} z pytaniem ${question.id}`} />
+        <div className="modal-image-scroll">
+          <img src={image} alt={`Wycinek z rysunkiem do pytania ${question.id}`} />
+        </div>
       </div>
     </div>
   );

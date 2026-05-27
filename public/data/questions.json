@@ -16,7 +16,8 @@
     },
     "page": 1,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-01.jpg"
+    "page_image": "exam-pages/page-01.jpg",
+    "visual_image": "question-images/question-001.jpg"
   },
   {
     "id": 2,
@@ -35,7 +36,8 @@
     },
     "page": 1,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-01.jpg"
+    "page_image": "exam-pages/page-01.jpg",
+    "visual_image": "question-images/question-002.jpg"
   },
   {
     "id": 3,
@@ -54,7 +56,8 @@
     },
     "page": 1,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 4,
@@ -73,7 +76,8 @@
     },
     "page": 1,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 5,
@@ -92,7 +96,8 @@
     },
     "page": 1,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 6,
@@ -111,7 +116,8 @@
     },
     "page": 1,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 7,
@@ -130,7 +136,8 @@
     },
     "page": 1,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 8,
@@ -149,7 +156,8 @@
     },
     "page": 1,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 9,
@@ -168,7 +176,8 @@
     },
     "page": 1,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 10,
@@ -187,7 +196,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 11,
@@ -206,7 +216,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 12,
@@ -225,7 +236,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 13,
@@ -244,7 +256,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 14,
@@ -263,7 +276,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 15,
@@ -282,7 +296,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 16,
@@ -301,7 +316,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 17,
@@ -320,7 +336,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 18,
@@ -339,7 +356,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 19,
@@ -358,7 +376,8 @@
     },
     "page": 2,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 20,
@@ -377,7 +396,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 21,
@@ -396,7 +416,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 22,
@@ -415,7 +436,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 23,
@@ -434,7 +456,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 24,
@@ -453,7 +476,8 @@
     },
     "page": 3,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-03.jpg"
+    "page_image": "exam-pages/page-03.jpg",
+    "visual_image": "question-images/question-024.jpg"
   },
   {
     "id": 25,
@@ -472,7 +496,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 26,
@@ -491,7 +516,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 27,
@@ -510,7 +536,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 28,
@@ -529,7 +556,8 @@
     },
     "page": 3,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 29,
@@ -548,7 +576,8 @@
     },
     "page": 4,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 30,
@@ -567,7 +596,8 @@
     },
     "page": 4,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 31,
@@ -586,7 +616,8 @@
     },
     "page": 4,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-04.jpg"
+    "page_image": "exam-pages/page-04.jpg",
+    "visual_image": "question-images/question-031.jpg"
   },
   {
     "id": 32,
@@ -605,7 +636,8 @@
     },
     "page": 4,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 33,
@@ -624,7 +656,8 @@
     },
     "page": 4,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-04.jpg"
+    "page_image": "exam-pages/page-04.jpg",
+    "visual_image": "question-images/question-033.jpg"
   },
   {
     "id": 34,
@@ -643,7 +676,8 @@
     },
     "page": 4,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-04.jpg"
+    "page_image": "exam-pages/page-04.jpg",
+    "visual_image": "question-images/question-034.jpg"
   },
   {
     "id": 35,
@@ -662,7 +696,8 @@
     },
     "page": 4,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 36,
@@ -681,7 +716,8 @@
     },
     "page": 4,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 37,
@@ -700,7 +736,8 @@
     },
     "page": 4,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 38,
@@ -719,7 +756,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 39,
@@ -738,7 +776,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 40,
@@ -757,7 +796,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 41,
@@ -776,7 +816,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 42,
@@ -795,7 +836,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 43,
@@ -814,7 +856,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 44,
@@ -833,7 +876,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 45,
@@ -852,7 +896,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 46,
@@ -871,7 +916,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 47,
@@ -890,7 +936,8 @@
     },
     "page": 5,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 48,
@@ -909,7 +956,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 49,
@@ -928,7 +976,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 50,
@@ -947,7 +996,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 51,
@@ -966,7 +1016,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 52,
@@ -985,7 +1036,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 53,
@@ -1004,7 +1056,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 54,
@@ -1023,7 +1076,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 55,
@@ -1042,7 +1096,8 @@
     },
     "page": 6,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-06.jpg"
+    "page_image": "exam-pages/page-06.jpg",
+    "visual_image": "question-images/question-055.jpg"
   },
   {
     "id": 56,
@@ -1061,7 +1116,8 @@
     },
     "page": 6,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 57,
@@ -1080,7 +1136,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 58,
@@ -1099,7 +1156,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 59,
@@ -1118,7 +1176,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 60,
@@ -1137,7 +1196,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 61,
@@ -1156,7 +1216,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 62,
@@ -1175,7 +1236,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 63,
@@ -1194,7 +1256,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 64,
@@ -1213,7 +1276,8 @@
     },
     "page": 7,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 65,
@@ -1232,7 +1296,8 @@
     },
     "page": 8,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 66,
@@ -1251,7 +1316,8 @@
     },
     "page": 8,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-08.jpg"
+    "page_image": "exam-pages/page-08.jpg",
+    "visual_image": "question-images/question-066.jpg"
   },
   {
     "id": 67,
@@ -1270,7 +1336,8 @@
     },
     "page": 8,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 68,
@@ -1289,7 +1356,8 @@
     },
     "page": 8,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 69,
@@ -1308,7 +1376,8 @@
     },
     "page": 8,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 70,
@@ -1327,7 +1396,8 @@
     },
     "page": 9,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 71,
@@ -1346,7 +1416,8 @@
     },
     "page": 9,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 72,
@@ -1365,7 +1436,8 @@
     },
     "page": 9,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 73,
@@ -1384,7 +1456,8 @@
     },
     "page": 9,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 74,
@@ -1403,7 +1476,8 @@
     },
     "page": 9,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 75,
@@ -1422,7 +1496,8 @@
     },
     "page": 9,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 76,
@@ -1441,7 +1516,8 @@
     },
     "page": 9,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 77,
@@ -1460,7 +1536,8 @@
     },
     "page": 10,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 78,
@@ -1479,7 +1556,8 @@
     },
     "page": 10,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 79,
@@ -1498,7 +1576,8 @@
     },
     "page": 10,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 80,
@@ -1517,7 +1596,8 @@
     },
     "page": 10,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 81,
@@ -1536,7 +1616,8 @@
     },
     "page": 10,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 82,
@@ -1555,7 +1636,8 @@
     },
     "page": 10,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 83,
@@ -1574,7 +1656,8 @@
     },
     "page": 10,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 84,
@@ -1593,7 +1676,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 85,
@@ -1612,7 +1696,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 86,
@@ -1631,7 +1716,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 87,
@@ -1650,7 +1736,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 88,
@@ -1669,7 +1756,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 89,
@@ -1688,7 +1776,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 90,
@@ -1707,7 +1796,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 91,
@@ -1726,7 +1816,8 @@
     },
     "page": 11,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 92,
@@ -1745,7 +1836,8 @@
     },
     "page": 12,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 93,
@@ -1764,7 +1856,8 @@
     },
     "page": 12,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 94,
@@ -1783,7 +1876,8 @@
     },
     "page": 12,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 95,
@@ -1802,7 +1896,8 @@
     },
     "page": 12,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 96,
@@ -1821,7 +1916,8 @@
     },
     "page": 12,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 97,
@@ -1840,7 +1936,8 @@
     },
     "page": 12,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 98,
@@ -1859,7 +1956,8 @@
     },
     "page": 12,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 99,
@@ -1878,7 +1976,8 @@
     },
     "page": 13,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-13.jpg"
+    "page_image": "exam-pages/page-13.jpg",
+    "visual_image": "question-images/question-099.jpg"
   },
   {
     "id": 100,
@@ -1897,7 +1996,8 @@
     },
     "page": 13,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-13.jpg"
+    "page_image": "exam-pages/page-13.jpg",
+    "visual_image": "question-images/question-100.jpg"
   },
   {
     "id": 101,
@@ -1916,7 +2016,8 @@
     },
     "page": 13,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-13.jpg"
+    "page_image": "exam-pages/page-13.jpg",
+    "visual_image": "question-images/question-101.jpg"
   },
   {
     "id": 102,
@@ -1935,7 +2036,8 @@
     },
     "page": 13,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-13.jpg"
+    "page_image": "exam-pages/page-13.jpg",
+    "visual_image": "question-images/question-102.jpg"
   },
   {
     "id": 103,
@@ -1954,7 +2056,8 @@
     },
     "page": 13,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-13.jpg"
+    "page_image": "exam-pages/page-13.jpg",
+    "visual_image": "question-images/question-103.jpg"
   },
   {
     "id": 104,
@@ -1973,7 +2076,8 @@
     },
     "page": 13,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 105,
@@ -1992,7 +2096,8 @@
     },
     "page": 13,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-13.jpg"
+    "page_image": "exam-pages/page-13.jpg",
+    "visual_image": "question-images/question-105.jpg"
   },
   {
     "id": 106,
@@ -2011,7 +2116,8 @@
     },
     "page": 14,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-14.jpg"
+    "page_image": "exam-pages/page-14.jpg",
+    "visual_image": "question-images/question-106.jpg"
   },
   {
     "id": 107,
@@ -2030,7 +2136,8 @@
     },
     "page": 14,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-14.jpg"
+    "page_image": "exam-pages/page-14.jpg",
+    "visual_image": "question-images/question-107.jpg"
   },
   {
     "id": 108,
@@ -2049,7 +2156,8 @@
     },
     "page": 14,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-14.jpg"
+    "page_image": "exam-pages/page-14.jpg",
+    "visual_image": "question-images/question-108.jpg"
   },
   {
     "id": 109,
@@ -2068,7 +2176,8 @@
     },
     "page": 14,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 110,
@@ -2087,7 +2196,8 @@
     },
     "page": 14,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 111,
@@ -2106,7 +2216,8 @@
     },
     "page": 14,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 112,
@@ -2125,7 +2236,8 @@
     },
     "page": 15,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-15.jpg"
+    "page_image": "exam-pages/page-15.jpg",
+    "visual_image": "question-images/question-112.jpg"
   },
   {
     "id": 113,
@@ -2144,7 +2256,8 @@
     },
     "page": 15,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-15.jpg"
+    "page_image": "exam-pages/page-15.jpg",
+    "visual_image": "question-images/question-113.jpg"
   },
   {
     "id": 114,
@@ -2163,7 +2276,8 @@
     },
     "page": 15,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 115,
@@ -2182,7 +2296,8 @@
     },
     "page": 15,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-15.jpg"
+    "page_image": "exam-pages/page-15.jpg",
+    "visual_image": "question-images/question-115.jpg"
   },
   {
     "id": 116,
@@ -2201,7 +2316,8 @@
     },
     "page": 15,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-15.jpg"
+    "page_image": "exam-pages/page-15.jpg",
+    "visual_image": "question-images/question-116.jpg"
   },
   {
     "id": 117,
@@ -2220,7 +2336,8 @@
     },
     "page": 15,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-15.jpg"
+    "page_image": "exam-pages/page-15.jpg",
+    "visual_image": "question-images/question-117.jpg"
   },
   {
     "id": 118,
@@ -2239,7 +2356,8 @@
     },
     "page": 16,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-16.jpg"
+    "page_image": "exam-pages/page-16.jpg",
+    "visual_image": "question-images/question-118.jpg"
   },
   {
     "id": 119,
@@ -2258,7 +2376,8 @@
     },
     "page": 16,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-16.jpg"
+    "page_image": "exam-pages/page-16.jpg",
+    "visual_image": "question-images/question-119.jpg"
   },
   {
     "id": 120,
@@ -2277,7 +2396,8 @@
     },
     "page": 16,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-16.jpg"
+    "page_image": "exam-pages/page-16.jpg",
+    "visual_image": "question-images/question-120.jpg"
   },
   {
     "id": 121,
@@ -2296,7 +2416,8 @@
     },
     "page": 16,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 122,
@@ -2315,7 +2436,8 @@
     },
     "page": 16,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-16.jpg"
+    "page_image": "exam-pages/page-16.jpg",
+    "visual_image": "question-images/question-122.jpg"
   },
   {
     "id": 123,
@@ -2334,7 +2456,8 @@
     },
     "page": 16,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-16.jpg"
+    "page_image": "exam-pages/page-16.jpg",
+    "visual_image": "question-images/question-123.jpg"
   },
   {
     "id": 124,
@@ -2353,7 +2476,8 @@
     },
     "page": 17,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-17.jpg"
+    "page_image": "exam-pages/page-17.jpg",
+    "visual_image": "question-images/question-124.jpg"
   },
   {
     "id": 125,
@@ -2372,7 +2496,8 @@
     },
     "page": 17,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-17.jpg"
+    "page_image": "exam-pages/page-17.jpg",
+    "visual_image": "question-images/question-125.jpg"
   },
   {
     "id": 126,
@@ -2391,7 +2516,8 @@
     },
     "page": 17,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-17.jpg"
+    "page_image": "exam-pages/page-17.jpg",
+    "visual_image": "question-images/question-126.jpg"
   },
   {
     "id": 127,
@@ -2410,7 +2536,8 @@
     },
     "page": 17,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 128,
@@ -2429,7 +2556,8 @@
     },
     "page": 17,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-17.jpg"
+    "page_image": "exam-pages/page-17.jpg",
+    "visual_image": "question-images/question-128.jpg"
   },
   {
     "id": 129,
@@ -2448,7 +2576,8 @@
     },
     "page": 17,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-17.jpg"
+    "page_image": "exam-pages/page-17.jpg",
+    "visual_image": "question-images/question-129.jpg"
   },
   {
     "id": 130,
@@ -2467,7 +2596,8 @@
     },
     "page": 17,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 131,
@@ -2486,7 +2616,8 @@
     },
     "page": 18,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-18.jpg"
+    "page_image": "exam-pages/page-18.jpg",
+    "visual_image": "question-images/question-131.jpg"
   },
   {
     "id": 132,
@@ -2505,7 +2636,8 @@
     },
     "page": 18,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-18.jpg"
+    "page_image": "exam-pages/page-18.jpg",
+    "visual_image": "question-images/question-132.jpg"
   },
   {
     "id": 133,
@@ -2524,7 +2656,8 @@
     },
     "page": 18,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-18.jpg"
+    "page_image": "exam-pages/page-18.jpg",
+    "visual_image": "question-images/question-133.jpg"
   },
   {
     "id": 134,
@@ -2543,7 +2676,8 @@
     },
     "page": 18,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-18.jpg"
+    "page_image": "exam-pages/page-18.jpg",
+    "visual_image": "question-images/question-134.jpg"
   },
   {
     "id": 135,
@@ -2562,7 +2696,8 @@
     },
     "page": 18,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-18.jpg"
+    "page_image": "exam-pages/page-18.jpg",
+    "visual_image": "question-images/question-135.jpg"
   },
   {
     "id": 136,
@@ -2581,7 +2716,8 @@
     },
     "page": 18,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-18.jpg"
+    "page_image": "exam-pages/page-18.jpg",
+    "visual_image": "question-images/question-136.jpg"
   },
   {
     "id": 137,
@@ -2600,7 +2736,8 @@
     },
     "page": 18,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-18.jpg"
+    "page_image": "exam-pages/page-18.jpg",
+    "visual_image": "question-images/question-137.jpg"
   },
   {
     "id": 138,
@@ -2619,7 +2756,8 @@
     },
     "page": 18,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 139,
@@ -2638,7 +2776,8 @@
     },
     "page": 19,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-19.jpg"
+    "page_image": "exam-pages/page-19.jpg",
+    "visual_image": "question-images/question-139.jpg"
   },
   {
     "id": 140,
@@ -2657,7 +2796,8 @@
     },
     "page": 19,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-19.jpg"
+    "page_image": "exam-pages/page-19.jpg",
+    "visual_image": "question-images/question-140.jpg"
   },
   {
     "id": 141,
@@ -2676,7 +2816,8 @@
     },
     "page": 19,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-19.jpg"
+    "page_image": "exam-pages/page-19.jpg",
+    "visual_image": "question-images/question-141.jpg"
   },
   {
     "id": 142,
@@ -2695,7 +2836,8 @@
     },
     "page": 19,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-19.jpg"
+    "page_image": "exam-pages/page-19.jpg",
+    "visual_image": "question-images/question-142.jpg"
   },
   {
     "id": 143,
@@ -2714,7 +2856,8 @@
     },
     "page": 19,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-19.jpg"
+    "page_image": "exam-pages/page-19.jpg",
+    "visual_image": "question-images/question-143.jpg"
   },
   {
     "id": 144,
@@ -2733,7 +2876,8 @@
     },
     "page": 19,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-19.jpg"
+    "page_image": "exam-pages/page-19.jpg",
+    "visual_image": "question-images/question-144.jpg"
   },
   {
     "id": 145,
@@ -2752,7 +2896,8 @@
     },
     "page": 19,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-19.jpg"
+    "page_image": "exam-pages/page-19.jpg",
+    "visual_image": "question-images/question-145.jpg"
   },
   {
     "id": 146,
@@ -2771,7 +2916,8 @@
     },
     "page": 20,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-20.jpg"
+    "page_image": "exam-pages/page-20.jpg",
+    "visual_image": "question-images/question-146.jpg"
   },
   {
     "id": 147,
@@ -2790,7 +2936,8 @@
     },
     "page": 20,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-20.jpg"
+    "page_image": "exam-pages/page-20.jpg",
+    "visual_image": "question-images/question-147.jpg"
   },
   {
     "id": 148,
@@ -2809,7 +2956,8 @@
     },
     "page": 20,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 149,
@@ -2828,7 +2976,8 @@
     },
     "page": 20,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 150,
@@ -2847,7 +2996,8 @@
     },
     "page": 20,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 151,
@@ -2866,7 +3016,8 @@
     },
     "page": 20,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 152,
@@ -2885,7 +3036,8 @@
     },
     "page": 20,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 153,
@@ -2904,7 +3056,8 @@
     },
     "page": 20,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 154,
@@ -2923,7 +3076,8 @@
     },
     "page": 20,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 155,
@@ -2942,7 +3096,8 @@
     },
     "page": 21,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-21.jpg"
+    "page_image": "exam-pages/page-21.jpg",
+    "visual_image": "question-images/question-155.jpg"
   },
   {
     "id": 156,
@@ -2961,7 +3116,8 @@
     },
     "page": 21,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 157,
@@ -2980,7 +3136,8 @@
     },
     "page": 21,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-21.jpg"
+    "page_image": "exam-pages/page-21.jpg",
+    "visual_image": "question-images/question-157.jpg"
   },
   {
     "id": 158,
@@ -2999,7 +3156,8 @@
     },
     "page": 21,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 159,
@@ -3018,7 +3176,8 @@
     },
     "page": 21,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 160,
@@ -3037,7 +3196,8 @@
     },
     "page": 21,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-21.jpg"
+    "page_image": "exam-pages/page-21.jpg",
+    "visual_image": "question-images/question-160.jpg"
   },
   {
     "id": 161,
@@ -3056,7 +3216,8 @@
     },
     "page": 21,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 162,
@@ -3075,7 +3236,8 @@
     },
     "page": 21,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 163,
@@ -3094,7 +3256,8 @@
     },
     "page": 21,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 164,
@@ -3113,7 +3276,8 @@
     },
     "page": 22,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 165,
@@ -3132,7 +3296,8 @@
     },
     "page": 22,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 166,
@@ -3151,7 +3316,8 @@
     },
     "page": 22,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-22.jpg"
+    "page_image": "exam-pages/page-22.jpg",
+    "visual_image": "question-images/question-166.jpg"
   },
   {
     "id": 167,
@@ -3170,7 +3336,8 @@
     },
     "page": 22,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 168,
@@ -3189,7 +3356,8 @@
     },
     "page": 22,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 169,
@@ -3208,7 +3376,8 @@
     },
     "page": 22,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 170,
@@ -3227,7 +3396,8 @@
     },
     "page": 22,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-22.jpg"
+    "page_image": "exam-pages/page-22.jpg",
+    "visual_image": "question-images/question-170.jpg"
   },
   {
     "id": 171,
@@ -3246,7 +3416,8 @@
     },
     "page": 23,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 172,
@@ -3265,7 +3436,8 @@
     },
     "page": 23,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 173,
@@ -3284,7 +3456,8 @@
     },
     "page": 23,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-23.jpg"
+    "page_image": "exam-pages/page-23.jpg",
+    "visual_image": "question-images/question-173.jpg"
   },
   {
     "id": 174,
@@ -3303,7 +3476,8 @@
     },
     "page": 23,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-23.jpg"
+    "page_image": "exam-pages/page-23.jpg",
+    "visual_image": "question-images/question-174.jpg"
   },
   {
     "id": 175,
@@ -3322,7 +3496,8 @@
     },
     "page": 23,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 176,
@@ -3341,7 +3516,8 @@
     },
     "page": 23,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 177,
@@ -3360,7 +3536,8 @@
     },
     "page": 23,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 178,
@@ -3379,7 +3556,8 @@
     },
     "page": 23,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 179,
@@ -3398,7 +3576,8 @@
     },
     "page": 23,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 180,
@@ -3417,7 +3596,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 181,
@@ -3436,7 +3616,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 182,
@@ -3455,7 +3636,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 183,
@@ -3474,7 +3656,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 184,
@@ -3493,7 +3676,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 185,
@@ -3512,7 +3696,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 186,
@@ -3531,7 +3716,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 187,
@@ -3550,7 +3736,8 @@
     },
     "page": 24,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 188,
@@ -3569,7 +3756,8 @@
     },
     "page": 25,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 189,
@@ -3588,7 +3776,8 @@
     },
     "page": 25,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 190,
@@ -3607,7 +3796,8 @@
     },
     "page": 25,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 191,
@@ -3626,7 +3816,8 @@
     },
     "page": 25,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 192,
@@ -3645,7 +3836,8 @@
     },
     "page": 25,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 193,
@@ -3664,7 +3856,8 @@
     },
     "page": 25,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 194,
@@ -3683,7 +3876,8 @@
     },
     "page": 25,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-25.jpg"
+    "page_image": "exam-pages/page-25.jpg",
+    "visual_image": "question-images/question-194.jpg"
   },
   {
     "id": 195,
@@ -3702,7 +3896,8 @@
     },
     "page": 25,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-25.jpg"
+    "page_image": "exam-pages/page-25.jpg",
+    "visual_image": "question-images/question-195.jpg"
   },
   {
     "id": 196,
@@ -3721,7 +3916,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 197,
@@ -3740,7 +3936,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 198,
@@ -3759,7 +3956,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 199,
@@ -3778,7 +3976,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 200,
@@ -3797,7 +3996,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 201,
@@ -3816,7 +4016,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 202,
@@ -3835,7 +4036,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 203,
@@ -3854,7 +4056,8 @@
     },
     "page": 26,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 204,
@@ -3873,7 +4076,8 @@
     },
     "page": 27,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-27.jpg"
+    "page_image": "exam-pages/page-27.jpg",
+    "visual_image": "question-images/question-204.jpg"
   },
   {
     "id": 205,
@@ -3892,7 +4096,8 @@
     },
     "page": 27,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 206,
@@ -3911,7 +4116,8 @@
     },
     "page": 27,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 207,
@@ -3930,7 +4136,8 @@
     },
     "page": 27,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 208,
@@ -3949,7 +4156,8 @@
     },
     "page": 27,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 209,
@@ -3968,7 +4176,8 @@
     },
     "page": 27,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 210,
@@ -3987,7 +4196,8 @@
     },
     "page": 27,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 211,
@@ -4006,7 +4216,8 @@
     },
     "page": 27,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 212,
@@ -4025,7 +4236,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 213,
@@ -4044,7 +4256,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 214,
@@ -4063,7 +4276,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 215,
@@ -4082,7 +4296,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 216,
@@ -4101,7 +4316,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 217,
@@ -4120,7 +4336,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 218,
@@ -4139,7 +4356,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 219,
@@ -4158,7 +4376,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 220,
@@ -4177,7 +4396,8 @@
     },
     "page": 28,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 221,
@@ -4196,7 +4416,8 @@
     },
     "page": 29,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 222,
@@ -4215,7 +4436,8 @@
     },
     "page": 29,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 223,
@@ -4234,7 +4456,8 @@
     },
     "page": 29,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 224,
@@ -4253,7 +4476,8 @@
     },
     "page": 29,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-29.jpg"
+    "page_image": "exam-pages/page-29.jpg",
+    "visual_image": "question-images/question-224.jpg"
   },
   {
     "id": 225,
@@ -4272,7 +4496,8 @@
     },
     "page": 29,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 226,
@@ -4291,7 +4516,8 @@
     },
     "page": 29,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 227,
@@ -4310,7 +4536,8 @@
     },
     "page": 29,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 228,
@@ -4329,7 +4556,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 229,
@@ -4348,7 +4576,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 230,
@@ -4367,7 +4596,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 231,
@@ -4386,7 +4616,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 232,
@@ -4405,7 +4636,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 233,
@@ -4424,7 +4656,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 234,
@@ -4443,7 +4676,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 235,
@@ -4462,7 +4696,8 @@
     },
     "page": 30,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 236,
@@ -4481,7 +4716,8 @@
     },
     "page": 31,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 237,
@@ -4500,7 +4736,8 @@
     },
     "page": 31,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 238,
@@ -4519,7 +4756,8 @@
     },
     "page": 31,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 239,
@@ -4538,7 +4776,8 @@
     },
     "page": 31,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 240,
@@ -4557,7 +4796,8 @@
     },
     "page": 31,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 241,
@@ -4576,7 +4816,8 @@
     },
     "page": 31,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-31.jpg"
+    "page_image": "exam-pages/page-31.jpg",
+    "visual_image": "question-images/question-241.jpg"
   },
   {
     "id": 242,
@@ -4595,7 +4836,8 @@
     },
     "page": 31,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-31.jpg"
+    "page_image": "exam-pages/page-31.jpg",
+    "visual_image": "question-images/question-242.jpg"
   },
   {
     "id": 243,
@@ -4614,7 +4856,8 @@
     },
     "page": 32,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-32.jpg"
+    "page_image": "exam-pages/page-32.jpg",
+    "visual_image": "question-images/question-243.jpg"
   },
   {
     "id": 244,
@@ -4633,7 +4876,8 @@
     },
     "page": 32,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 245,
@@ -4652,7 +4896,8 @@
     },
     "page": 32,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 246,
@@ -4671,7 +4916,8 @@
     },
     "page": 32,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 247,
@@ -4690,7 +4936,8 @@
     },
     "page": 32,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-32.jpg"
+    "page_image": "exam-pages/page-32.jpg",
+    "visual_image": "question-images/question-247.jpg"
   },
   {
     "id": 248,
@@ -4709,7 +4956,8 @@
     },
     "page": 32,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 249,
@@ -4728,7 +4976,8 @@
     },
     "page": 32,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-32.jpg"
+    "page_image": "exam-pages/page-32.jpg",
+    "visual_image": "question-images/question-249.jpg"
   },
   {
     "id": 250,
@@ -4747,7 +4996,8 @@
     },
     "page": 32,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 251,
@@ -4766,7 +5016,8 @@
     },
     "page": 33,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-33.jpg"
+    "page_image": "exam-pages/page-33.jpg",
+    "visual_image": "question-images/question-251.jpg"
   },
   {
     "id": 252,
@@ -4785,7 +5036,8 @@
     },
     "page": 33,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 253,
@@ -4804,7 +5056,8 @@
     },
     "page": 33,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 254,
@@ -4823,7 +5076,8 @@
     },
     "page": 33,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 255,
@@ -4842,7 +5096,8 @@
     },
     "page": 33,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-33.jpg"
+    "page_image": "exam-pages/page-33.jpg",
+    "visual_image": "question-images/question-255.jpg"
   },
   {
     "id": 256,
@@ -4861,7 +5116,8 @@
     },
     "page": 33,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 257,
@@ -4880,7 +5136,8 @@
     },
     "page": 33,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 258,
@@ -4899,7 +5156,8 @@
     },
     "page": 33,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 259,
@@ -4918,7 +5176,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 260,
@@ -4937,7 +5196,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 261,
@@ -4956,7 +5216,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 262,
@@ -4975,7 +5236,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 263,
@@ -4994,7 +5256,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 264,
@@ -5013,7 +5276,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 265,
@@ -5032,7 +5296,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 266,
@@ -5051,7 +5316,8 @@
     },
     "page": 34,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 267,
@@ -5070,7 +5336,8 @@
     },
     "page": 35,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 268,
@@ -5089,7 +5356,8 @@
     },
     "page": 35,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 269,
@@ -5108,7 +5376,8 @@
     },
     "page": 35,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 270,
@@ -5127,7 +5396,8 @@
     },
     "page": 35,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 271,
@@ -5146,7 +5416,8 @@
     },
     "page": 35,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 272,
@@ -5165,7 +5436,8 @@
     },
     "page": 35,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 273,
@@ -5184,7 +5456,8 @@
     },
     "page": 35,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 274,
@@ -5203,7 +5476,8 @@
     },
     "page": 36,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 275,
@@ -5222,7 +5496,8 @@
     },
     "page": 36,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 276,
@@ -5241,7 +5516,8 @@
     },
     "page": 36,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 277,
@@ -5260,7 +5536,8 @@
     },
     "page": 36,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 278,
@@ -5279,7 +5556,8 @@
     },
     "page": 36,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-36.jpg"
+    "page_image": "exam-pages/page-36.jpg",
+    "visual_image": "question-images/question-278.jpg"
   },
   {
     "id": 279,
@@ -5298,7 +5576,8 @@
     },
     "page": 36,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 280,
@@ -5317,7 +5596,8 @@
     },
     "page": 36,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 281,
@@ -5336,7 +5616,8 @@
     },
     "page": 37,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 282,
@@ -5355,7 +5636,8 @@
     },
     "page": 37,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 283,
@@ -5374,7 +5656,8 @@
     },
     "page": 37,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 284,
@@ -5393,7 +5676,8 @@
     },
     "page": 37,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 285,
@@ -5412,7 +5696,8 @@
     },
     "page": 37,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 286,
@@ -5431,7 +5716,8 @@
     },
     "page": 37,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 287,
@@ -5450,7 +5736,8 @@
     },
     "page": 38,
     "has_visual_reference": true,
-    "page_image": "exam-pages/page-38.jpg"
+    "page_image": "exam-pages/page-38.jpg",
+    "visual_image": "question-images/question-287.jpg"
   },
   {
     "id": 288,
@@ -5469,7 +5756,8 @@
     },
     "page": 38,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 289,
@@ -5488,7 +5776,8 @@
     },
     "page": 38,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 290,
@@ -5507,7 +5796,8 @@
     },
     "page": 38,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 291,
@@ -5526,7 +5816,8 @@
     },
     "page": 38,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 292,
@@ -5545,7 +5836,8 @@
     },
     "page": 38,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 293,
@@ -5564,7 +5856,8 @@
     },
     "page": 38,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 294,
@@ -5583,7 +5876,8 @@
     },
     "page": 39,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 295,
@@ -5602,7 +5896,8 @@
     },
     "page": 39,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 296,
@@ -5621,7 +5916,8 @@
     },
     "page": 39,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 297,
@@ -5640,7 +5936,8 @@
     },
     "page": 39,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 298,
@@ -5659,7 +5956,8 @@
     },
     "page": 39,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 299,
@@ -5678,7 +5976,8 @@
     },
     "page": 39,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 300,
@@ -5697,7 +5996,8 @@
     },
     "page": 40,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   },
   {
     "id": 301,
@@ -5716,6 +6016,7 @@
     },
     "page": 40,
     "has_visual_reference": false,
-    "page_image": null
+    "page_image": null,
+    "visual_image": null
   }
 ]

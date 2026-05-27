@@ -12,6 +12,7 @@ export type Question = {
   page: number;
   has_visual_reference: boolean;
   page_image: string | null;
+  visual_image: string | null;
 };
 
 export type QuestionRecord = {

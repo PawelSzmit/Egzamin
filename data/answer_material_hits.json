@@ -1,0 +1,9483 @@
+[
+  {
+    "id": 1,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "obrotowy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "obrotowy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "obrotowy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "szybrowy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "szybrowy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "szybrowy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jeden",
+          "rodzajow"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jeden",
+          "rodzajow"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "balastem",
+          "jeden",
+          "rodzajow"
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "baksztag",
+          "fordewind",
+          "kursach",
+          "nych"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "baksztag",
+          "fordewind",
+          "kursach"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "baksztag",
+          "fordewind",
+          "kursach",
+          "nych"
+        ]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "dolny",
+          "liku",
+          "przednim",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dolny",
+          "liku",
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dolny",
+          "liku",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "szotowy",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "szotowy",
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "szotowy",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 7,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "aczony",
+          "bomu",
+          "czesto",
+          "masztu",
+          "system"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bomu",
+          "czesto",
+          "masztu",
+          "system"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bomu",
+          "czesto",
+          "masztu",
+          "system"
+        ]
+      }
+    }
+  },
+  {
+    "id": 8,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "stepka"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "stepka"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 9,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wregi"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 10,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "ajaca",
+          "dzia",
+          "line",
+          "opuszczania",
+          "przeciwnie",
+          "uzaca",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "ajaca",
+          "dzia",
+          "uzaca",
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "ajaca",
+          "dzia",
+          "line",
+          "opuszczania",
+          "przeciwnie",
+          "uzaca",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 11,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 12,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "barierka",
+          "otaczajaca"
+        ]
+      }
+    }
+  },
+  {
+    "id": 13,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "ktorym"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "drzewce",
+          "ktorym"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bandere",
+          "drzewce",
+          "ktorym",
+          "podnosi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 14,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "lina",
+          "prostopadle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "biegnaca",
+          "lina",
+          "nabrzeza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "biegnaca",
+          "lina",
+          "nabrzeza",
+          "prostopadle"
+        ]
+      }
+    }
+  },
+  {
+    "id": 15,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "masztem"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "gafel"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "masztem"
+        ]
+      }
+    }
+  },
+  {
+    "id": 16,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pieta"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pieta"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pieta"
+        ]
+      }
+    }
+  },
+  {
+    "id": 17,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "bomu",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "bomu",
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bomu",
+          "nawijanie",
+          "pozwalajacy",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 18,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "przedni"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "przedni"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "przedni"
+        ]
+      }
+    }
+  },
+  {
+    "id": 19,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 20,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "kambuz"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 21,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dziob",
+          "pawezy",
+          "rufa"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dziob",
+          "pawezy",
+          "rufa"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "dziob",
+          "ostro",
+          "pawezy",
+          "rufa"
+        ]
+      }
+    }
+  },
+  {
+    "id": 22,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "benzyna"
+        ]
+      }
+    }
+  },
+  {
+    "id": 23,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "przestrzen",
+          "ster",
+          "szoty",
+          "ugiwac",
+          "urzadzenia",
+          "zagli"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "przestrzen",
+          "ster",
+          "szoty",
+          "urzadzenia",
+          "zagli"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "przestrzen",
+          "ster",
+          "szoty",
+          "ugiwac",
+          "urzadzenia",
+          "zagli"
+        ]
+      }
+    }
+  },
+  {
+    "id": 24,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "admiralicji"
+        ]
+      }
+    }
+  },
+  {
+    "id": 25,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 26,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bomu",
+          "ustawiania",
+          "wysokosci",
+          "zagli"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "bomu",
+          "ustawiania",
+          "zagli"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bomu",
+          "wysokosci",
+          "zagli",
+          "zapobiegajaca"
+        ]
+      }
+    }
+  },
+  {
+    "id": 27,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "ktorej",
+          "pasy",
+          "tkaniny",
+          "zagiel"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "ktorej",
+          "tkaniny",
+          "uszyty",
+          "zagiel"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "ktorej",
+          "pasy",
+          "tkaniny",
+          "zagiel"
+        ]
+      }
+    }
+  },
+  {
+    "id": 28,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "adzie",
+          "cegach",
+          "umieszczonych"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "adzie",
+          "cegach"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "adzie",
+          "cegach"
+        ]
+      }
+    }
+  },
+  {
+    "id": 29,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "kipy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "kipy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "kipy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 30,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "duza",
+          "szotow",
+          "umozliwiajace"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "szotow",
+          "umozliwiajace",
+          "wybieranie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "duza",
+          "szotow",
+          "umozliwiajace",
+          "wybieranie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 31,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 32,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "refsejzingami",
+          "remizkami",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "refsejzingami",
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "refsejzingami",
+          "remizkami",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 33,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "bezan"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "bezan"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 34,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "salingi"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "salingi"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "salingi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 35,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "manewrach",
+          "wybierania",
+          "zagli"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "luzowania",
+          "wybierania",
+          "zagli"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "wybierania",
+          "zagli"
+        ]
+      }
+    }
+  },
+  {
+    "id": 36,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "rufowe",
+          "zakonczenie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "rufowe",
+          "zakonczenie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 37,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dziobu",
+          "rufy",
+          "strone"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dziobu",
+          "rufy",
+          "strone"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dziobu",
+          "rufy",
+          "strone"
+        ]
+      }
+    }
+  },
+  {
+    "id": 38,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "genua"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "genua"
+        ]
+      }
+    }
+  },
+  {
+    "id": 39,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "szekle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "szekle"
+        ]
+      }
+    }
+  },
+  {
+    "id": 40,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "awarii",
+          "jego",
+          "nieniu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "jego"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "awarii",
+          "jego",
+          "zapewnienia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 41,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "miecza"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "miecza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "miecza"
+        ]
+      }
+    }
+  },
+  {
+    "id": 42,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 43,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "adnie",
+          "butli",
+          "zamknac",
+          "zawor"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "adnie",
+          "butli",
+          "zamknac",
+          "zawor"
+        ]
+      }
+    }
+  },
+  {
+    "id": 44,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 45,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "slup"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "slup"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 46,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "mocowania"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "mocowania"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "mocowania"
+        ]
+      }
+    }
+  },
+  {
+    "id": 47,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "pomoca",
+          "srodkiem",
+          "zmywania"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pomoca",
+          "srodkiem"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pomoca",
+          "srodkiem"
+        ]
+      }
+    }
+  },
+  {
+    "id": 48,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "okucie",
+          "otwor",
+          "prowadzenia",
+          "uzace"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "okucie",
+          "otwor",
+          "prowadzenia",
+          "uzace"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "okucie",
+          "otwor",
+          "prowadzenia",
+          "szpringow",
+          "uzace"
+        ]
+      }
+    }
+  },
+  {
+    "id": 49,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "otworu",
+          "silnikiem",
+          "ywajaca"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "silnikiem",
+          "struga",
+          "ywajaca"
+        ]
+      }
+    }
+  },
+  {
+    "id": 50,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 51,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "czesci",
+          "umieszczona"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czesci",
+          "skrzyni",
+          "umieszczona"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "czesci",
+          "skrzyni",
+          "srodkowej",
+          "umieszczona"
+        ]
+      }
+    }
+  },
+  {
+    "id": 52,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 53,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dobrze"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dobrze"
+        ]
+      }
+    }
+  },
+  {
+    "id": 54,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "bomu",
+          "zagiel",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bomu",
+          "linki",
+          "mocujace",
+          "zagiel",
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bomu",
+          "mocujace",
+          "zagiel",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 55,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "etwa",
+          "steru"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "etwa",
+          "steru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "etwa",
+          "steru"
+        ]
+      }
+    }
+  },
+  {
+    "id": 56,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "czesci",
+          "rufowej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czesci",
+          "pomieszczenie",
+          "rufowej"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "czesci",
+          "pomieszczenie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 57,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 58,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "owieka",
+          "podchodzic",
+          "rufe",
+          "wykonac",
+          "zwrot"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "owieka",
+          "rufe",
+          "sztag",
+          "wykonac",
+          "zwrot"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "natychmiast",
+          "owieka",
+          "podchodzic",
+          "rufe",
+          "sztag",
+          "wykonac",
+          "zwrot"
+        ]
+      }
+    }
+  },
+  {
+    "id": 59,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "etwe",
+          "lewo",
+          "ozeniu",
+          "steru",
+          "ustawic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "lewo",
+          "ozeniu",
+          "steru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "etwe",
+          "lewo",
+          "ozeniu",
+          "steru",
+          "ustawic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 60,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "lewo",
+          "ster",
+          "wiatr"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "lewo",
+          "ster",
+          "wiatr"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "lewo",
+          "ster",
+          "wiatr"
+        ]
+      }
+    }
+  },
+  {
+    "id": 61,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "bedzie",
+          "prawo",
+          "rufa"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "prawo",
+          "rufa"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "bedzie",
+          "prawo",
+          "rufa"
+        ]
+      }
+    }
+  },
+  {
+    "id": 62,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "burt",
+          "krotko",
+          "prawo",
+          "silnik",
+          "ster",
+          "stop"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "burt",
+          "naprzod",
+          "prawo",
+          "silnik",
+          "ster"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "burt",
+          "krotko",
+          "naprzod",
+          "prawo",
+          "silnik",
+          "ster",
+          "stop"
+        ]
+      }
+    }
+  },
+  {
+    "id": 63,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "cumy",
+          "dziobowa",
+          "ozyc",
+          "powoli",
+          "rufowe",
+          "silnik",
+          "stop",
+          "stosownie",
+          "ustawic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "cumach",
+          "cume",
+          "cumy",
+          "dziobowa",
+          "naprzod",
+          "potrzeby",
+          "powoli",
+          "silnik"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 13,
+        "keywords": [
+          "cumach",
+          "cume",
+          "cumy",
+          "dziobowa",
+          "luzowac",
+          "naprzod",
+          "ozyc",
+          "powoli",
+          "rufowe",
+          "silnik",
+          "stop",
+          "stosownie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 64,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "wiatr",
+          "zagli"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "wiatr",
+          "zagli"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "wiatr",
+          "zagli"
+        ]
+      }
+    }
+  },
+  {
+    "id": 65,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "grot",
+          "linii",
+          "nastepnie",
+          "ozyc",
+          "przed",
+          "wiatru",
+          "zrzucic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "biegowo",
+          "cume",
+          "grot",
+          "linii",
+          "nastepnie",
+          "przed",
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "biegowo",
+          "cume",
+          "grot",
+          "linii",
+          "nastepnie",
+          "ozyc",
+          "przed",
+          "wiatru",
+          "zrzucic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 66,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "czesci",
+          "dziobem",
+          "halsem",
+          "lewym",
+          "postawic",
+          "wiatru",
+          "zagle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "czesci",
+          "dziobem",
+          "halsem",
+          "lewym",
+          "pomostu",
+          "wiatru",
+          "zagle"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "czesci",
+          "dziobem",
+          "halsem",
+          "lewym",
+          "pomostu",
+          "postawic",
+          "wiatru",
+          "zagle"
+        ]
+      }
+    }
+  },
+  {
+    "id": 67,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "kiedy",
+          "kierunku",
+          "kursu",
+          "nieco",
+          "ostrym",
+          "wiekszym",
+          "ynac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "kiedy",
+          "kierunku",
+          "kursu",
+          "ostrym",
+          "ynac"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "kiedy",
+          "kierunku",
+          "kursu",
+          "nieco",
+          "obiekt",
+          "ostrym",
+          "wiekszym",
+          "ynac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 68,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "burte",
+          "foka",
+          "grot",
+          "kiedy",
+          "maksymalnie",
+          "opot",
+          "ster",
+          "szot",
+          "zagle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "burte",
+          "foka",
+          "grot",
+          "kiedy",
+          "luzujemy",
+          "ster",
+          "szot",
+          "wybieramy",
+          "zagle"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 12,
+        "keywords": [
+          "burte",
+          "dajemy",
+          "foka",
+          "grot",
+          "kiedy",
+          "luzujemy",
+          "maksymalnie",
+          "opot",
+          "ster",
+          "szot",
+          "wybieramy",
+          "zagle"
+        ]
+      }
+    }
+  },
+  {
+    "id": 69,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "hals",
+          "ozyc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "biegowo",
+          "cume",
+          "hals"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "biegowo",
+          "cume",
+          "hals",
+          "ozyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 70,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "acznik",
+          "akumulatorow",
+          "owny"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "owny"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "acznik",
+          "aczyc",
+          "akumulatorow",
+          "natychmiast",
+          "owny"
+        ]
+      }
+    }
+  },
+  {
+    "id": 71,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "dziobem",
+          "dziobowa",
+          "ozyc",
+          "rufowa",
+          "ustawic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "boje",
+          "cumami",
+          "cume",
+          "dziobem",
+          "dziobowa",
+          "nabrzeza",
+          "rufowa"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 14,
+        "keywords": [
+          "biegu",
+          "boje",
+          "cumami",
+          "cume",
+          "dziobem",
+          "dziobowa",
+          "luzowac",
+          "nabrzeza",
+          "ozyc",
+          "podejsc",
+          "pracujac",
+          "rufowa"
+        ]
+      }
+    }
+  },
+  {
+    "id": 72,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 73,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "cumy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "cumy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "cumy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 74,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 75,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "balastowania",
+          "dodatnia",
+          "duzych",
+          "jaka",
+          "katach",
+          "niezatapialny",
+          "przechy",
+          "statecznosc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "duzych",
+          "przechy",
+          "statecznosc"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "dodatnia",
+          "duzych",
+          "jaka",
+          "katach",
+          "niezatapialny",
+          "przechy",
+          "statecznosc",
+          "wymaga"
+        ]
+      }
+    }
+  },
+  {
+    "id": 76,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "instrukcja",
+          "silnika"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "instrukcja",
+          "silnika"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "instrukcja",
+          "silnika"
+        ]
+      }
+    }
+  },
+  {
+    "id": 77,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "gdyz",
+          "niebezpieczenstwo",
+          "tworzy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "gdyz",
+          "tworzy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "gdyz",
+          "niebezpieczenstwo",
+          "tworzy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 78,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "maszt",
+          "ozyc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "maszt"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "maszt",
+          "ozyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 79,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 80,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "innego",
+          "kiem",
+          "sruby"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "aczenie",
+          "zabezpieczenia"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "aczenie",
+          "innego",
+          "kiem",
+          "sruby"
+        ]
+      }
+    }
+  },
+  {
+    "id": 81,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "pantografie",
+          "silnik",
+          "zmniejszyc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "silnik"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "aczyc",
+          "obroty",
+          "pantografie",
+          "silnik",
+          "zmniejszyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 82,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "duzo",
+          "oleju",
+          "zbyt"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "duzo",
+          "oleju",
+          "zbyt"
+        ]
+      }
+    }
+  },
+  {
+    "id": 83,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "korek",
+          "pewnej",
+          "przestrzeni",
+          "wlewu",
+          "zbiorniku"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "pewnej",
+          "wlewu",
+          "zaworek",
+          "zbiorniku"
+        ]
+      }
+    }
+  },
+  {
+    "id": 84,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 85,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "bedzie",
+          "kierunku",
+          "obrotow",
+          "skreca",
+          "sruby",
+          "zaleznosci"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kierunku",
+          "zaleznosci"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bedzie",
+          "kierunku",
+          "skreca",
+          "sruby",
+          "zaleznosci"
+        ]
+      }
+    }
+  },
+  {
+    "id": 86,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "kowite"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "szota"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kowite",
+          "szota"
+        ]
+      }
+    }
+  },
+  {
+    "id": 87,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "prad"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "prad"
+        ]
+      }
+    }
+  },
+  {
+    "id": 88,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "bedzie",
+          "dziob",
+          "lewo",
+          "rufa",
+          "ster",
+          "strone"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "dziob",
+          "lewo",
+          "pomostu",
+          "rufa",
+          "ster",
+          "strone"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bedzie",
+          "dziob",
+          "lewo",
+          "pomostu",
+          "rufa",
+          "ster",
+          "strone"
+        ]
+      }
+    }
+  },
+  {
+    "id": 89,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 10,
+        "keywords": [
+          "ebokosc",
+          "jaka",
+          "kotwice",
+          "liny",
+          "miejscu",
+          "odpowiednia",
+          "przygotowac",
+          "ugosc",
+          "upewnic",
+          "zagle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "kotwice",
+          "kotwiczenia",
+          "liny",
+          "miejscu",
+          "przygotowac",
+          "zagle",
+          "zrzucenia"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 12,
+        "keywords": [
+          "ebokosc",
+          "jaka",
+          "kotwice",
+          "kotwiczenia",
+          "liny",
+          "miejscu",
+          "odpowiednia",
+          "przygotowac",
+          "ugosc",
+          "upewnic",
+          "zagle",
+          "zrzucenia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 90,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 91,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "gotowosci",
+          "ozyc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "luzowania"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "gotowosci",
+          "ozyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 92,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 93,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "adzie",
+          "cumy",
+          "drugi",
+          "jeden",
+          "koniec",
+          "ladzie",
+          "urzadzenie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "adzie",
+          "cumy",
+          "drugi",
+          "jeden",
+          "koniec"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "adzie",
+          "cumy",
+          "drugi",
+          "jeden",
+          "koniec",
+          "ladzie",
+          "urzadzenie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 94,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "grot",
+          "linii",
+          "oceny",
+          "sternika",
+          "wiatru"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "grot",
+          "linii",
+          "sternika",
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "grot",
+          "linii",
+          "sternika",
+          "wiatru"
+        ]
+      }
+    }
+  },
+  {
+    "id": 95,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "dziobem",
+          "grot",
+          "nastepnie",
+          "postawic",
+          "silnik",
+          "szybkosci",
+          "ustawic",
+          "wiatru"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "dziobem",
+          "grot",
+          "nastepnie",
+          "silnik",
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "dziobem",
+          "grot",
+          "nastepnie",
+          "postawic",
+          "silnik",
+          "szybkosci",
+          "ustawic",
+          "wiatru"
+        ]
+      }
+    }
+  },
+  {
+    "id": 96,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "halsowy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "halsowy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "halsowy",
+          "wybierac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 97,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dziobie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dziobie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 98,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "cumy",
+          "dziobowej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "cumy",
+          "dziobowej"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "cumy",
+          "dziobowej",
+          "rufowego"
+        ]
+      }
+    }
+  },
+  {
+    "id": 99,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jednostek",
+          "sportowych",
+          "zakaz"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jednostek",
+          "sportowych"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "jednostek",
+          "sportowych",
+          "wejscia",
+          "ywac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 100,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "oznacza",
+          "przejscia"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "oznacza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "oznacza",
+          "przejscia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 101,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "ebokosci",
+          "odpowiednio"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "ebokosci",
+          "odpowiednio"
+        ]
+      }
+    }
+  },
+  {
+    "id": 102,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "predkosci"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "predkosci"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "predkosci"
+        ]
+      }
+    }
+  },
+  {
+    "id": 103,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zachowania"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zachowania"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zachowania"
+        ]
+      }
+    }
+  },
+  {
+    "id": 104,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "albo",
+          "innych",
+          "kierunek",
+          "obiektow",
+          "para"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "albo",
+          "innych",
+          "kierunek",
+          "staw"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "albo",
+          "innych",
+          "kierunek",
+          "obiektow",
+          "para",
+          "staw"
+        ]
+      }
+    }
+  },
+  {
+    "id": 105,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "brzegu",
+          "prawego",
+          "przebieg",
+          "szlaku"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "brzegu",
+          "szlaku"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "brzegu",
+          "prawego",
+          "przebieg",
+          "szlaku"
+        ]
+      }
+    }
+  },
+  {
+    "id": 106,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "bezpiecznej",
+          "dalsze",
+          "nich",
+          "poczatek",
+          "toru",
+          "wodnego",
+          "ynac",
+          "znak",
+          "znaki"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "wodnego",
+          "ynac",
+          "znaki"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "bezpiecznej",
+          "nich",
+          "obserwowac",
+          "toru",
+          "wodnego",
+          "ynac",
+          "znak",
+          "znaki"
+        ]
+      }
+    }
+  },
+  {
+    "id": 107,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "znakiem"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "znakiem"
+        ]
+      }
+    }
+  },
+  {
+    "id": 108,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burcie",
+          "prawej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burcie",
+          "prawej"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burcie",
+          "prawej"
+        ]
+      }
+    }
+  },
+  {
+    "id": 109,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "cumy",
+          "miare",
+          "ozyc",
+          "podnoszenia"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "biegowo",
+          "cumy",
+          "podnoszenia"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "biegowo",
+          "cumy",
+          "luzowac",
+          "miare",
+          "ozyc",
+          "podnoszenia",
+          "wybierac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 110,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "przejscia",
+          "zakaz"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "przejscia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 111,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "burta",
+          "lewa",
+          "strone",
+          "szlaku",
+          "zeglownego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "burta",
+          "lewa",
+          "strone",
+          "szlaku"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "burta",
+          "lewa",
+          "strone",
+          "szlaku",
+          "zeglownego"
+        ]
+      }
+    }
+  },
+  {
+    "id": 112,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "miedzy",
+          "pomiedzy",
+          "przejscie",
+          "zielonymi",
+          "znakami"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "miedzy",
+          "pomiedzy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "miedzy",
+          "pomiedzy",
+          "przejscie",
+          "znakami"
+        ]
+      }
+    }
+  },
+  {
+    "id": 113,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dozwolone"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dozwolone"
+        ]
+      }
+    }
+  },
+  {
+    "id": 114,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "przep",
+          "rzeki"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rzeki"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "przep",
+          "rzeki"
+        ]
+      }
+    }
+  },
+  {
+    "id": 115,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "pitnej",
+          "punkt",
+          "strone"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "punkt",
+          "strone"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "punkt",
+          "strone"
+        ]
+      }
+    }
+  },
+  {
+    "id": 116,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bezpiecznej",
+          "brzegu",
+          "miejsce",
+          "niebezpieczne",
+          "odleg",
+          "osci",
+          "prawym"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bezpiecznej",
+          "brzegu",
+          "miejsce",
+          "niebezpieczne",
+          "odleg",
+          "osci",
+          "prawym"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bezpiecznej",
+          "brzegu",
+          "miejsce",
+          "niebezpieczne",
+          "odleg",
+          "osci",
+          "prawym"
+        ]
+      }
+    }
+  },
+  {
+    "id": 117,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "akwenie",
+          "akwenu",
+          "tego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "tego"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "akwenie",
+          "akwenu",
+          "sportowe",
+          "tego",
+          "ywac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 118,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "przep",
+          "przygotowac",
+          "tego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "przygotowac",
+          "tego"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "przep",
+          "przygotowac",
+          "tego",
+          "ywac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 119,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "masztu",
+          "ozeniu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "masztu",
+          "ozeniu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "masztu",
+          "ozeniu",
+          "przejsc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 120,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "fali",
+          "zmniejszyc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "fali",
+          "zmniejszyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 121,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "mostu",
+          "wysokosc",
+          "wystarczajaca"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "mostu",
+          "wysokosc",
+          "wystarczajaca"
+        ]
+      }
+    }
+  },
+  {
+    "id": 122,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "cumowania",
+          "odleg",
+          "ugosc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "cumowania",
+          "odleg"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "cumowania",
+          "odleg",
+          "ugosc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 123,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burta",
+          "prawa"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burta",
+          "prawa"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burta",
+          "prawa"
+        ]
+      }
+    }
+  },
+  {
+    "id": 124,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "kana",
+          "prawej",
+          "stronie",
+          "znaku"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "prawej",
+          "stronie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "kana",
+          "prawej",
+          "stronie",
+          "znaku"
+        ]
+      }
+    }
+  },
+  {
+    "id": 125,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "przejscia",
+          "zakaz"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "przejscia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 126,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "moze",
+          "niebezpieczenstwo",
+          "prad",
+          "przep",
+          "silny",
+          "upewnic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "moze"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "moze",
+          "niebezpieczenstwo",
+          "prad",
+          "przep",
+          "silny",
+          "upewnic",
+          "ywac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 127,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "komorowa",
+          "sluza"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "sluza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "komorowa",
+          "sluza"
+        ]
+      }
+    }
+  },
+  {
+    "id": 128,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "aczniku",
+          "drogach",
+          "ministra",
+          "przepisow",
+          "rozporzadzenie",
+          "srodladowych",
+          "wodnych",
+          "zeglugowych"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "ministra",
+          "rozporzadzenie",
+          "srodladowych"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "2003",
+          "drogach",
+          "infrastruktury",
+          "ministra",
+          "przepisow",
+          "rozporzadzenie",
+          "srodladowych",
+          "wodnych",
+          "zeglugowych"
+        ]
+      }
+    }
+  },
+  {
+    "id": 129,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "dalej",
+          "maszt",
+          "ozyc",
+          "ynac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "maszt",
+          "ynac"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "dalej",
+          "maszt",
+          "ozyc",
+          "ynac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 130,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "jedna",
+          "niebezpieczenstwa",
+          "odpowiednio",
+          "ozenia",
+          "wiecej",
+          "wielkosci",
+          "zaleznosci"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zaleznosci"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "jedna",
+          "niebezpieczenstwa",
+          "odpowiednio",
+          "ozenia",
+          "wiecej",
+          "wielkosci",
+          "zaleznosci"
+        ]
+      }
+    }
+  },
+  {
+    "id": 131,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "szlaku",
+          "zeglownego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "szlaku"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "szlaku",
+          "zeglownego"
+        ]
+      }
+    }
+  },
+  {
+    "id": 132,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "cumowanie",
+          "dozwolone"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dozwolone"
+        ]
+      }
+    }
+  },
+  {
+    "id": 133,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "akwen",
+          "zamkniety"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "akwen",
+          "ywac",
+          "zamkniety"
+        ]
+      }
+    }
+  },
+  {
+    "id": 134,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "linia",
+          "przejscia",
+          "wysokosc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "linia"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "linia",
+          "przejscia",
+          "wysokosc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 135,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "drogi",
+          "ewentualnie",
+          "przep",
+          "ustapic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "drogi"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "drogi",
+          "obserwowac",
+          "prom",
+          "przep",
+          "ustapic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 136,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dzwiekowego",
+          "sygna"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "sygna"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dzwiekowego",
+          "sygna"
+        ]
+      }
+    }
+  },
+  {
+    "id": 137,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "silniku",
+          "zakaz",
+          "zeglugi"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "silniku",
+          "zeglugi"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "silniku",
+          "zeglugi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 138,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dwoch"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dwoch"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dwoch"
+        ]
+      }
+    }
+  },
+  {
+    "id": 139,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "burta",
+          "lewa",
+          "prawa",
+          "sposob"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "burta",
+          "lewa",
+          "prawa",
+          "sposob"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "burta",
+          "dowolny",
+          "lewa",
+          "prawa",
+          "sposob"
+        ]
+      }
+    }
+  },
+  {
+    "id": 140,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "lewo"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "lewo"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "lewo"
+        ]
+      }
+    }
+  },
+  {
+    "id": 141,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "cumowanie",
+          "dozwolone"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dozwolone"
+        ]
+      }
+    }
+  },
+  {
+    "id": 142,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "zaglami",
+          "zakaz",
+          "zeglugi"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "zaglami",
+          "zeglugi"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "zaglami",
+          "zeglugi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 143,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "blisko",
+          "rufa"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rufa"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "blisko",
+          "prom",
+          "rufa",
+          "uwiezi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 144,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jedno",
+          "swiat",
+          "zielone"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jedno",
+          "swiat",
+          "zielone"
+        ]
+      }
+    }
+  },
+  {
+    "id": 145,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "prawej",
+          "strony"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "prawej",
+          "przechodzic",
+          "strony"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "prawej",
+          "strony"
+        ]
+      }
+    }
+  },
+  {
+    "id": 146,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "brzeg",
+          "kurs",
+          "odpowiednio",
+          "prawy",
+          "przejscia",
+          "spodziewac",
+          "szlaku",
+          "zeglownego",
+          "zmienic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "kurs",
+          "prawy",
+          "szlaku"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "brzeg",
+          "kurs",
+          "odpowiednio",
+          "prawy",
+          "przejscia",
+          "szlaku",
+          "zeglownego"
+        ]
+      }
+    }
+  },
+  {
+    "id": 147,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dozwolone",
+          "silniku",
+          "ywanie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "silniku"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dozwolone",
+          "silniku",
+          "ywanie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 148,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "akwenu",
+          "locje"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "akwenu",
+          "locje"
+        ]
+      }
+    }
+  },
+  {
+    "id": 149,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kurs",
+          "zachowac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "kurs"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kurs",
+          "zachowac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 150,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "kontynuowac",
+          "kurs",
+          "swoj"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "kurs"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kurs",
+          "swoj"
+        ]
+      }
+    }
+  },
+  {
+    "id": 151,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "motorowy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 152,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "daleka"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 153,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "statkowi"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "statkowi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 154,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "statek",
+          "zaglowy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zaglowy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "statek",
+          "zaglowy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 155,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "statek"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "statek"
+        ]
+      }
+    }
+  },
+  {
+    "id": 156,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "jachtowego",
+          "najmniej",
+          "patent",
+          "zeglarza"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "jachtowego",
+          "najmniej",
+          "patent",
+          "zeglarza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "jachtowego",
+          "najmniej",
+          "patent",
+          "zeglarza"
+        ]
+      }
+    }
+  },
+  {
+    "id": 157,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "strony"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "strony"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "strony"
+        ]
+      }
+    }
+  },
+  {
+    "id": 158,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "sztucznych"
+        ]
+      }
+    }
+  },
+  {
+    "id": 159,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rufa"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rufa"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "przejsc",
+          "rufa"
+        ]
+      }
+    }
+  },
+  {
+    "id": 160,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "strony"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "strony"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "rombow",
+          "strony"
+        ]
+      }
+    }
+  },
+  {
+    "id": 161,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burta",
+          "owiek"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burta",
+          "owiek"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burta",
+          "owiek"
+        ]
+      }
+    }
+  },
+  {
+    "id": 162,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 163,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "mechanicznym",
+          "napedzie",
+          "statkowi"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "mechanicznym",
+          "napedzie",
+          "statkowi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 164,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "czarny",
+          "kiem",
+          "skierowany",
+          "stozek",
+          "wierzcho"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "czarny"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czarny",
+          "kiem",
+          "wierzcho"
+        ]
+      }
+    }
+  },
+  {
+    "id": 165,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bezpiecznej",
+          "jego",
+          "nawietrznej",
+          "odleg",
+          "osci",
+          "stronie",
+          "wyprzedzany"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "bezpiecznej",
+          "jego",
+          "nawietrznej",
+          "odleg",
+          "osci",
+          "stronie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bezpiecznej",
+          "jego",
+          "nawietrznej",
+          "odleg",
+          "osci",
+          "stronie",
+          "wyprzedzany"
+        ]
+      }
+    }
+  },
+  {
+    "id": 166,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "flagi",
+          "strony",
+          "tylko"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "strony"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "czerwono",
+          "flagi",
+          "strony",
+          "tylko"
+        ]
+      }
+    }
+  },
+  {
+    "id": 167,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "moze",
+          "obowiazujacych",
+          "przepisow",
+          "przestrzegania",
+          "zeglugowych"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "moze",
+          "obowiazujacych"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "moze",
+          "obowiazujacych",
+          "przepisow",
+          "przestrzegania",
+          "zeglugowych"
+        ]
+      }
+    }
+  },
+  {
+    "id": 168,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "ustepuje",
+          "wyprzedzanemu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "jachtowi",
+          "odleg",
+          "osci"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "ustepuje"
+        ]
+      }
+    }
+  },
+  {
+    "id": 169,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "owem",
+          "statkowi"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "owem",
+          "statkowi",
+          "zajetemu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 170,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "strony"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "strony"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "strony"
+        ]
+      }
+    }
+  },
+  {
+    "id": 171,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 10,
+        "keywords": [
+          "brzegowej",
+          "dziennej",
+          "linii",
+          "morskich",
+          "odleg",
+          "osci",
+          "porze",
+          "prowadzenia",
+          "ugosci",
+          "wodach"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "dziennej",
+          "linii",
+          "morskich",
+          "odleg",
+          "osci",
+          "porze",
+          "prowadzenia",
+          "ugosci",
+          "wodach"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 10,
+        "keywords": [
+          "brzegowej",
+          "dziennej",
+          "linii",
+          "morskich",
+          "odleg",
+          "osci",
+          "porze",
+          "prowadzenia",
+          "ugosci",
+          "wodach"
+        ]
+      }
+    }
+  },
+  {
+    "id": 172,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "uwaga"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "uwaga"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "uwaga"
+        ]
+      }
+    }
+  },
+  {
+    "id": 173,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "ostroznie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 174,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "statek",
+          "swoj",
+          "zatrzymac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "natychmiast",
+          "statek",
+          "swoj",
+          "zatrzymac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 175,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jeden",
+          "pomocy",
+          "sygna"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jeden",
+          "pomocy",
+          "sygna"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jeden",
+          "pomocy",
+          "sygna"
+        ]
+      }
+    }
+  },
+  {
+    "id": 176,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "stron",
+          "widoczny",
+          "wszystkich"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "stron",
+          "wszystkich"
+        ]
+      }
+    }
+  },
+  {
+    "id": 177,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dwie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "dwie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czarne",
+          "dwie",
+          "kule"
+        ]
+      }
+    }
+  },
+  {
+    "id": 178,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rufie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rufie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "flagsztoku",
+          "rufie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 179,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "gafla",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "gafla",
+          "pikiem",
+          "tylnego",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 180,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 181,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zdecydowanie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 182,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bezposrednio",
+          "odbijacze",
+          "praktyke",
+          "przed",
+          "tego",
+          "typu",
+          "wyraznie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "odbijacze",
+          "przed",
+          "tego",
+          "typu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "bezposrednio",
+          "odbijacze",
+          "przed",
+          "tego",
+          "typu",
+          "wyraznie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 183,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "czasie",
+          "przeszkadzac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "czasie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czasie",
+          "posi",
+          "wejscia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 184,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czesci",
+          "dziobowej",
+          "jego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "czesci",
+          "dziobowej",
+          "jego",
+          "przechodzic"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czesci",
+          "dziobowej",
+          "jego"
+        ]
+      }
+    }
+  },
+  {
+    "id": 185,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "panstwa",
+          "prawym",
+          "tego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "prawym",
+          "tego"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bandere",
+          "panstwa",
+          "prawym",
+          "salingiem",
+          "tego"
+        ]
+      }
+    }
+  },
+  {
+    "id": 186,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zaglami"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zaglami"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "gale",
+          "zaglami",
+          "zdejmujemy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 187,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "dziobu",
+          "flaga",
+          "flagi",
+          "masztow",
+          "rufy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dziobu",
+          "odpowiedzi",
+          "rufy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "dziobu",
+          "flaga",
+          "flagi",
+          "masztow",
+          "polsce",
+          "rufy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 188,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dzwiek",
+          "jeden"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "jeden"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dzwiek",
+          "jeden"
+        ]
+      }
+    }
+  },
+  {
+    "id": 189,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "najlepiej",
+          "poczekac",
+          "statek",
+          "sygna",
+          "zatrzymac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "sygna"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "najlepiej",
+          "poczekac",
+          "statek",
+          "sygna",
+          "zatrzymac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 190,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wolno"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "wolno",
+          "zadnych"
+        ]
+      }
+    }
+  },
+  {
+    "id": 191,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "aczony",
+          "burte",
+          "jezeli",
+          "zamkniety",
+          "zbiornikiem"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "burte",
+          "jezeli"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "burte",
+          "jezeli",
+          "zamkniety",
+          "zbiornikiem"
+        ]
+      }
+    }
+  },
+  {
+    "id": 192,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "asciwe",
+          "morzu",
+          "pozarna",
+          "ruchu",
+          "srodladziu",
+          "straz",
+          "uzby"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "srodladziu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "morzu",
+          "pozarna",
+          "ruchu",
+          "srodladziu",
+          "straz",
+          "uzby"
+        ]
+      }
+    }
+  },
+  {
+    "id": 193,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "najmniej",
+          "srodowiska",
+          "szkodliwe"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "najmniej",
+          "srodowiska"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "najmniej",
+          "srodowiska"
+        ]
+      }
+    }
+  },
+  {
+    "id": 194,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "cumowania",
+          "zeglugowych",
+          "znakow"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "cumowania"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "cumowania",
+          "zabrania",
+          "zeglugowych",
+          "znakow"
+        ]
+      }
+    }
+  },
+  {
+    "id": 195,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "ruchu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "prom",
+          "ruchu",
+          "uwiezi"
+        ]
+      }
+    }
+  },
+  {
+    "id": 196,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dryfu",
+          "zwiekszenie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zwiekszenie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dryfu",
+          "zwiekszenie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 197,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pozorny",
+          "wiatr"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pozorny",
+          "wiatr"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pozorny",
+          "wiatr"
+        ]
+      }
+    }
+  },
+  {
+    "id": 198,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "jego",
+          "linii",
+          "momencie",
+          "predkosci",
+          "ustawienia",
+          "wiatru"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "jego",
+          "linii",
+          "predkosci",
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "jego",
+          "linii",
+          "masy",
+          "momencie",
+          "predkosci",
+          "ustawienia",
+          "wiatru"
+        ]
+      }
+    }
+  },
+  {
+    "id": 199,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "etwy",
+          "kata",
+          "powierzchni",
+          "sterowej",
+          "szybkosci",
+          "wychylenia"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "etwy",
+          "powierzchni",
+          "sterowej"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "etwy",
+          "kata",
+          "powierzchni",
+          "sterowej",
+          "szybkosci",
+          "wychylenia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 200,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "jezeli",
+          "niezatapialny",
+          "posiada",
+          "wypornosciowe",
+          "zbiorniki"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "jezeli",
+          "posiada",
+          "wiekszej",
+          "wypornosciowe"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "jezeli",
+          "masy",
+          "niezatapialny",
+          "posiada",
+          "wiekszej",
+          "wypornosciowe",
+          "zbiorniki"
+        ]
+      }
+    }
+  },
+  {
+    "id": 201,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "nawietrznosci",
+          "zwiekszenie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "nawietrznosci",
+          "zwiekszenie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zwiekszenie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 202,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bardziej",
+          "bedzie",
+          "trzeba",
+          "wybrac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wybrac"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bardziej",
+          "bedzie",
+          "trzeba",
+          "wybrac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 203,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 204,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wiatrem"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wiatrem"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wiatrem"
+        ]
+      }
+    }
+  },
+  {
+    "id": 205,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rzeczywisty"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rzeczywisty"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "rzeczywisty"
+        ]
+      }
+    }
+  },
+  {
+    "id": 206,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "ciagu",
+          "dryfu",
+          "kursach",
+          "pewnych",
+          "zmniejszenie",
+          "zwiekszenie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kursach",
+          "zwiekszenie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "ciagu",
+          "dryfu",
+          "kursach",
+          "zmniejszenie",
+          "zwiekszenie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 207,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "grot",
+          "pozostawic",
+          "zarefowac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "grot"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "grot",
+          "pozostawic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 208,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "statecznosc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "statecznosc"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "statecznosc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 209,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "kata",
+          "kszta",
+          "natarcia",
+          "powierzchni",
+          "profilu",
+          "zagla"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "kszta",
+          "powierzchni",
+          "profilu",
+          "zagla"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "kata",
+          "kszta",
+          "natarcia",
+          "powierzchni",
+          "profilu",
+          "zagla"
+        ]
+      }
+    }
+  },
+  {
+    "id": 210,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "wiatru",
+          "ynac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "ostrzej",
+          "wiatru",
+          "ynac"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "wiatru",
+          "ynac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 211,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "grota",
+          "szoty"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "grota",
+          "szoty"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "grota",
+          "luzowac",
+          "szoty"
+        ]
+      }
+    }
+  },
+  {
+    "id": 212,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "obnizenie",
+          "ozaglowania",
+          "przesuniecie",
+          "przodu",
+          "srodka"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "obnizenie",
+          "ozaglowania",
+          "przesuniecie",
+          "przodu",
+          "srodka"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "obnizenie",
+          "ozaglowania",
+          "przesuniecie",
+          "przodu",
+          "srodka"
+        ]
+      }
+    }
+  },
+  {
+    "id": 213,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 214,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "dziobu",
+          "miecza",
+          "obciazenie",
+          "odpowiednie",
+          "rufy",
+          "ustawienie",
+          "uzne",
+          "wieksze"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "dziobu",
+          "miecza",
+          "odpowiednie",
+          "rufy",
+          "ustawienie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "balastowanie",
+          "dziobu",
+          "miecza",
+          "obciazenie",
+          "odpowiednie",
+          "rufy",
+          "ustawienie",
+          "uzne",
+          "wieksze"
+        ]
+      }
+    }
+  },
+  {
+    "id": 215,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "spada",
+          "stronie",
+          "zawietrznej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "stronie",
+          "zawietrznej"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "spada",
+          "stronie",
+          "zawietrznej"
+        ]
+      }
+    }
+  },
+  {
+    "id": 216,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "maleje",
+          "przechylajaca"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "maleje",
+          "przechylajaca"
+        ]
+      }
+    }
+  },
+  {
+    "id": 217,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 218,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "jego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "jego"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jego",
+          "wzrosnie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 219,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bajdewind",
+          "dziobem",
+          "jednego",
+          "kursu",
+          "linii",
+          "przejscie",
+          "wiatru"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bajdewind",
+          "dziobem",
+          "halsu",
+          "jednego",
+          "kursu",
+          "linii",
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "bajdewind",
+          "dziobem",
+          "halsu",
+          "jednego",
+          "kursu",
+          "linii",
+          "przeciwnego",
+          "przejscie",
+          "wiatru"
+        ]
+      }
+    }
+  },
+  {
+    "id": 220,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "fordewindu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "fordewindu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "fordewindu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 221,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bedzie",
+          "kierunku",
+          "rufa",
+          "steru",
+          "wychylenia"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "kierunku",
+          "rufa",
+          "steru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bedzie",
+          "kierunku",
+          "rufa",
+          "steru",
+          "wychylenia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 222,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "aerodynamicznej",
+          "ajacej",
+          "dzia",
+          "przodu",
+          "rownolegle",
+          "skierowana",
+          "zagiel"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "aerodynamicznej",
+          "dzia",
+          "przodu",
+          "rownolegle",
+          "uznej",
+          "zagiel"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "adowa",
+          "aerodynamicznej",
+          "dzia",
+          "przodu",
+          "rownolegle",
+          "skierowana",
+          "uznej",
+          "zagiel"
+        ]
+      }
+    }
+  },
+  {
+    "id": 223,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "aerodynamicznej",
+          "ajacej",
+          "dzia",
+          "prostopadle",
+          "skierowana",
+          "zagiel"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "aerodynamicznej",
+          "dzia",
+          "uznej",
+          "zagiel"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "adowa",
+          "aerodynamicznej",
+          "dzia",
+          "prostopadle",
+          "skierowana",
+          "uznej",
+          "zagiel"
+        ]
+      }
+    }
+  },
+  {
+    "id": 224,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 225,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "awarii",
+          "nieniu",
+          "skutek"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "awarii",
+          "skutek",
+          "zapewnienia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 226,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 227,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wieksza"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wieksza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wieksza"
+        ]
+      }
+    }
+  },
+  {
+    "id": 228,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "ciezkosci",
+          "czesci",
+          "srodka",
+          "wyporu",
+          "zanurzonej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "ciezkosci",
+          "czesci",
+          "srodka"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "ciezkosci",
+          "czesci",
+          "srodka",
+          "wyporu",
+          "zanurzonej"
+        ]
+      }
+    }
+  },
+  {
+    "id": 229,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "moment",
+          "przechylajacy",
+          "zmniejsza"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "moment"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "moment",
+          "przechylajacy",
+          "zmniejsza"
+        ]
+      }
+    }
+  },
+  {
+    "id": 230,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "baksztagu",
+          "fordewindzie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "baksztagu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "baksztagu",
+          "fordewindzie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 231,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "brzegowej",
+          "linii",
+          "miejscach",
+          "wysokiej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "linii"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "brzegowej",
+          "linii",
+          "miejscach",
+          "obnizenia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 232,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "przechodzeniu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "frontu",
+          "odnego",
+          "przechodzeniu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 233,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "ciep",
+          "jego",
+          "szybsze",
+          "wzgledu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jego",
+          "wzgledu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "ciep",
+          "front",
+          "frontu",
+          "jego",
+          "odnego",
+          "szybsze",
+          "wzgledu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 234,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "ciep",
+          "przechodzeniu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "ciep",
+          "frontu",
+          "przechodzeniu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 235,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "chmurami",
+          "ciep",
+          "cirrostratus",
+          "pogody",
+          "zatem"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pogody"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "chmurami",
+          "ciep",
+          "frontu",
+          "pogody",
+          "pogorszenie",
+          "spowodowane",
+          "zatem"
+        ]
+      }
+    }
+  },
+  {
+    "id": 236,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "cisnienia",
+          "gradientu",
+          "nizu",
+          "wyzu",
+          "zalezy",
+          "zarowno"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "zalezy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "cisnienia",
+          "gradientu",
+          "nizu",
+          "wyzu",
+          "zalezy",
+          "zarowno"
+        ]
+      }
+    }
+  },
+  {
+    "id": 237,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "opadow"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "opadow",
+          "pogoda"
+        ]
+      }
+    }
+  },
+  {
+    "id": 238,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "cisnienia",
+          "linie",
+          "punkty",
+          "wartosci"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "linie",
+          "punkty"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "aczace",
+          "cisnienia",
+          "linie",
+          "punkty",
+          "wartosci"
+        ]
+      }
+    }
+  },
+  {
+    "id": 239,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "ladu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 240,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "burze",
+          "miejsca",
+          "spodziewane",
+          "uwaga",
+          "wiatr",
+          "zjawiska"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "miejsca",
+          "uwaga",
+          "wiatr",
+          "zjawiska"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "czasu",
+          "miejsca",
+          "spodziewane",
+          "uwaga",
+          "wiatr",
+          "wskazania",
+          "zjawiska"
+        ]
+      }
+    }
+  },
+  {
+    "id": 241,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "koncu",
+          "okresu",
+          "poczatku"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "koncu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "koncu",
+          "okresu",
+          "poczatku"
+        ]
+      }
+    }
+  },
+  {
+    "id": 242,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "centrum",
+          "nizu",
+          "wyzu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "centrum"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "centrum",
+          "nizu",
+          "wyzu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 243,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "oneczna",
+          "pogode"
+        ]
+      }
+    }
+  },
+  {
+    "id": 244,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "najwieksze",
+          "srodku",
+          "zewnatrz"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "srodku"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "najwieksze",
+          "srodku",
+          "zewnatrz"
+        ]
+      }
+    }
+  },
+  {
+    "id": 245,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "cumulonimbus"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "cumulonimbus"
+        ]
+      }
+    }
+  },
+  {
+    "id": 246,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "dzien",
+          "kierunku",
+          "morza",
+          "strony"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kierunku",
+          "strony"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "dzien",
+          "kierunku",
+          "ladu",
+          "morza",
+          "strony"
+        ]
+      }
+    }
+  },
+  {
+    "id": 247,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 2,
+        "keywords": [
+          "front",
+          "zokludowany"
+        ]
+      }
+    }
+  },
+  {
+    "id": 248,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "dwie",
+          "powierzchnia",
+          "powietrza",
+          "szczegolnie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dwie",
+          "powierzchnia",
+          "powietrza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "dwie",
+          "masy",
+          "powierzchnia",
+          "powietrza",
+          "roznej",
+          "szczegolnie",
+          "temperaturze"
+        ]
+      }
+    }
+  },
+  {
+    "id": 249,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 250,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wiatr"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wiatr"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wiatr"
+        ]
+      }
+    }
+  },
+  {
+    "id": 251,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "ciep"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "ciep",
+          "frontu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 252,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "ruchem",
+          "srodka",
+          "wskazowek",
+          "wyzu",
+          "zegara",
+          "zgodnie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "srodka",
+          "zgodnie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "izobary",
+          "ruchem",
+          "srodka",
+          "wskazowek",
+          "wyzu",
+          "zegara",
+          "zgodnie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 253,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "cumulonimbus",
+          "nimbostratus"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "cumulonimbus",
+          "nimbostratus"
+        ]
+      }
+    }
+  },
+  {
+    "id": 254,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kierunkow",
+          "wiatru"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kierunkow",
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "kierunkow",
+          "wiatru"
+        ]
+      }
+    }
+  },
+  {
+    "id": 255,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "silnego",
+          "wiatru",
+          "wystapieniu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "silnego",
+          "wiatru",
+          "wystapieniu"
+        ]
+      }
+    }
+  },
+  {
+    "id": 256,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "osoba",
+          "owieka",
+          "pierwsza"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "osoba",
+          "owieka",
+          "pierwsza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "osoba",
+          "owieka",
+          "pierwsza"
+        ]
+      }
+    }
+  },
+  {
+    "id": 257,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 258,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "ciep",
+          "przed",
+          "utrata",
+          "zapewnic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "przed"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "ciep",
+          "folia",
+          "najszybciej",
+          "podac",
+          "poszkodowanemu",
+          "przed",
+          "utrata",
+          "zabezpieczyc",
+          "zapewnic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 259,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jego",
+          "nawietrznej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jego",
+          "nawietrznej"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jego",
+          "nawietrznej"
+        ]
+      }
+    }
+  },
+  {
+    "id": 260,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "nawietrznej"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "nawietrznej"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 1,
+        "keywords": [
+          "nawietrznej"
+        ]
+      }
+    }
+  },
+  {
+    "id": 261,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pomocy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pomocy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pomocy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 262,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "dnem",
+          "gory",
+          "ozyc",
+          "pasy",
+          "powierzchni",
+          "przed",
+          "ratunkowe"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "dnem",
+          "gory",
+          "powierzchni",
+          "przed",
+          "ratunkowe"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "gory",
+          "ozyc",
+          "pasy",
+          "powierzchni",
+          "przed",
+          "ratunkowe",
+          "sprawdzic",
+          "zabezpieczyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 263,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "latarka"
+        ]
+      }
+    }
+  },
+  {
+    "id": 264,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pomoc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "akcje",
+          "natychmiast",
+          "pomoc",
+          "wezwac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 265,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "mozliwie",
+          "pomoc",
+          "stawy",
+          "szybko",
+          "zapewnic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "mozliwie",
+          "pomoc",
+          "poszkodowanemu",
+          "stawy",
+          "szybko",
+          "zapewnic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 266,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "oceny",
+          "sytuacji",
+          "wykonac",
+          "zwrot"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "sztag",
+          "wykonac",
+          "zwrot"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "najszybciej",
+          "sytuacji",
+          "sztag",
+          "wykonac",
+          "zwrot"
+        ]
+      }
+    }
+  },
+  {
+    "id": 267,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "gdzie",
+          "jednostki",
+          "miejscu",
+          "statecznosci"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "atwiej",
+          "gdzie",
+          "jednostki",
+          "miejscu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "gdzie",
+          "jednostki",
+          "miejscu",
+          "statecznosci"
+        ]
+      }
+    }
+  },
+  {
+    "id": 268,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "adzie",
+          "jedna",
+          "osob",
+          "ratunkowe",
+          "tyle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "adzie",
+          "ratunkowe",
+          "tyle"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "adzie",
+          "jedna",
+          "osob",
+          "ratunkowe",
+          "tyle"
+        ]
+      }
+    }
+  },
+  {
+    "id": 269,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "adamy",
+          "poszkodowanego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "adamy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "adamy",
+          "opatrunek",
+          "poszkodowanego",
+          "przemywamy",
+          "rane"
+        ]
+      }
+    }
+  },
+  {
+    "id": 270,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "adzie",
+          "kamizelkach",
+          "miecz",
+          "ratunkowych",
+          "wiatrem"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "adzie",
+          "miecz",
+          "wiatrem"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "adzie",
+          "kamizelkach",
+          "miecz",
+          "ratunkowych",
+          "wiatrem"
+        ]
+      }
+    }
+  },
+  {
+    "id": 271,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pomocy",
+          "procedura"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "pomocy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pomocy",
+          "procedura"
+        ]
+      }
+    }
+  },
+  {
+    "id": 272,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dobrze",
+          "widocznym"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dobrze",
+          "widocznym"
+        ]
+      }
+    }
+  },
+  {
+    "id": 273,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 274,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "centrum",
+          "portach",
+          "ratownictwa"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "centrum",
+          "ratownictwa"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "centrum",
+          "ratownictwa"
+        ]
+      }
+    }
+  },
+  {
+    "id": 275,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "ozyc",
+          "pasami"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "ozyc",
+          "pasami",
+          "wyjsc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 276,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "miejsca",
+          "odzenie",
+          "owego",
+          "ozenie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "miejsca",
+          "ozenie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "miejsca",
+          "odzenie",
+          "owego",
+          "ozenie",
+          "polewanie",
+          "zimna"
+        ]
+      }
+    }
+  },
+  {
+    "id": 277,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "drogi",
+          "oddechowe",
+          "prowadzic",
+          "sztucznego"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "drogi",
+          "sztucznego"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "akcje",
+          "drogi",
+          "oddechowe",
+          "prowadzic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 278,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jednostki",
+          "kurs",
+          "zmienic"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "jednostki",
+          "kurs"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "acznosc",
+          "jednostki",
+          "kurs",
+          "podejsc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 279,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "czekac",
+          "energie",
+          "podp",
+          "spokoj",
+          "ynac",
+          "zachowac"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "ynac"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "podp",
+          "spokoj",
+          "ynac",
+          "zachowac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 280,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "mostka",
+          "powietrza",
+          "ucisniec"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "powietrza"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "mostka",
+          "powietrza",
+          "ucisniec"
+        ]
+      }
+    }
+  },
+  {
+    "id": 281,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "pomoc",
+          "wode",
+          "zimne"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "wode"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "onecznego",
+          "podac",
+          "pomoc",
+          "wode",
+          "zastosowac",
+          "zimne"
+        ]
+      }
+    }
+  },
+  {
+    "id": 282,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "miejscu"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "informacja",
+          "miejscu"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dobrym",
+          "miejscu",
+          "starac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 283,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "bezpieczenstwa",
+          "jego",
+          "kamizelki",
+          "niebezpieczenstwie",
+          "pasy",
+          "ratunkowe"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpieczenstwa",
+          "jego",
+          "ratunkowe",
+          "udze"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "bezpieczenstwa",
+          "gasnice",
+          "jego",
+          "kamizelki",
+          "niebezpieczenstwie",
+          "pasy",
+          "ratunkowe",
+          "udze"
+        ]
+      }
+    }
+  },
+  {
+    "id": 284,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "komory",
+          "uzyc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "lekko"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "komory",
+          "lekko",
+          "natychmiast",
+          "uzyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 285,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "oddech"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "oddech",
+          "tetno"
+        ]
+      }
+    }
+  },
+  {
+    "id": 286,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "ciep",
+          "kamizelkach",
+          "mozliwie",
+          "nadal",
+          "pomocy",
+          "powinna",
+          "ratunkowych"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "pomocy",
+          "powinna"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "ciep",
+          "kamizelkach",
+          "mozliwie",
+          "pomocy",
+          "powinna",
+          "ratunkowych"
+        ]
+      }
+    }
+  },
+  {
+    "id": 287,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "ania",
+          "dzia",
+          "odpowiednie",
+          "pomocy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "dzia",
+          "odpowiednie",
+          "pomocy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "ania",
+          "dzia",
+          "odpowiednie",
+          "podejsc",
+          "podjac",
+          "pomocy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 288,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dzia",
+          "zagiel"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dzia",
+          "zagiel"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "dzia",
+          "zagiel"
+        ]
+      }
+    }
+  },
+  {
+    "id": 289,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "acznik",
+          "akumulatorow",
+          "owny"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 1,
+        "keywords": [
+          "owny"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "acznik",
+          "aczyc",
+          "akumulatorow",
+          "owny"
+        ]
+      }
+    }
+  },
+  {
+    "id": 290,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "czasie",
+          "dopiero",
+          "jezeli",
+          "pomocy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "czasie",
+          "jezeli",
+          "pomocy"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "czasie",
+          "dopiero",
+          "jezeli",
+          "pomocy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 291,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "masztu",
+          "ozenie",
+          "zagli",
+          "zrzucenie"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "masztu",
+          "ozenie",
+          "zagli",
+          "zrzucenie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "masztu",
+          "ozenie",
+          "zagli",
+          "zrzucenie"
+        ]
+      }
+    }
+  },
+  {
+    "id": 292,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": true,
+        "keyword_overlap": 0,
+        "keywords": []
+      }
+    }
+  },
+  {
+    "id": 293,
+    "correct": "A",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "miejscu",
+          "najmniej",
+          "ozyc",
+          "pozycji",
+          "srodki"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "miejscu",
+          "najmniej",
+          "pozycji",
+          "srodki"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 8,
+        "keywords": [
+          "miejscu",
+          "najmniej",
+          "ozyc",
+          "podac",
+          "pozycji",
+          "siedzacej",
+          "srodki",
+          "umiescic"
+        ]
+      }
+    }
+  },
+  {
+    "id": 294,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "miejsce",
+          "nastepnie",
+          "ozyc"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "miejsce",
+          "nastepnie"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "miejsce",
+          "nastepnie",
+          "oparzone",
+          "opatrunek",
+          "ozyc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 295,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "minut",
+          "poszkodowanego",
+          "srodki",
+          "zimne"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "srodki",
+          "staw"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "minut",
+          "podac",
+          "poszkodowanego",
+          "srodki",
+          "staw",
+          "zastosowac",
+          "zimne"
+        ]
+      }
+    }
+  },
+  {
+    "id": 296,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "burta",
+          "dwie",
+          "nawietrzna",
+          "osoby",
+          "owieka"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "burta",
+          "dwie",
+          "nawietrzna",
+          "osoby",
+          "owieka"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 6,
+        "keywords": [
+          "burta",
+          "dwie",
+          "nawietrzna",
+          "osoby",
+          "owieka",
+          "podejsc"
+        ]
+      }
+    }
+  },
+  {
+    "id": 297,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bajdewindzie",
+          "burta",
+          "prawa",
+          "silniku",
+          "wiatr"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bajdewindzie",
+          "burta",
+          "prawa",
+          "silniku",
+          "wiatr"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bajdewindzie",
+          "burta",
+          "prawa",
+          "silniku",
+          "wiatr"
+        ]
+      }
+    }
+  },
+  {
+    "id": 298,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "kursu",
+          "nieco",
+          "sciagacz",
+          "skrecic",
+          "zagle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "kursu",
+          "sciagacz",
+          "zagle"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "aczyc",
+          "kursu",
+          "nieco",
+          "sciagacz",
+          "zabezpieczyc",
+          "zagle",
+          "zmieniajac"
+        ]
+      }
+    }
+  },
+  {
+    "id": 299,
+    "correct": "C",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 5,
+        "keywords": [
+          "bardzo",
+          "niebezpieczenstwie",
+          "ostrzezenie",
+          "silnego",
+          "wiatru"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 2,
+        "keywords": [
+          "bardzo",
+          "wiatru"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 7,
+        "keywords": [
+          "bardzo",
+          "bezposrednim",
+          "niebezpieczenstwie",
+          "ostrzezenie",
+          "silnego",
+          "wiatru",
+          "wystapienia"
+        ]
+      }
+    }
+  },
+  {
+    "id": 300,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jako",
+          "ostrzezen",
+          "wysy"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 0,
+        "keywords": []
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 3,
+        "keywords": [
+          "jako",
+          "ostrzezen",
+          "wysy"
+        ]
+      }
+    }
+  },
+  {
+    "id": 301,
+    "correct": "B",
+    "hits": {
+      "blekitny-piotrus-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 9,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "podp",
+          "potem",
+          "predkoscia",
+          "ratujemy",
+          "sprzet",
+          "zagle"
+        ]
+      },
+      "szekla-materialy-czesc-1.txt": {
+        "exact": false,
+        "keyword_overlap": 4,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "zagle"
+        ]
+      },
+      "wind-materialy.txt": {
+        "exact": false,
+        "keyword_overlap": 10,
+        "keywords": [
+          "bezpiecznej",
+          "odleg",
+          "osci",
+          "podp",
+          "potem",
+          "predkoscia",
+          "ratujemy",
+          "sprzet",
+          "ywamy",
+          "zagle"
+        ]
+      }
+    }
+  }
+]

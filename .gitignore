@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+.playwright-mcp/
+coverage/
+
+# Local research and OCR working files. The app uses public/ and src/data/.
+sources/
+quizlet-*.md
+quizlet-*.txt
+quizlet-nextdata.json
+
+# Environment files
+.env
+.env.*

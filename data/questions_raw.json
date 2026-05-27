@@ -1,0 +1,2789 @@
+[
+  {
+    "id": 1,
+    "category": "Budowa Jachtów",
+    "question": "Na rysunku pokazano schematycznie miecz jachtu.",
+    "options": {
+      "A": "Szybrowy Jaki to rodzaj miecza?",
+      "B": "Obrotowy A",
+      "C": "Balastowy"
+    },
+    "raw": "Na rysunku pokazano schematycznie miecz jachtu. A |Szybrowy Jaki to rodzaj miecza? B | Obrotowy A C | Balastowy"
+  },
+  {
+    "id": 2,
+    "category": "Budowa Jachtów",
+    "question": "Na rysunku pokazano schematycznie miecz jachtu.",
+    "options": {
+      "A": "Szybrowy Jaki to rodzaj miecza ?",
+      "B": "Obrotowy pany",
+      "C": "Balastowy"
+    },
+    "raw": "Na rysunku pokazano schematycznie miecz jachtu. A |Szybrowy Jaki to rodzaj miecza ? B | Obrotowy pany C | Balastowy"
+  },
+  {
+    "id": 3,
+    "category": "Budowa Jachtów",
+    "question": "Bulbkil, jest to",
+    "options": {
+      "A": "Kształt dziobu jachtu",
+      "B": "Kształt rufy jachtu",
+      "C": "Jeden z rodzajów falszkila z balastem"
+    },
+    "raw": "Bulbkil, jest to: A |Kształt dziobu jachtu B Kształt rufy jachtu C | Jeden z rodzajów falszkila z balastem"
+  },
+  {
+    "id": 4,
+    "category": "Budowa Jachtów",
+    "question": "Spinaker, to żagiel stosowany przy żegludze",
+    "options": {
+      "A": "Kursami ostro na wiatr (bejdewind)",
+      "B": "'Wżegludze sztormowej",
+      "C": "/Nakursach pełnych (baksztag, fordewind )"
+    },
+    "raw": "Spinaker, to żagiel stosowany przy żegludze: A |Kursami ostro na wiatr (bejdewind) B 'Wżegludze sztormowej C /Nakursach pełnych (baksztag, fordewind )"
+  },
+  {
+    "id": 5,
+    "category": "Budowa Jachtów",
+    "question": "Hals, to lina napinająca lub mocująca",
+    "options": {
+      "A": "Dolny róg żagla przy liku przednim",
+      "B": "Dolny róg żagla przy liku tylnym (wolnym)",
+      "C": "Górny róg żagla gdzie mocowany jest fał"
+    },
+    "raw": "Hals, to lina napinająca lub mocująca: A Dolny róg żagla przy liku przednim B _ Dolny róg żagla przy liku tylnym (wolnym) C Górny róg żagla gdzie mocowany jest fał"
+  },
+  {
+    "id": 6,
+    "category": "Budowa Jachtów",
+    "question": "Refszkentla, jest liną napinającą",
+    "options": {
+      "A": "Róg halsowy żagla przy refowaniu",
+      "B": "'|Róg szotowy żagla przy refowaniu",
+      "C": "Róg fałowy żagla"
+    },
+    "raw": "Refszkentla, jest liną napinającą: A |Róg halsowy żagla przy refowaniu B '|Róg szotowy żagla przy refowaniu C Róg fałowy żagla"
+  },
+  {
+    "id": 7,
+    "category": "Budowa Jachtów",
+    "question": "Lazy jack, to: System linek biegnących do kolumny A |masztu od bomu (często połączony z pokrowcem) B System linek ułatwiający wybieranie kotwicy Cc System lin do cumowanie jachtu amortyzujący ruchy jachtu",
+    "options": {},
+    "raw": "Lazy jack, to: System linek biegnących do kolumny A |masztu od bomu (często połączony z pokrowcem) B System linek ułatwiający wybieranie kotwicy Cc System lin do cumowanie jachtu amortyzujący ruchy jachtu"
+  },
+  {
+    "id": 8,
+    "category": "Budowa Jachtów",
+    "question": "Główny wzdłużny element konstrukcyjny kadłuba",
+    "options": {
+      "A": "Kingston jachtu, to:",
+      "B": "Stępka/Kil",
+      "C": "Stewa"
+    },
+    "raw": "Główny wzdłużny element konstrukcyjny kadłuba A |Kingston jachtu, to: B |Stępka/Kil C | Stewa"
+  },
+  {
+    "id": 9,
+    "category": "Budowa Jachtów",
+    "question": "Szkielet jachtu w płaszczyźnie poprzecznej",
+    "options": {
+      "A": "Wręgi wzmacniają:",
+      "B": "_Gretingi",
+      "C": "Szpigaty"
+    },
+    "raw": "Szkielet jachtu w płaszczyźnie poprzecznej A |Wręgi wzmacniają: B _Gretingi C |Szpigaty"
+  },
+  {
+    "id": 10,
+    "category": "Budowa Jachtów",
+    "question": "Kontrafałem nazywamy",
+    "options": {
+      "A": "Linę służącą do podnoszenia żagla",
+      "B": "Linę służącą do opuszczania żagla, działającą przeciwnie do fału",
+      "C": "Linę służącą do trymowania żagla"
+    },
+    "raw": "Kontrafałem nazywamy: A |Linę służącą do podnoszenia żagla B Linę służącą do opuszczania żagla, działającą przeciwnie do fału C |Linę służącą do trymowania żagla"
+  },
+  {
+    "id": 11,
+    "category": "Budowa Jachtów",
+    "question": "Górny koniec masztu, to",
+    "options": {
+      "A": "Pik",
+      "B": "Top",
+      "C": "Pięta"
+    },
+    "raw": "Górny koniec masztu, to: A Pik B |Top C Pięta"
+  },
+  {
+    "id": 12,
+    "category": "Budowa Jachtów",
+    "question": "Sztormreling, to: A |Barierka otaczająca pokład B | Uchwyt na nadbudówce Cc Drabinka sznurowa do wchodzenia z wody na pokład",
+    "options": {},
+    "raw": "Sztormreling, to: A |Barierka otaczająca pokład B | Uchwyt na nadbudówce Cc Drabinka sznurowa do wchodzenia z wody na pokład"
+  },
+  {
+    "id": 13,
+    "category": "Budowa Jachtów",
+    "question": "Flagsztok, jest to: A | Drzewce, na którym podnosi się banderę B__ Drzewce, na którym zakłada się mały żagiel Cc Drzewce, na którym podwieszony jest dzwon",
+    "options": {},
+    "raw": "Flagsztok, jest to: A | Drzewce, na którym podnosi się banderę B__ Drzewce, na którym zakłada się mały żagiel Cc Drzewce, na którym podwieszony jest dzwon"
+  },
+  {
+    "id": 14,
+    "category": "Budowa Jachtów",
+    "question": "Brest, jest to",
+    "options": {
+      "A": "Lina służąca do stawiania sztaksli",
+      "B": "Lina cumownicza biegnąca prostopadle z jachtu do nabrzeża",
+      "C": "Potoczna nazwa szotów bezana"
+    },
+    "raw": "Brest, jest to: A | Lina służąca do stawiania sztaksli B Lina cumownicza biegnąca prostopadle z jachtu do nabrzeża C |Potoczna nazwa szotów bezana"
+  },
+  {
+    "id": 15,
+    "category": "Budowa Jachtów",
+    "question": "Gardą (szponą) nazywamy element konstrukcji",
+    "options": {
+      "A": "Łączący bom z masztem",
+      "B": "Łączący gafel z masztem",
+      "C": "Łączący bukszpryt z kadłubem"
+    },
+    "raw": "Gardą (szponą) nazywamy element konstrukcji: A |Łączący bom z masztem B | Łączący gafel z masztem C | Łączący bukszpryt z kadłubem"
+  },
+  {
+    "id": 16,
+    "category": "Budowa Jachtów",
+    "question": "Końce bomu to",
+    "options": {
+      "A": "Hals i szkentla",
+      "B": "Noki pięta",
+      "C": "/Piki garda"
+    },
+    "raw": "Końce bomu to: A |Hals i szkentla B |Noki pięta C /Piki garda"
+  },
+  {
+    "id": 17,
+    "category": "Budowa Jachtów",
+    "question": "Refpatentem nazywamy element konstrukcyjny: A Bomu, pozwalający na nawijanie żagla na bom B Masztu, pozwalający na zwijanie żagla do masztu c Bukszprytu, pozwalający na przesuwanie bukszprytu do rufy",
+    "options": {},
+    "raw": "Refpatentem nazywamy element konstrukcyjny: A Bomu, pozwalający na nawijanie żagla na bom B Masztu, pozwalający na zwijanie żagla do masztu c Bukszprytu, pozwalający na przesuwanie bukszprytu do rufy"
+  },
+  {
+    "id": 18,
+    "category": "Budowa Jachtów",
+    "question": "Przy ożaglowaniu bermudzkim krawędź żagla",
+    "options": {
+      "A": "Lik górny mocowana do takielunku (masztu, sztagu) to:",
+      "B": "Lik przedni",
+      "C": "Likwolny"
+    },
+    "raw": "Przy ożaglowaniu bermudzkim krawędź żagla A |Lik górny mocowana do takielunku (masztu, sztagu) to: B |Lik przedni C |Likwolny"
+  },
+  {
+    "id": 19,
+    "category": "Budowa Jachtów",
+    "question": "Najczęściej stosowane napięcie w akumulatorach",
+    "options": {
+      "A": "230V jachtowych to:",
+      "B": "12V",
+      "C": "/48V"
+    },
+    "raw": "Najczęściej stosowane napięcie w akumulatorach A |230V jachtowych to: B | 12V C /48V"
+  },
+  {
+    "id": 20,
+    "category": "Budowa Jachtów",
+    "question": "Pomieszczenie służące do przygotowywania",
+    "options": {
+      "A": "Kubryk posiłków na jachcie, to:",
+      "B": "Kambuz",
+      "C": "Kingston"
+    },
+    "raw": "Pomieszczenie służące do przygotowywania A | Kubryk posiłków na jachcie, to: B |Kambuz C Kingston"
+  },
+  {
+    "id": 21,
+    "category": "Budowa Jachtów",
+    "question": "Szpicgat to typ kadłuba jachtu o poniższej A |Bez pawęży, dziób i rufa ostro zakończone. charakterystyce: B__ Dziób zakończony tępo, rufa z pawężą Cc Dziob z dużym nawisem, rufa z bardzo szeroką pawężą",
+    "options": {},
+    "raw": "Szpicgat to typ kadłuba jachtu o poniższej A |Bez pawęży, dziób i rufa ostro zakończone. charakterystyce: B__ Dziób zakończony tępo, rufa z pawężą Cc Dziob z dużym nawisem, rufa z bardzo szeroką pawężą"
+  },
+  {
+    "id": 22,
+    "category": "Budowa Jachtów",
+    "question": "Jakiego rodzaju paliwo używane jest w",
+    "options": {
+      "A": "Benzyna zmieszana z olejem silnikowym czterosuwowych silnikach przyczepnych:",
+      "B": "Olej napędowy",
+      "C": "Czysta benzyna"
+    },
+    "raw": "Jakiego rodzaju paliwo używane jest w A |Benzyna zmieszana z olejem silnikowym czterosuwowych silnikach przyczepnych: B Olej napędowy C |Czysta benzyna"
+  },
+  {
+    "id": 23,
+    "category": "Budowa Jachtów",
+    "question": "Kokpit na jachcie to: A Przestrzeń wodoszczelna zapewniająca pływalność jachtu B Pomieszczenie magazynowe na dziobie lub rufie Przestrzeń dla załogi skąd można c |obsługiwać urządzenia jachtu (np. szoty żagli, ster itp.)",
+    "options": {},
+    "raw": "Kokpit na jachcie to: A Przestrzeń wodoszczelna zapewniająca pływalność jachtu B Pomieszczenie magazynowe na dziobie lub rufie Przestrzeń dla załogi skąd można c |obsługiwać urządzenia jachtu (np. szoty żagli, ster itp.)"
+  },
+  {
+    "id": 24,
+    "category": "Budowa Jachtów",
+    "question": "Pokazana na rysunku kotwica to kotwica",
+    "options": {
+      "A": "Danfortha a>",
+      "B": "Admiralicji A",
+      "C": "Delta"
+    },
+    "raw": "Pokazana na rysunku kotwica to kotwica: A |Danfortha a> B_ | Admiralicji A C Delta"
+  },
+  {
+    "id": 25,
+    "category": "Budowa Jachtów",
+    "question": "Do regulacji napięcia olinowania stałego jachtu",
+    "options": {
+      "A": "Ściągaczy używa się:",
+      "B": "Reflinek",
+      "C": "Topenant"
+    },
+    "raw": "Do regulacji napięcia olinowania stałego jachtu A Ściągaczy używa się: B |Reflinek C |Topenant"
+  },
+  {
+    "id": 26,
+    "category": "Budowa Jachtów",
+    "question": "Topenanta to lina służąca do",
+    "options": {
+      "A": "Zapobiegania unoszeniu się bomu przy żegludze pełnym wiatrem Ustawiania wysokości noku bomui",
+      "B": "zapobiegająca opadaniu bomu przy zrzucaniu żagli",
+      "C": "Łącząca topy dwóch masztów"
+    },
+    "raw": "Topenanta to lina służąca do: A Zapobiegania unoszeniu się bomu przy żegludze pełnym wiatrem Ustawiania wysokości noku bomui B |zapobiegająca opadaniu bomu przy zrzucaniu żagli C | Łącząca topy dwóch masztów"
+  },
+  {
+    "id": 27,
+    "category": "Budowa Jachtów",
+    "question": "Bryty, są to",
+    "options": {
+      "A": "Pasy tkaniny, z której uszyty jest żagiel",
+      "B": "Wzmocnienie rogów żagla",
+      "C": "Szwy łączące pasy tkaniny w żaglu"
+    },
+    "raw": "Bryty, są to: A |Pasy tkaniny, z której uszyty jest żagiel B Wzmocnienie rogów żagla C | Szwy łączące pasy tkaniny w żaglu"
+  },
+  {
+    "id": 28,
+    "category": "Budowa Jachtów",
+    "question": "Dla umożliwienia kładzenia masztu jest on",
+    "options": {
+      "A": "Wopętniku osadzany w:",
+      "B": "Obrotowo w t.zw. cęgach umieszczonych na pokładzie lub nadbudówce",
+      "C": "Wjarzmie masztu Gł. 41 00 DJ, laX 41 0J 69"
+    },
+    "raw": "Dla umożliwienia kładzenia masztu jest on A |Wopętniku osadzany w: B Obrotowo w t.zw. cęgach umieszczonych na pokładzie lub nadbudówce C_ |Wjarzmie masztu Gł. 41 00 DJ, laX 41 0J 69"
+  },
+  {
+    "id": 29,
+    "category": "Budowa Jachtów",
+    "question": "Do prowadzenia i regulacji ustawienia szotów żagli (np. foka) służą OBopukk",
+    "options": {},
+    "raw": "Do prowadzenia i regulacji ustawienia szotów żagli (np. foka) służą OBopukk"
+  },
+  {
+    "id": 30,
+    "category": "Budowa Jachtów",
+    "question": "Kabestan to urządzenie: A Umożliwiające wybieranie lin (np. szotów czy fałów) z dużą siłą Prowadzące łańcuch kotwiczny bez tarcia o pokład Ułatwiające sterowanie przy dużej fali",
+    "options": {},
+    "raw": "Kabestan to urządzenie: A Umożliwiające wybieranie lin (np. szotów czy fałów) z dużą siłą Prowadzące łańcuch kotwiczny bez tarcia o pokład Ułatwiające sterowanie przy dużej fali"
+  },
+  {
+    "id": 31,
+    "category": "Budowa Jachtów",
+    "question": "Na rysunku obok pokazano element takielunku zo Sy A",
+    "options": {},
+    "raw": "Na rysunku obok pokazano element takielunku zo Sy A"
+  },
+  {
+    "id": 32,
+    "category": "Budowa Jachtów",
+    "question": "Refbanta to: Mechanizm do rolowania żagla Wzmocnienie bomu dla zwiększenia jego sztywności Cc Wzmocnienie żagla z remizkami lub remizkami i refsejzingami",
+    "options": {},
+    "raw": "Refbanta to: Mechanizm do rolowania żagla Wzmocnienie bomu dla zwiększenia jego sztywności Cc Wzmocnienie żagla z remizkami lub remizkami i refsejzingami"
+  },
+  {
+    "id": 33,
+    "category": "Budowa Jachtów",
+    "question": "Pokazany na szkicu żagiel to: _B Genua 0 4",
+    "options": {},
+    "raw": "Pokazany na szkicu żagiel to: _B Genua 0 4"
+  },
+  {
+    "id": 34,
+    "category": "Budowa Jachtów",
+    "question": "Jak nazywają się pokazane na szkicu kolorem Raksklot |",
+    "options": {},
+    "raw": "Jak nazywają się pokazane na szkicu kolorem Raksklot |"
+  },
+  {
+    "id": 35,
+    "category": "Budowa Jachtów",
+    "question": "Szoty to liny służące do: Wybierania i luzowania żagli przy manewrach",
+    "options": {},
+    "raw": "Szoty to liny służące do: Wybierania i luzowania żagli przy manewrach"
+  },
+  {
+    "id": 36,
+    "category": "Budowa Jachtów",
+    "question": "Pawęż to element konstrukcyjny jachtu: _B_ Rufowe zakończenie kadłuba jachtu Cc Poprzeczne wzmocnienie kadłuba jachtu na śródokręciu",
+    "options": {},
+    "raw": "Pawęż to element konstrukcyjny jachtu: _B_ Rufowe zakończenie kadłuba jachtu Cc Poprzeczne wzmocnienie kadłuba jachtu na śródokręciu"
+  },
+  {
+    "id": 37,
+    "category": "Budowa Jachtów",
+    "question": "Szpring dziobowy to lina cumownicza biegnąca: Od dziobu na ląd w stronę rufy jachtu _B_ Od rufy na ląd w stronę rufy jachtu Od dziobu na ląd przed dziob jachtu",
+    "options": {},
+    "raw": "Szpring dziobowy to lina cumownicza biegnąca: Od dziobu na ląd w stronę rufy jachtu _B_ Od rufy na ląd w stronę rufy jachtu Od dziobu na ląd przed dziob jachtu"
+  },
+  {
+    "id": 38,
+    "category": "Budowa Jachtów",
+    "question": "Żagiel o dużej powierzchni podnoszony na sztagu",
+    "options": {
+      "A": "Fok i sięgający znacznie poza wanty to:",
+      "B": "Grot",
+      "C": "Genua"
+    },
+    "raw": "Żagiel o dużej powierzchni podnoszony na sztagu A |Fok i sięgający znacznie poza wanty to: B |Grot C Genua"
+  },
+  {
+    "id": 39,
+    "category": "Budowa Jachtów",
+    "question": "Do mocowania lin olinowania ruchomego do żagli",
+    "options": {
+      "A": "/Raksy lub lin olinowania stałego do okuć pokładowych",
+      "B": "Pełzacze mogą być używane:",
+      "C": "Szakle"
+    },
+    "raw": "Do mocowania lin olinowania ruchomego do żagli A /Raksy lub lin olinowania stałego do okuć pokładowych B | Pełzacze mogą być używane: C |Szakle"
+  },
+  {
+    "id": 40,
+    "category": "Budowa Jachtów",
+    "question": "Komory wypornościowe na jachcie służą do: Zapewnienia pływalności po napełnieniu A |jachtu wodą po jego wywróceniu lub awarii kadłuba B Poprawy stateczności jachtu Cc Mogą służyć do przechowywania sprzętu ratunkowego",
+    "options": {},
+    "raw": "Komory wypornościowe na jachcie służą do: Zapewnienia pływalności po napełnieniu A |jachtu wodą po jego wywróceniu lub awarii kadłuba B Poprawy stateczności jachtu Cc Mogą służyć do przechowywania sprzętu ratunkowego"
+  },
+  {
+    "id": 41,
+    "category": "Budowa Jachtów",
+    "question": "Lina służące do podnoszenia miecza to",
+    "options": {
+      "A": "Fał miecza",
+      "B": "Kontrafał miecza",
+      "C": "Szot miecza"
+    },
+    "raw": "Lina służące do podnoszenia miecza to: A |Fał miecza B | Kontrafał miecza C |Szot miecza"
+  },
+  {
+    "id": 42,
+    "category": "Budowa Jachtów",
+    "question": "Krawędź żagla obszytą dla wzmocnienia",
+    "options": {
+      "A": "Kilem nazywamy:",
+      "B": "Listwą",
+      "C": "Likiem"
+    },
+    "raw": "Krawędź żagla obszytą dla wzmocnienia A |Kilem nazywamy: B Listwą C |Likiem"
+  },
+  {
+    "id": 43,
+    "category": "Budowa Jachtów",
+    "question": "Po zakończeniu używania kuchenki gazowej",
+    "options": {
+      "A": "Zamknąć dokładnie zawór butli gazowej należy jako pierwszą czynność wykonać:",
+      "B": "Sprawdzić temperaturę butli",
+      "C": "Oczyścić palniki kuchenki"
+    },
+    "raw": "Po zakończeniu używania kuchenki gazowej A |Zamknąć dokładnie zawór butli gazowej należy jako pierwszą czynność wykonać: B | Sprawdzić temperaturę butli C |Oczyścić palniki kuchenki"
+  },
+  {
+    "id": 44,
+    "category": "Budowa Jachtów",
+    "question": "Jak nazywa się urządzenie do podnoszenia i",
+    "options": {
+      "A": "Uchwyt rufowy opuszczania silnika przyczepnego?",
+      "B": "Pantograf",
+      "C": "Podnośnik zawiasowy"
+    },
+    "raw": "Jak nazywa się urządzenie do podnoszenia i A |Uchwyt rufowy opuszczania silnika przyczepnego? B |Pantograf C |Podnośnik zawiasowy"
+  },
+  {
+    "id": 45,
+    "category": "Budowa Jachtów",
+    "question": "Jacht, który posiada jeden maszt i dwa żagle groti",
+    "options": {
+      "A": "Ket fok ma typ osprzętu żaglowego:",
+      "B": "Kecz",
+      "C": "Slup"
+    },
+    "raw": "Jacht, który posiada jeden maszt i dwa żagle groti A |Ket fok ma typ osprzętu żaglowego: B |Kecz C Slup"
+  },
+  {
+    "id": 46,
+    "category": "Budowa Jachtów",
+    "question": "Knaga to element osprzętu jachtu służący do",
+    "options": {
+      "A": "Mocowania lin",
+      "B": "Wykonywania splotów na linach",
+      "C": "\"Wzmocnienia pokładu"
+    },
+    "raw": "Knaga to element osprzętu jachtu służący do: A |Mocowania lin B Wykonywania splotów na linach C \"Wzmocnienia pokładu"
+  },
+  {
+    "id": 47,
+    "category": "Budowa Jachtów",
+    "question": "Jak bezpiecznie sprawdzić szczelność instalacji A |Za pomocą płomienia ( zapałki, zapalniczki) gazowej na jachcie? B Na słuch (szum uchodzącego gazu) c Za pomocą wody ze środkiem pieniącym ( mydło, płyn do zmywania)",
+    "options": {},
+    "raw": "Jak bezpiecznie sprawdzić szczelność instalacji A |Za pomocą płomienia ( zapałki, zapalniczki) gazowej na jachcie? B Na słuch (szum uchodzącego gazu) c Za pomocą wody ze środkiem pieniącym ( mydło, płyn do zmywania)"
+  },
+  {
+    "id": 48,
+    "category": "Budowa Jachtów",
+    "question": "Kluza jest to",
+    "options": {
+      "A": "Okucie lub otwór w nadburciu służące do prowadzenia cum czy szpringów",
+      "B": "Ucho na pokładzie do mocowania bloków",
+      "C": "Urządzenie do mocowania lin ( np. szotów)"
+    },
+    "raw": "Kluza jest to: A Okucie lub otwór w nadburciu służące do prowadzenia cum czy szpringów B | Ucho na pokładzie do mocowania bloków C | Urządzenie do mocowania lin ( np. szotów)"
+  },
+  {
+    "id": 49,
+    "category": "Budowa Jachtów",
+    "question": "O sprawności układu chłodzenia w silniku",
+    "options": {
+      "A": "Równo pracujący silnik zaburtowym świadczy:",
+      "B": "Wypływająca z otworu pod silnikiem struga wody",
+      "C": "Czyste spaliny (brak dymu w spalinach)"
+    },
+    "raw": "O sprawności układu chłodzenia w silniku A |Równo pracujący silnik zaburtowym świadczy: B Wypływająca z otworu pod silnikiem struga wody C |Czyste spaliny (brak dymu w spalinach)"
+  },
+  {
+    "id": 50,
+    "category": "Budowa Jachtów",
+    "question": "Żagiel podnoszony na sztagu jachtu o osprzęcie",
+    "options": {
+      "A": "Bezan żaglowym typu slup to:",
+      "B": "Fok",
+      "C": "Grot"
+    },
+    "raw": "Żagiel podnoszony na sztagu jachtu o osprzęcie A |Bezan żaglowym typu slup to: B | Fok C Grot"
+  },
+  {
+    "id": 51,
+    "category": "Budowa Jachtów",
+    "question": "Miecz na jachcie to",
+    "options": {
+      "A": "Opuszczana płyta umieszczona w skrzyni lub falszkilu w środkowej części jachtu.",
+      "B": "Część urządzenia sterowego",
+      "C": "Urządzenie do regulacji kąta przechyłu"
+    },
+    "raw": "Miecz na jachcie to: A Opuszczana płyta umieszczona w skrzyni lub falszkilu w środkowej części jachtu. B Część urządzenia sterowego C Urządzenie do regulacji kąta przechyłu"
+  },
+  {
+    "id": 52,
+    "category": "Budowa Jachtów",
+    "question": "Do olinowania ruchomego zaliczamy",
+    "options": {
+      "A": "Sztagi",
+      "B": "Achtersztag",
+      "C": "Fały"
+    },
+    "raw": "Do olinowania ruchomego zaliczamy: A |Sztagi B | Achtersztag C |Fały"
+  },
+  {
+    "id": 53,
+    "category": "Budowa Jachtów",
+    "question": "Akumulatory kwasowe bezobsługowe powinny A W pomieszczeniu wydzielonym i dobrze być umieszczone na jachcie: wentylowanym B_|Tylko na pokładzie C Nie ma znaczenia gdzie się je umieści",
+    "options": {},
+    "raw": "Akumulatory kwasowe bezobsługowe powinny A W pomieszczeniu wydzielonym i dobrze być umieszczone na jachcie: wentylowanym B_|Tylko na pokładzie C Nie ma znaczenia gdzie się je umieści"
+  },
+  {
+    "id": 54,
+    "category": "Budowa Jachtów",
+    "question": "Refsejzingi to linki służące do",
+    "options": {
+      "A": "Mocowania pokrowca na na żagiel do bomu",
+      "B": "Linki mocujące żagiel do bomu przy refowaniu żagla",
+      "C": "Cumowania jachtu przy silnym wietrze"
+    },
+    "raw": "Refsejzingi to linki służące do: A Mocowania pokrowca na na żagiel do bomu B Linki mocujące żagiel do bomu przy refowaniu żagla C | Cumowania jachtu przy silnym wietrze"
+  },
+  {
+    "id": 55,
+    "category": "Budowa Jachtów",
+    "question": "Na rysunku pokazano schematycznie konstrukcję",
+    "options": {
+      "A": "Rumpel urządzenia sterowego. Element zaznaczony kolorem",
+      "B": "Jarzmo czerwonym to:",
+      "C": "Płetwa steru"
+    },
+    "raw": "Na rysunku pokazano schematycznie konstrukcję A |Rumpel urządzenia sterowego. Element zaznaczony kolorem B Jarzmo czerwonym to: C Płetwa steru"
+  },
+  {
+    "id": 56,
+    "category": "Budowa Jachtów",
+    "question": "Achterpik na jachcie znajduje się",
+    "options": {
+      "A": "To pomieszczenie rufowej części jachtu",
+      "B": "To pomieszczenie w dziobowej części jachtu",
+      "C": "Totylny koniec bomu - Smak AdWOGPY ODM OT"
+    },
+    "raw": "Achterpik na jachcie znajduje się: A |To pomieszczenie rufowej części jachtu B To pomieszczenie w dziobowej części jachtu C |Totylny koniec bomu - Smak AdWOGPY ODM OT"
+  },
+  {
+    "id": 57,
+    "category": "Budowa Jachtów",
+    "question": "Fok może być mocowany do sztagu miedzy",
+    "options": {
+      "A": "Segarsów innymi przy pomocy:",
+      "B": "Raks",
+      "C": "Pełzaczy EKSPLOATACJA ORAZ MANEWROWANIE JACHTEM"
+    },
+    "raw": "Fok może być mocowany do sztagu miedzy A |Segarsów innymi przy pomocy: B |Raks C |Pełzaczy EKSPLOATACJA ORAZ MANEWROWANIE JACHTEM"
+  },
+  {
+    "id": 58,
+    "category": "Budowa Jachtów",
+    "question": "Jeżeli człowiek wypadł za burtę na kursie pełny Odpłynąć bez zmiany kursu kilkadziesiąt baksztag, to który z opisanych poniżej manewrów A |metrów, szybko wykonać zwrot przez sztag będzie najprostszy i najszybszy? i halsując podchodzić do człowieka Natychmiast wykonać zwrot przez rufę, B | wyostrzyć,wykonać zwrot przez sztag i halsując podchodzić do człowieka Cc Wyostrzyć, odejść nie za daleko, wykonać zwrot przez sztag i podejść bajdewindem.",
+    "options": {},
+    "raw": "Jeżeli człowiek wypadł za burtę na kursie pełny Odpłynąć bez zmiany kursu kilkadziesiąt baksztag, to który z opisanych poniżej manewrów A |metrów, szybko wykonać zwrot przez sztag będzie najprostszy i najszybszy? i halsując podchodzić do człowieka Natychmiast wykonać zwrot przez rufę, B | wyostrzyć,wykonać zwrot przez sztag i halsując podchodzić do człowieka Cc Wyostrzyć, odejść nie za daleko, wykonać zwrot przez sztag i podejść bajdewindem."
+  },
+  {
+    "id": 59,
+    "category": "Budowa Jachtów",
+    "question": "Jacht zacumowany dziobem do pomostu",
+    "options": {
+      "A": "Ustawić płetwę steru w położeniu \"zero\" odchodzi na silniku od nabrzeża na biegu wstecznym.",
+      "B": "Ustawić płetwę steru w położeniu \"lewo\" Chcemy aby dziób odchylał się w prawo. Jak ustawić",
+      "C": "Ustawić płetwe steru w położeniu \"brawo\" płetwę sterową? p ę p p"
+    },
+    "raw": "Jacht zacumowany dziobem do pomostu A |Ustawić płetwę steru w położeniu \"zero\" odchodzi na silniku od nabrzeża na biegu wstecznym. B_ | Ustawić płetwę steru w położeniu \"lewo\" Chcemy aby dziób odchylał się w prawo. Jak ustawić C Ustawić płetwe steru w położeniu \"brawo\" płetwę sterową? p ę p p"
+  },
+  {
+    "id": 60,
+    "category": "Budowa Jachtów",
+    "question": "Przy odejściu od boi na lewy hals ustawiamy",
+    "options": {
+      "A": "Fok prawo na wiatr, ster zero",
+      "B": "Fok lewo na wiatr, ster lewo",
+      "C": "Grot i fok w łopocie, ster prawo"
+    },
+    "raw": "Przy odejściu od boi na lewy hals ustawiamy: A _ |Fok prawo na wiatr, ster zero B |Fok lewo na wiatr, ster lewo C | Grot i fok w łopocie, ster prawo"
+  },
+  {
+    "id": 61,
+    "category": "Budowa Jachtów",
+    "question": "Śruba prawoskrętna umiejscowiona jest w",
+    "options": {
+      "A": "Rufa będzie odrzucana w prawo diametralnej jachtu. Włączamy silnik na bieg naprzód.",
+      "B": "Rufa będzie odrzucana w lewo Ster zero. Jaka będzie reakcja jachtu ?",
+      "C": "Jacht ruszy naprzód bez zmiany kierunku"
+    },
+    "raw": "Śruba prawoskrętna umiejscowiona jest w A |Rufa będzie odrzucana w prawo diametralnej jachtu. Włączamy silnik na bieg naprzód. B | Rufa będzie odrzucana w lewo Ster zero. Jaka będzie reakcja jachtu ? C | Jacht ruszy naprzód bez zmiany kierunku"
+  },
+  {
+    "id": 62,
+    "category": "Budowa Jachtów",
+    "question": "Jacht prawie stoi. Jest niewiele miejsca na obrót.",
+    "options": {
+      "A": "Ster prawo na burt, krótko cała naprzód, Chcemy wykonać jachtem na silniku ciasny skręt w silnik stop prawo. Jak należy postąpić?",
+      "B": "Ster prawo na burt, wolno naprzód",
+      "C": "Ster prawo na burt, cała naprzrzód"
+    },
+    "raw": "Jacht prawie stoi. Jest niewiele miejsca na obrót. A Ster prawo na burt, krótko cała naprzód, Chcemy wykonać jachtem na silniku ciasny skręt w silnik stop prawo. Jak należy postąpić? B Ster prawo na burt, wolno naprzód C Ster prawo na burt, cała naprzrzód"
+  },
+  {
+    "id": 63,
+    "category": "Budowa Jachtów",
+    "question": "Przy dojściu do nabrzeża rufą podano i A Starać się złapać boję bosakiem i zamocowano dwie cumy rufowe. Członek załogi na przyciągać jacht dla założenia cumy dziobie nie zdążył założył cumy dziobowej na boję. Silnik naprzód stosownie do potrzeby Wiatr jest silny od dziobu. Jak dalej manewrować? . ; . ag powoli luzować cumy rufowe i założyć B cumę dziobową. silnik stop. Ustawić jacht na cumach. c Założyć odbijacze na rufie i prosić o pomoc personel przystani",
+    "options": {},
+    "raw": "Przy dojściu do nabrzeża rufą podano i A Starać się złapać boję bosakiem i zamocowano dwie cumy rufowe. Członek załogi na przyciągać jacht dla założenia cumy dziobie nie zdążył założył cumy dziobowej na boję. Silnik naprzód stosownie do potrzeby Wiatr jest silny od dziobu. Jak dalej manewrować? . ; . ag powoli luzować cumy rufowe i założyć B cumę dziobową. silnik stop. Ustawić jacht na cumach. c Założyć odbijacze na rufie i prosić o pomoc personel przystani"
+  },
+  {
+    "id": 64,
+    "category": "Budowa Jachtów",
+    "question": "Intensywne hamowanie żaglami polega na",
+    "options": {
+      "A": "Całkowitym wyluzowaniu żagli",
+      "B": "Maksymalnym wybraniu żagli do diametralnej jachtu",
+      "C": "Wypychaniu żagli na wiatr tet RAAL (22) 541 63 69"
+    },
+    "raw": "Intensywne hamowanie żaglami polega na: A |Całkowitym wyluzowaniu żagli B Maksymalnym wybraniu żagli do diametralnej jachtu C |Wypychaniu żagli na wiatr tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 65,
+    "category": "Budowa Jachtów",
+    "question": "Podchodząc do boi najskuteczniej jest Zrzucić fok przed podejściem, dochodzić w przeprowadzić manewr w sposób następujący: A linii wiatru, założyć cumę na biegowo, a następnie zrzucić grot. B Zrzucić grot, podchodzić na foku z wiatrem, założyć cumę na boję, zrzucić fok Cc Podchodzić pod pełnymi żaglami, po założeniu cumy na boję zrzucić żagle.",
+    "options": {},
+    "raw": "Podchodząc do boi najskuteczniej jest Zrzucić fok przed podejściem, dochodzić w przeprowadzić manewr w sposób następujący: A linii wiatru, założyć cumę na biegowo, a następnie zrzucić grot. B Zrzucić grot, podchodzić na foku z wiatrem, założyć cumę na boję, zrzucić fok Cc Podchodzić pod pełnymi żaglami, po założeniu cumy na boję zrzucić żagle."
+  },
+  {
+    "id": 66,
+    "category": "Budowa Jachtów",
+    "question": "Jacht (czerwony) jest zacumowany jak na rysunku. Przecumować jacht do wolnej części Jak najbezpieczniej powinien odejść od pomostu pod",
+    "options": {
+      "A": "pomostu rufą do wiatru. Postawić żagle i żaglami (wiatr niebieska strzałka) ? odejść z wiatrem | Przecumować jacht do wolnej części",
+      "B": "pomostu dziobem do wiatru. Postawić żagle i odejść lewym halsem. Nie da się odejść, konieczna jest pomoc dla",
+      "C": "wywiezienia kotwicy lub odholowania jachtu"
+    },
+    "raw": "Jacht (czerwony) jest zacumowany jak na rysunku. Przecumować jacht do wolnej części Jak najbezpieczniej powinien odejść od pomostu pod A |pomostu rufą do wiatru. Postawić żagle i żaglami (wiatr niebieska strzałka) ? odejść z wiatrem | Przecumować jacht do wolnej części B |pomostu dziobem do wiatru. Postawić żagle i odejść lewym halsem. Nie da się odejść, konieczna jest pomoc dla C |wywiezienia kotwicy lub odholowania jachtu"
+  },
+  {
+    "id": 67,
+    "category": "Budowa Jachtów",
+    "question": "Kąt martwy dla danego jachtu wynosi 120”. W Kiedy płynąc ostrym bajdewindem jakim momencie podczas halsowania należy wykonać",
+    "options": {
+      "A": "zaobserwujemy ten obiekt w kierunku ok. zwrot przez sztag, aby mieć pewność, że jednym 60” od kursu halsem dopłyniemy do żądanego punktu (n.p. boi)? - - - Kiedy płynąc ostrym bajdewindem",
+      "B": "zaobserwujemy ten obiekt w kierunku nieco wiekszym niż 120” od kursu Kiedy płynąc ostrym bajdewindem",
+      "C": "zaobserwujemy ten obiekt w kierunku ok. 90” od kursu"
+    },
+    "raw": "Kąt martwy dla danego jachtu wynosi 120”. W Kiedy płynąc ostrym bajdewindem jakim momencie podczas halsowania należy wykonać A |zaobserwujemy ten obiekt w kierunku ok. zwrot przez sztag, aby mieć pewność, że jednym 60” od kursu halsem dopłyniemy do żądanego punktu (n.p. boi)? - - - Kiedy płynąc ostrym bajdewindem B |zaobserwujemy ten obiekt w kierunku nieco wiekszym niż 120” od kursu Kiedy płynąc ostrym bajdewindem C |zaobserwujemy ten obiekt w kierunku ok. 90” od kursu"
+  },
+  {
+    "id": 68,
+    "category": "Budowa Jachtów",
+    "question": "Chcemy wykonać zwrot przez sztag o",
+    "options": {
+      "A": "Luzujemy całkowicie fok, wybieramy jaknajmniejszym promieniu skrętu. Który z maksymalnie grot, dajemy ster na burtę manewrów opisanych poniżej będzie . . . . najefektywniejszy? Wybieramy maksymalnie foki grot, dajemy",
+      "B": "ster na burtę, kiedy oba żagle wejdą w łopot luzujemy szot foka. Dajemy ster na burtę, w momencie kiedy jacht będzie w lini wiatru luzujemy szot grota,nawietrzny szot foka luzujemy",
+      "C": "dopiero po odpadnięciu jachtu na nowy hals, a następnie wybieramy zawietrzny szot foka."
+    },
+    "raw": "Chcemy wykonać zwrot przez sztag o A Luzujemy całkowicie fok, wybieramy jaknajmniejszym promieniu skrętu. Który z maksymalnie grot, dajemy ster na burtę manewrów opisanych poniżej będzie . . . . najefektywniejszy? Wybieramy maksymalnie foki grot, dajemy B |ster na burtę, kiedy oba żagle wejdą w łopot luzujemy szot foka. Dajemy ster na burtę, w momencie kiedy jacht będzie w lini wiatru luzujemy szot grota,nawietrzny szot foka luzujemy C |dopiero po odpadnięciu jachtu na nowy hals, a następnie wybieramy zawietrzny szot foka."
+  },
+  {
+    "id": 69,
+    "category": "Budowa Jachtów",
+    "question": "Jak należy przygotować cumę dziobową przy",
+    "options": {
+      "A": "Zawiązac cumę na boi węzłem cumowy odejściu od boi, aby manewr odejścia przeprowadzić żeglarski i dopiero potem odchodzić sprawnie i bezpiecznie? Założyć . . H",
+      "B": "ałożyć cumę na biegowo i odejśc na żądany hals Założyć możliwie najmocniejszą cumę z",
+      "C": "posiadanych na jachcie, węzeł nie ma znaczenia tet RAAL (22) 541 63 69"
+    },
+    "raw": "Jak należy przygotować cumę dziobową przy A Zawiązac cumę na boi węzłem cumowy odejściu od boi, aby manewr odejścia przeprowadzić żeglarski i dopiero potem odchodzić sprawnie i bezpiecznie? Założyć . . H B ałożyć cumę na biegowo i odejśc na żądany hals Założyć możliwie najmocniejszą cumę z C |posiadanych na jachcie, węzeł nie ma znaczenia tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 70,
+    "category": "Budowa Jachtów",
+    "question": "Na jachcie z instalacją elektryczną 12 V czuć",
+    "options": {
+      "A": "Zlokalizować miejsce przegrzane i wyłączyć zapach tlącej się izolacji. Jak należy postąpić? odpowiedni odbiornik energii Natychmiast wyłączyć główny wyłącznik",
+      "B": "akumulatorów lub zdjąć klemy z akumulatorów",
+      "C": "Sprawdzić odbiorniki energii o dużej mocy i ewentualnie je wyłączyć"
+    },
+    "raw": "Na jachcie z instalacją elektryczną 12 V czuć A Zlokalizować miejsce przegrzane i wyłączyć zapach tlącej się izolacji. Jak należy postąpić? odpowiedni odbiornik energii Natychmiast wyłączyć główny wyłącznik B | akumulatorów lub zdjąć klemy z akumulatorów C Sprawdzić odbiorniki energii o dużej mocy i ewentualnie je wyłączyć"
+  },
+  {
+    "id": 71,
+    "category": "Budowa Jachtów",
+    "question": "W porcie jachtowym przyjety jest system Przygotować cumę dziobową i rufową, cumowania dziobem do pomostu, a rufą do boi. Jak wchodzić powoli i podczas mijania boi przeprowadzić manewr cumowania w takim porcie A założyć cumę rufową, zatrzymać jacht manewrując na silniku? przed nabrzeżem i założyć cumę dziobową Podejść do nabrzeża dziobem, założyć cumę dziobową, luzować cumę dziobową i p cofać jacht na biegu wstecznym, założyć cumę rufowa na boję, ustawić jacht pracując cumami Podejść do boi dziobem, zatrzymać jacht i założyć cumę rufową rozciągnietą z rufy na C dziób, na biegu naprzód podchodzić dalej do nabrzeża i założyć cumę dziobową",
+    "options": {},
+    "raw": "W porcie jachtowym przyjety jest system Przygotować cumę dziobową i rufową, cumowania dziobem do pomostu, a rufą do boi. Jak wchodzić powoli i podczas mijania boi przeprowadzić manewr cumowania w takim porcie A założyć cumę rufową, zatrzymać jacht manewrując na silniku? przed nabrzeżem i założyć cumę dziobową Podejść do nabrzeża dziobem, założyć cumę dziobową, luzować cumę dziobową i p cofać jacht na biegu wstecznym, założyć cumę rufowa na boję, ustawić jacht pracując cumami Podejść do boi dziobem, zatrzymać jacht i założyć cumę rufową rozciągnietą z rufy na C dziób, na biegu naprzód podchodzić dalej do nabrzeża i założyć cumę dziobową"
+  },
+  {
+    "id": 72,
+    "category": "Budowa Jachtów",
+    "question": "Zamierzamy wyposażyc jacht w nowe cumy.",
+    "options": {
+      "A": "Poliamidowe (nylonowe) Chcemy aby były nietonące. Jaki rodzaj wybrać?",
+      "B": "/Poliestrowe ( np. elana)",
+      "C": "Polipropylenowe"
+    },
+    "raw": "Zamierzamy wyposażyc jacht w nowe cumy. A |Poliamidowe (nylonowe) Chcemy aby były nietonące. Jaki rodzaj wybrać? B /Poliestrowe ( np. elana) C |Polipropylenowe"
+  },
+  {
+    "id": 73,
+    "category": "Budowa Jachtów",
+    "question": "Jacht morski balastowy(długość 8 m). Ile cumi",
+    "options": {
+      "A": "2cumy po ok. 8 m. jakiej długości powinno być na pokładzie zgodnie z",
+      "B": "4cumypook.12m dobrą praktyką żeglarską?",
+      "C": "2cumypook.4m"
+    },
+    "raw": "Jacht morski balastowy(długość 8 m). Ile cumi A |2cumy po ok. 8 m. jakiej długości powinno być na pokładzie zgodnie z B |4cumypook.12m dobrą praktyką żeglarską? C |2cumypook.4m"
+  },
+  {
+    "id": 74,
+    "category": "Budowa Jachtów",
+    "question": "Jacht balastowo mieczowy (długośc 7 m)",
+    "options": {
+      "A": "10m eksploatowany jest na jeź. Mazurskich. Jaka powinna",
+      "B": "(25m być orientacyjna długość liny kotwicznej dla tego .",
+      "C": "100m jachtu?"
+    },
+    "raw": "Jacht balastowo mieczowy (długośc 7 m) A |10m eksploatowany jest na jeź. Mazurskich. Jaka powinna B (25m być orientacyjna długość liny kotwicznej dla tego . C |100m jachtu?"
+  },
+  {
+    "id": 75,
+    "category": "Budowa Jachtów",
+    "question": "Czarterujemy jacht na jeziorach Mazurskich. Jakie A | Jaka jest pojemność i rodzaj akumulatorów BEZPIECZEŃSTWA żeglugi będą dla nas chemiczną i zbiorniki na wodę NAJWAŻNIEJSZE ? - - - - — Czy jacht jest niezatapialny i jaką ma stateczność (wymaga balastowania, ma C |stateczność dodatnią przy dużych kątach przechyłu ?)",
+    "options": {},
+    "raw": "Czarterujemy jacht na jeziorach Mazurskich. Jakie A | Jaka jest pojemność i rodzaj akumulatorów BEZPIECZEŃSTWA żeglugi będą dla nas chemiczną i zbiorniki na wodę NAJWAŻNIEJSZE ? - - - - — Czy jacht jest niezatapialny i jaką ma stateczność (wymaga balastowania, ma C |stateczność dodatnią przy dużych kątach przechyłu ?)"
+  },
+  {
+    "id": 76,
+    "category": "Budowa Jachtów",
+    "question": "Przygotowując miesznkę paliwa i oleju do silnika A |Liczbą oktanową używanego paliwa dwusuwowego należy kierować się: B_ | Instrukcją obsługi danego silnika Cc Nie ma to znaczenia, zawsze stosuje się stosunek 1:50 tet RAAL (22) 541 63 69",
+    "options": {},
+    "raw": "Przygotowując miesznkę paliwa i oleju do silnika A |Liczbą oktanową używanego paliwa dwusuwowego należy kierować się: B_ | Instrukcją obsługi danego silnika Cc Nie ma to znaczenia, zawsze stosuje się stosunek 1:50 tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 77,
+    "category": "Budowa Jachtów",
+    "question": "Jakie niebezpieczeństwo stwarza ulatnianie się A | Nie ma wpływu na zdrowie załogi gazu (propan-butan) z butli we wnętrzu jachtu. B |Tylko utratę pewnej ilości gazu Niebezpieczeństwo wybuchu, gdyż gaz z Cc powietrzem tworzy mieszaninę wybuchową",
+    "options": {},
+    "raw": "Jakie niebezpieczeństwo stwarza ulatnianie się A | Nie ma wpływu na zdrowie załogi gazu (propan-butan) z butli we wnętrzu jachtu. B |Tylko utratę pewnej ilości gazu Niebezpieczeństwo wybuchu, gdyż gaz z Cc powietrzem tworzy mieszaninę wybuchową"
+  },
+  {
+    "id": 78,
+    "category": "Budowa Jachtów",
+    "question": "Na małym jachcie mieczowym (np. OMEGA) A Wciągnąć na maszt członka załogi przy zerwał się fał foka. Jak bezpiecznie przeprowadzić użyciu fału grota i wymienić fał naprawę? B Położyć maszt i wymienić fał Cc Przy pomoście przechylić jacht używając fału grota i wymienić fał",
+    "options": {},
+    "raw": "Na małym jachcie mieczowym (np. OMEGA) A Wciągnąć na maszt członka załogi przy zerwał się fał foka. Jak bezpiecznie przeprowadzić użyciu fału grota i wymienić fał naprawę? B Położyć maszt i wymienić fał Cc Przy pomoście przechylić jacht używając fału grota i wymienić fał"
+  },
+  {
+    "id": 79,
+    "category": "Budowa Jachtów",
+    "question": "Przy ładowaniu akumulatora przenośnym A Plus prostownika - plus akumulatora, minus prostownikiem zaciski prostownika podłączamy do prostownika - minus akumulatora akumulatora: PI . , B us prostownika - minus akumulatora, minus prostownika - plus akumulatora Cc Plus prostownika - plus akumulatora, minus prostownika do uziemienia",
+    "options": {},
+    "raw": "Przy ładowaniu akumulatora przenośnym A Plus prostownika - plus akumulatora, minus prostownikiem zaciski prostownika podłączamy do prostownika - minus akumulatora akumulatora: PI . , B us prostownika - minus akumulatora, minus prostownika - plus akumulatora Cc Plus prostownika - plus akumulatora, minus prostownika do uziemienia"
+  },
+  {
+    "id": 80,
+    "category": "Budowa Jachtów",
+    "question": "Jacht żegluje na silniku przyczepnym, w pewnym",
+    "options": {
+      "A": "Rozłaczenie śruby z wałkiem śruby (ścięcie momencie obroty silnika wzrosły, ale jacht zwalnia i sworznia lub innego zabezpieczenia śruby) zatrzymuje się. Co może być najbardziej",
+      "B": "Uszkodzenie jednego ze skrzydeł śruby prawdopodobną przyczyną takiej awarii? - - ;",
+      "C": "Nakręcenie wodorostów na śrubę"
+    },
+    "raw": "Jacht żegluje na silniku przyczepnym, w pewnym A Rozłaczenie śruby z wałkiem śruby (ścięcie momencie obroty silnika wzrosły, ale jacht zwalnia i sworznia lub innego zabezpieczenia śruby) zatrzymuje się. Co może być najbardziej B / Uszkodzenie jednego ze skrzydeł śruby prawdopodobną przyczyną takiej awarii? - - ; C Nakręcenie wodorostów na śrubę"
+  },
+  {
+    "id": 81,
+    "category": "Budowa Jachtów",
+    "question": "Jak powinno przebiegać prawidłowe zakończenie Zmniejszyć obroty, podnieść silnik na pracy silnika przyczepnego? A |pantografie i zgasić go wyłączeniem zapłonu. Zmniejszyć obroty, włączyć \"Luz\", zgasić B |silnik wyłącznikiem zapłonu, pdnieść silnik na pantogrfie Cc Zgasić silnik wyłącznikiem zapłonu, pdnieść silnik na pantogrfie",
+    "options": {},
+    "raw": "Jak powinno przebiegać prawidłowe zakończenie Zmniejszyć obroty, podnieść silnik na pracy silnika przyczepnego? A |pantografie i zgasić go wyłączeniem zapłonu. Zmniejszyć obroty, włączyć \"Luz\", zgasić B |silnik wyłącznikiem zapłonu, pdnieść silnik na pantogrfie Cc Zgasić silnik wyłącznikiem zapłonu, pdnieść silnik na pantogrfie"
+  },
+  {
+    "id": 82,
+    "category": "Budowa Jachtów",
+    "question": "Po uruchomieniu dwusuwowy silnik przyczepny",
+    "options": {
+      "A": "Zbyt dużo oleju w paliwie pracuje lecz dośc silnie dymi. Co może być przyczyną?",
+      "B": "Zanieczyszczony gaźnik",
+      "C": "Paliwo o zbyt niskej liczbie oktanowej"
+    },
+    "raw": "Po uruchomieniu dwusuwowy silnik przyczepny A | Zbyt dużo oleju w paliwie pracuje lecz dośc silnie dymi. Co może być przyczyną? B |Zanieczyszczony gaźnik C Paliwo o zbyt niskej liczbie oktanowej"
+  },
+  {
+    "id": 83,
+    "category": "Budowa Jachtów",
+    "question": "Tankując zbiornik paliwa do silnika przyczepnego",
+    "options": {
+      "A": "Tankujemy go do pełna i zakręcamy korek dla bezpiecznego przechowania zbiornika z paliwem wlewu. wykonujemy n/w czynności.",
+      "B": "Tankujemy go do pełna i zakręcamy korek wlewu i zaworek odpowietrzania Tankujemy z pozostawieniem pewnej",
+      "C": "wolnej przestrzeni w zbiorniku i zamykamy korek wlewu i zaworek odpowietrzający tet. (22) S41 63 63, Tax (ZZ) 541 63 69"
+    },
+    "raw": "Tankując zbiornik paliwa do silnika przyczepnego A Tankujemy go do pełna i zakręcamy korek dla bezpiecznego przechowania zbiornika z paliwem wlewu. wykonujemy n/w czynności. B Tankujemy go do pełna i zakręcamy korek wlewu i zaworek odpowietrzania Tankujemy z pozostawieniem pewnej C wolnej przestrzeni w zbiorniku i zamykamy korek wlewu i zaworek odpowietrzający tet. (22) S41 63 63, Tax (ZZ) 541 63 69"
+  },
+  {
+    "id": 84,
+    "category": "Budowa Jachtów",
+    "question": "Na jachcie mamy kwasowe akumulatory A Tak, dopełniania ubytków kwasu wodą obsługowe. Czy wymagają one czynności destylowaną j ? konserwacyjnych? Nie wymagają żadnej obsługi poza B | utrzymaniem w czystości klem i ich ochrony przed korozją Cc Dopełniania ubytków kwasu 50% roztworem kwasu siarkowego",
+    "options": {},
+    "raw": "Na jachcie mamy kwasowe akumulatory A Tak, dopełniania ubytków kwasu wodą obsługowe. Czy wymagają one czynności destylowaną j ? konserwacyjnych? Nie wymagają żadnej obsługi poza B | utrzymaniem w czystości klem i ich ochrony przed korozją Cc Dopełniania ubytków kwasu 50% roztworem kwasu siarkowego"
+  },
+  {
+    "id": 85,
+    "category": "Budowa Jachtów",
+    "question": "Czy przy gwałtownym hamowaniu silnikiem \"cała A |Utrzyma kurs wstecz\" i położeniu płetwy sterowej \"ster zero\" jacht: g_ Będzie skręcał w zależności od kierunku obrotów śruby C Zawsze będzie skręcał w prawo",
+    "options": {},
+    "raw": "Czy przy gwałtownym hamowaniu silnikiem \"cała A |Utrzyma kurs wstecz\" i położeniu płetwy sterowej \"ster zero\" jacht: g_ Będzie skręcał w zależności od kierunku obrotów śruby C Zawsze będzie skręcał w prawo"
+  },
+  {
+    "id": 86,
+    "category": "Budowa Jachtów",
+    "question": "Komenda \" prawy foka szot luz\" oznacza: A Natychmiastowe i całkowite zluzowanie szota B_ Stopniowe luzowanie szota Cc Luzowanie do momentu wejścia żagla w łopot",
+    "options": {},
+    "raw": "Komenda \" prawy foka szot luz\" oznacza: A Natychmiastowe i całkowite zluzowanie szota B_ Stopniowe luzowanie szota Cc Luzowanie do momentu wejścia żagla w łopot"
+  },
+  {
+    "id": 87,
+    "category": "Budowa Jachtów",
+    "question": "Żeglując na rzece podchodzimy do pomostu",
+    "options": {
+      "A": "Pod prąd wiatr, niezbyt silny. Jak należy podchodzić?",
+      "B": "Zprądem",
+      "C": "Nie ma to znaczenia"
+    },
+    "raw": "Żeglując na rzece podchodzimy do pomostu A |Pod prąd wiatr, niezbyt silny. Jak należy podchodzić? B |Zprądem C Nie ma to znaczenia"
+  },
+  {
+    "id": 88,
+    "category": "Budowa Jachtów",
+    "question": "Podchodzimy do pomostu prawą burtą na silniku A |Nie będzie żadnej bo jacht stoi pod prąd. Po zahamowaniu silnikiem jacht stoi. Jaką Ster lewo - dziób będzie odchylał się od reakcję jachtu spowoduje wychylenie steru w takiej B pomostu, a rufa w stronę pomostu sytuacji? > > Cc Ster prawo - rufa będzie odchylała się w stronę pomostu",
+    "options": {},
+    "raw": "Podchodzimy do pomostu prawą burtą na silniku A |Nie będzie żadnej bo jacht stoi pod prąd. Po zahamowaniu silnikiem jacht stoi. Jaką Ster lewo - dziób będzie odchylał się od reakcję jachtu spowoduje wychylenie steru w takiej B pomostu, a rufa w stronę pomostu sytuacji? > > Cc Ster prawo - rufa będzie odchylała się w stronę pomostu"
+  },
+  {
+    "id": 89,
+    "category": "Budowa Jachtów",
+    "question": "Jakie najważniejsze czynności należy wykonać",
+    "options": {
+      "A": "Przygotować kotwicę i linę kotwiczną przed kotwiczeniem? Upewnić się jaka jest głębokość w miejscu kotwiczenia, przygotować odpowiednią",
+      "B": "długość liny kotwicznej i kotwicę, przygotować żagle do zrzucenia",
+      "C": "Przygotować żagle do zrzucenia"
+    },
+    "raw": "Jakie najważniejsze czynności należy wykonać A |Przygotować kotwicę i linę kotwiczną przed kotwiczeniem? Upewnić się jaka jest głębokość w miejscu kotwiczenia, przygotować odpowiednią B długość liny kotwicznej i kotwicę, przygotować żagle do zrzucenia C |Przygotować żagle do zrzucenia"
+  },
+  {
+    "id": 90,
+    "category": "Budowa Jachtów",
+    "question": "Jacht wyposażony jest w linę kotwiczną i kotwicę A |Około 6 m Danfortha Kotwiczymy na jeziorze na głębokości 2 m. B | Około 15m Jaką minimalną długość liny kotwicznej wydać dla bezpiecznego postoju przy założeniu, że bezpieczny C_|Około 30 m promień łukowania wynosi ok. 20 m?",
+    "options": {},
+    "raw": "Jacht wyposażony jest w linę kotwiczną i kotwicę A |Około 6 m Danfortha Kotwiczymy na jeziorze na głębokości 2 m. B | Około 15m Jaką minimalną długość liny kotwicznej wydać dla bezpiecznego postoju przy założeniu, że bezpieczny C_|Około 30 m promień łukowania wynosi ok. 20 m?"
+  },
+  {
+    "id": 91,
+    "category": "Budowa Jachtów",
+    "question": "Jakie czynności powinien wykonać członek załogi",
+    "options": {
+      "A": "Zająć stanowisko pozwalające układać po komendzie \"przygotować grot do zrzucenia? zrzucany żagiel",
+      "B": "Rozbuchtować fał i ułożyć go tak by się nie splątał, być w gotowości do luzowania fału Oczekiwać na ewentualną komendę \"grot",
+      "C": "precz' i wtedy podjąć odpowiednie czynności ok PYAKWOGRJAOĄ PI OWA OTO"
+    },
+    "raw": "Jakie czynności powinien wykonać członek załogi A Zająć stanowisko pozwalające układać po komendzie \"przygotować grot do zrzucenia? zrzucany żagiel B Rozbuchtować fał i ułożyć go tak by się nie splątał, być w gotowości do luzowania fału Oczekiwać na ewentualną komendę \"grot C |precz' i wtedy podjąć odpowiednie czynności ok PYAKWOGRJAOĄ PI OWA OTO"
+  },
+  {
+    "id": 92,
+    "category": "Budowa Jachtów",
+    "question": "Czarterujemy jacht, załoga liczy 5 osób. Na jachcie",
+    "options": {
+      "A": "Tak przekazano nam 4 pasy/kamizelki ratunkowe i jedno",
+      "B": "Nie kolo ratunkowe. Czy jest to wyposażenie",
+      "C": "Tak, ale tylko na wodach śródlądowych wystarczające?"
+    },
+    "raw": "Czarterujemy jacht, załoga liczy 5 osób. Na jachcie A |Tak przekazano nam 4 pasy/kamizelki ratunkowe i jedno B Nie kolo ratunkowe. Czy jest to wyposażenie C Tak, ale tylko na wodach śródlądowych wystarczające?"
+  },
+  {
+    "id": 93,
+    "category": "Budowa Jachtów",
+    "question": "Komenda \"założyć cumę na biegowo\" oznacza: Zamocować jeden koniec cumy na pokładzie, drugi koniec przeprowadzić A | przez urządzenie cumownicze na lądzie i poprowadzić z powrotem na pokład B Zamocować cumę na lądzie i ułożyć wzdłuż pokładu od dziobu do rufu c Przygotować cumę do szybkiego założenia na urządzenie cumownicze na lądzie",
+    "options": {},
+    "raw": "Komenda \"założyć cumę na biegowo\" oznacza: Zamocować jeden koniec cumy na pokładzie, drugi koniec przeprowadzić A | przez urządzenie cumownicze na lądzie i poprowadzić z powrotem na pokład B Zamocować cumę na lądzie i ułożyć wzdłuż pokładu od dziobu do rufu c Przygotować cumę do szybkiego założenia na urządzenie cumownicze na lądzie"
+  },
+  {
+    "id": 94,
+    "category": "Budowa Jachtów",
+    "question": "Jacht z otaklowaniem żaglowym typu slup ma A |'Wdowolnej kolejności nie zmieniając kursu postawione wszystkie żagle. Kurs względem wiatru Nie zmieniając kursu najpierw grot, a baksztag. Zamierzamy płynąć dalej na silniku bez B następnie fok żagli. Jak przeprowadzić zrzucenie żagli? - — Cc Fok wg. oceny sternika, grot po ustawieniu jachtu w linii wiatru",
+    "options": {},
+    "raw": "Jacht z otaklowaniem żaglowym typu slup ma A |'Wdowolnej kolejności nie zmieniając kursu postawione wszystkie żagle. Kurs względem wiatru Nie zmieniając kursu najpierw grot, a baksztag. Zamierzamy płynąć dalej na silniku bez B następnie fok żagli. Jak przeprowadzić zrzucenie żagli? - — Cc Fok wg. oceny sternika, grot po ustawieniu jachtu w linii wiatru"
+  },
+  {
+    "id": 95,
+    "category": "Budowa Jachtów",
+    "question": "Jacht płynie na silniku. Zamierzamy dalej płynąć",
+    "options": {
+      "A": "Zgasić silnik, postawić fok, a następnie grot pod żaglami. W jaki sposób przeprowadzić Na małej szybkości ustawić jacht dziobem postawienie żagli?",
+      "B": "do wiatru, postawić grot, a następnie fok, zgasić silnik Idąc na silniku dowolnym kursem",
+      "C": "względem wiatru postawić fok, a następnie grot"
+    },
+    "raw": "Jacht płynie na silniku. Zamierzamy dalej płynąć A |Zgasić silnik, postawić fok, a następnie grot pod żaglami. W jaki sposób przeprowadzić Na małej szybkości ustawić jacht dziobem postawienie żagli? B |do wiatru, postawić grot, a następnie fok, zgasić silnik Idąc na silniku dowolnym kursem C względem wiatru postawić fok, a następnie grot"
+  },
+  {
+    "id": 96,
+    "category": "Budowa Jachtów",
+    "question": "Zarefowany grot ma zamocowany róg halsowy i A Zwolnić refszkentlę, odwiązać refsejzingi, refszkentlę oraz zawiązane refsejzingi. Jak zwolnić róg halsowy przeprowadzić rozrefowanie? z Pa 2 B wolnić róg halsowy, zwolnić refszkentlę, rozwiązać refsejzingi Cc Rozwiązać refsejzingi, zwolnić refszkentlę, zwolnić róg halsowy, wybierać fał",
+    "options": {},
+    "raw": "Zarefowany grot ma zamocowany róg halsowy i A Zwolnić refszkentlę, odwiązać refsejzingi, refszkentlę oraz zawiązane refsejzingi. Jak zwolnić róg halsowy przeprowadzić rozrefowanie? z Pa 2 B wolnić róg halsowy, zwolnić refszkentlę, rozwiązać refsejzingi Cc Rozwiązać refsejzingi, zwolnić refszkentlę, zwolnić róg halsowy, wybierać fał"
+  },
+  {
+    "id": 97,
+    "category": "Budowa Jachtów",
+    "question": "Podczas holowania jachtu z brzegu( np. na kanale)",
+    "options": {
+      "A": "Na dziobie jachtu linę holowniczą dla ułatwienia sterowania należy",
+      "B": "W okolicy masztu jachtu zamocować:",
+      "C": "Nie ma znaczenia gdzie jest zamocowana"
+    },
+    "raw": "Podczas holowania jachtu z brzegu( np. na kanale) A |Na dziobie jachtu linę holowniczą dla ułatwienia sterowania należy B |W okolicy masztu jachtu zamocować: C Nie ma znaczenia gdzie jest zamocowana"
+  },
+  {
+    "id": 98,
+    "category": "Budowa Jachtów",
+    "question": "Chcemy przestawić duży i ciężki jacht wzdłuż",
+    "options": {
+      "A": "Tylko cumy dziobowej nabrzeża w kierunku dziobu jachtu. Najlepiej w tej",
+      "B": "Liny zamocowanej do masztu sytuacji do przesuwania jachtu użyć: . \"R .",
+      "C": "Cumy dziobowej i szpringu rufowego tet. (22) S41 63 63, Tax (ZZ) 541 63 69 99, Przy wejściu do portu zaobserwowano znak jak na A Oznacza \"Marinę\" dla jachtów, można rysunku. Co on oznacza i jak postapić? wpływać. B Zakaz wejścia dla jednostek sportowych, nie wpływać j Cc Zakaz żeglugi dla skuterów wodnych i szybkich łodzi motorowych"
+    },
+    "raw": "Chcemy przestawić duży i ciężki jacht wzdłuż A |Tylko cumy dziobowej nabrzeża w kierunku dziobu jachtu. Najlepiej w tej B |Liny zamocowanej do masztu sytuacji do przesuwania jachtu użyć: . \"R . C | Cumy dziobowej i szpringu rufowego tet. (22) S41 63 63, Tax (ZZ) 541 63 69 99, Przy wejściu do portu zaobserwowano znak jak na A Oznacza \"Marinę\" dla jachtów, można rysunku. Co on oznacza i jak postapić? wpływać. B Zakaz wejścia dla jednostek sportowych, nie wpływać j Cc Zakaz żeglugi dla skuterów wodnych i szybkich łodzi motorowych"
+  },
+  {
+    "id": 100,
+    "category": "Budowa Jachtów",
+    "question": "Na bocznej odnodze szlaku żeglownego A |Tak, oznacza zezwolenie przejścia ustawiona jest tablica jak na rysunku. Czy można tam Nie, oznacza rezerwat przyrody - nie można wpływać? B wpływać Cc Nie, oznacza akwen hodowli ryb - nie można wpływać",
+    "options": {},
+    "raw": "Na bocznej odnodze szlaku żeglownego A |Tak, oznacza zezwolenie przejścia ustawiona jest tablica jak na rysunku. Czy można tam Nie, oznacza rezerwat przyrody - nie można wpływać? B wpływać Cc Nie, oznacza akwen hodowli ryb - nie można wpływać"
+  },
+  {
+    "id": 101,
+    "category": "Budowa Jachtów",
+    "question": "Na polskiej mapie morskiej naniesione są A |Głębokości odpowiednio 25m i 34 m oznaczenia jak na rysunku obok. Co one oznaczają? B | Głębokości odpowiednio 2,5m i 3,4 m | Cc Głębokości odpowiednio 2 sążnie i 5 stóp, 3 2; | sążnie 4 stopy 3, |",
+    "options": {},
+    "raw": "Na polskiej mapie morskiej naniesione są A |Głębokości odpowiednio 25m i 34 m oznaczenia jak na rysunku obok. Co one oznaczają? B | Głębokości odpowiednio 2,5m i 3,4 m | Cc Głębokości odpowiednio 2 sążnie i 5 stóp, 3 2; | sążnie 4 stopy 3, |"
+  },
+  {
+    "id": 102,
+    "category": "Budowa Jachtów",
+    "question": "Na brzegu zaobserwowano tablicę jak na A Uwaga - most o wysokości przęsła nad rysunku obok. Co ona oznacza i jak postąpić? wodą podanej na znaku (12 m) B Zakaz ruchu statków o mocy silnika (KM) podanej na znaku Cc Nakaz nie przekraczania prędkości 12 km/h, dostosować szybkość",
+    "options": {},
+    "raw": "Na brzegu zaobserwowano tablicę jak na A Uwaga - most o wysokości przęsła nad rysunku obok. Co ona oznacza i jak postąpić? wodą podanej na znaku (12 m) B Zakaz ruchu statków o mocy silnika (KM) podanej na znaku Cc Nakaz nie przekraczania prędkości 12 km/h, dostosować szybkość"
+  },
+  {
+    "id": 103,
+    "category": "Budowa Jachtów",
+    "question": "Zaobserwowano znak przedstawiony na",
+    "options": {
+      "A": "Nakaz zachowania szczególnej ostrożności, rysunku, Co on oznacza?",
+      "B": "Zakaz ruchu statków żaglowych m",
+      "C": "Nakaz nadania sygnału dźwiękowego."
+    },
+    "raw": "Zaobserwowano znak przedstawiony na A | Nakaz zachowania szczególnej ostrożności, rysunku, Co on oznacza? B | Zakaz ruchu statków żaglowych m C | Nakaz nadania sygnału dźwiękowego."
+  },
+  {
+    "id": 104,
+    "category": "Budowa Jachtów",
+    "question": "Nabieżnik jest to: A Para wbitych w dno pali służących do cumowania p Betonowy słup lub inny charakterystyczny znak stojący na lądzie Cc Para staw albo innych stałych obiektów wyznaczająca kierunek",
+    "options": {},
+    "raw": "Nabieżnik jest to: A Para wbitych w dno pali służących do cumowania p Betonowy słup lub inny charakterystyczny znak stojący na lądzie Cc Para staw albo innych stałych obiektów wyznaczająca kierunek"
+  },
+  {
+    "id": 105,
+    "category": "Budowa Jachtów",
+    "question": "Przedstawione na rysunku znaki oznaczają",
+    "options": {
+      "A": "Przebieg szlaku wzdłuż lewego brzegu",
+      "B": "Przebieg szlaku wzdłuż prawego brzegu EJ DJ",
+      "C": "Miejsce niebezpieczne na lewym brzegu tet RAAL (22) 541 63 69"
+    },
+    "raw": "Przedstawione na rysunku znaki oznaczają: A Przebieg szlaku wzdłuż lewego brzegu B Przebieg szlaku wzdłuż prawego brzegu EJ DJ C Miejsce niebezpieczne na lewym brzegu tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 106,
+    "category": "Budowa Jachtów",
+    "question": "Na Zatoce Gdańskiej zaobserwowano jeden ze A |Akwen zakazany, nie wpływać poza znak znaków jak na rysunku. Co oznacza i jak postąpić? g Rezerwat przyrodniczy, nie wolno kotwiczyć Oś lub poczatek toru wodnego (t.zw. znak (0. j C |bezpiecznej wody), Obserwować dalsze znaki toru wodnego i płynąć wg. nich",
+    "options": {},
+    "raw": "Na Zatoce Gdańskiej zaobserwowano jeden ze A |Akwen zakazany, nie wpływać poza znak znaków jak na rysunku. Co oznacza i jak postąpić? g Rezerwat przyrodniczy, nie wolno kotwiczyć Oś lub poczatek toru wodnego (t.zw. znak (0. j C |bezpiecznej wody), Obserwować dalsze znaki toru wodnego i płynąć wg. nich"
+  },
+  {
+    "id": 107,
+    "category": "Budowa Jachtów",
+    "question": "Jakim znakiem oznaczony jest slip (pochylnia) Znakiem nr 1 przeznaczony do wyciagania jachtów z wody? E7 Znakiem nr 2 | EJ] znakiem nr 3 | Pe",
+    "options": {},
+    "raw": "Jakim znakiem oznaczony jest slip (pochylnia) Znakiem nr 1 przeznaczony do wyciagania jachtów z wody? E7 Znakiem nr 2 | EJ] znakiem nr 3 | Pe"
+  },
+  {
+    "id": 108,
+    "category": "Budowa Jachtów",
+    "question": "Wpływając do portu Jastarnia na Zatoce A |Po prawej burcie Gdańskiej kursem na północ zieloną pławę B_ |Po lewej burcie pozostawiamy: Cc Obojętne, bo jest to pława wyznaczająca środek farwateru.",
+    "options": {},
+    "raw": "Wpływając do portu Jastarnia na Zatoce A |Po prawej burcie Gdańskiej kursem na północ zieloną pławę B_ |Po lewej burcie pozostawiamy: Cc Obojętne, bo jest to pława wyznaczająca środek farwateru."
+  },
+  {
+    "id": 109,
+    "category": "Budowa Jachtów",
+    "question": "Cumując w śluzie należy: Obłożyć dokładnie cumy na urządzeniach A |do cumowania tak aby powstałe zawirowania wody i prąd nie porwał jachtu W ogóle nie zakładać cum ze względu na zmiany poziomu wody lecz cały czas B odpychać się bosakiem i pagajami od brzegów komory śluzy Założyć cumy na biegowo, luzować lub Cc wybierać je w miarę podnoszenia lub obniżania lustra wody.",
+    "options": {},
+    "raw": "Cumując w śluzie należy: Obłożyć dokładnie cumy na urządzeniach A |do cumowania tak aby powstałe zawirowania wody i prąd nie porwał jachtu W ogóle nie zakładać cum ze względu na zmiany poziomu wody lecz cały czas B odpychać się bosakiem i pagajami od brzegów komory śluzy Założyć cumy na biegowo, luzować lub Cc wybierać je w miarę podnoszenia lub obniżania lustra wody."
+  },
+  {
+    "id": 110,
+    "category": "Budowa Jachtów",
+    "question": "Przed mostami zwodzonymi jedno lub więcej",
+    "options": {
+      "A": "Zakaz przejścia, świateł czerwonych umieszczonych poziomo",
+      "B": "Przygotować się do przejścia oznacza: - .",
+      "C": "Otwieranie mostu okresowo wstrzymane."
+    },
+    "raw": "Przed mostami zwodzonymi jedno lub więcej A |Zakaz przejścia, świateł czerwonych umieszczonych poziomo B |Przygotować się do przejścia oznacza: - . C Otwieranie mostu okresowo wstrzymane."
+  },
+  {
+    "id": 111,
+    "category": "Budowa Jachtów",
+    "question": "Płynąc rzeką z prądem zaobserwowano boję A Prawą stronę szlaku żeglownego, minąć stożkową o trudnym do rozpoznania kolorze. Co prawą burtą może oznaczać i jak ją minąć? L . EP B ewą stronę szlaku żeglownego, minąć lewą burtą Cc Lewą stronę szlaku żeglownego, minąć prawą burtą tet RAAL (22) 541 63 69",
+    "options": {},
+    "raw": "Płynąc rzeką z prądem zaobserwowano boję A Prawą stronę szlaku żeglownego, minąć stożkową o trudnym do rozpoznania kolorze. Co prawą burtą może oznaczać i jak ją minąć? L . EP B ewą stronę szlaku żeglownego, minąć lewą burtą Cc Lewą stronę szlaku żeglownego, minąć prawą burtą tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 112,
+    "category": "Budowa Jachtów",
+    "question": "W przesmyku między jeziorami zaobserwowano A Między znakami jest przeszkoda. Omijać po dwie tyki ze znakami jak na rysunku. Co one stronie białych trójkątów oznaczają i jak się zachować? B Zalecone przejśćie pomiędzy znakami (między zielonymi trójkątami) Cc Każdy znak oznacza odosobnione niebezpieczeństwo. Mijać dowolnie",
+    "options": {},
+    "raw": "W przesmyku między jeziorami zaobserwowano A Między znakami jest przeszkoda. Omijać po dwie tyki ze znakami jak na rysunku. Co one stronie białych trójkątów oznaczają i jak się zachować? B Zalecone przejśćie pomiędzy znakami (między zielonymi trójkątami) Cc Każdy znak oznacza odosobnione niebezpieczeństwo. Mijać dowolnie"
+  },
+  {
+    "id": 113,
+    "category": "Budowa Jachtów",
+    "question": "Na kanale zaobserwowano cztery jachty",
+    "options": {
+      "A": "Tak, jest to dozwolone zacumowane po dwa burta w burtę, a na brzegu Nie, dozwolone jest cumowanie tylko znaki jak na rysunku. Czy możemy za zgodą jednego z",
+      "B": "ezterech jachtów tych jachtów zacumować do jego burty? - - - - Nie, te jachty zacumowały nieprawidłowo,",
+      "C": "niedozwolone jest cumowanie burta w burt P *"
+    },
+    "raw": "Na kanale zaobserwowano cztery jachty A |Tak, jest to dozwolone zacumowane po dwa burta w burtę, a na brzegu Nie, dozwolone jest cumowanie tylko znaki jak na rysunku. Czy możemy za zgodą jednego z B | ezterech jachtów tych jachtów zacumować do jego burty? - - - - Nie, te jachty zacumowały nieprawidłowo, C |niedozwolone jest cumowanie burta w burt P *"
+  },
+  {
+    "id": 114,
+    "category": "Budowa Jachtów",
+    "question": "Jednym z elementów regulacji rzeki jest ostroga;",
+    "options": {
+      "A": "Usytuowaną poprzecznie do przepływu jest ona budowlą: rzeki",
+      "B": "Usytuowaną równolegle do przepływu rzeki",
+      "C": "Położoną w środku koryta rzeki."
+    },
+    "raw": "Jednym z elementów regulacji rzeki jest ostroga; A Usytuowaną poprzecznie do przepływu jest ona budowlą: rzeki B Usytuowaną równolegle do przepływu rzeki C |Położoną w środku koryta rzeki."
+  },
+  {
+    "id": 115,
+    "category": "Budowa Jachtów",
+    "question": "Na kanale zaobserwo ustawione znaki jak na A Dozwolony postój - punkt zdawania rysunku. Co one oznaczają ? ścieków Dozwolony postój w stronę wskazaną B | białym trójkatem - punkt tankowania wody c. |Dozwolony postój tylko dla statków wiozących ładunki ciekłe.",
+    "options": {},
+    "raw": "Na kanale zaobserwo ustawione znaki jak na A Dozwolony postój - punkt zdawania rysunku. Co one oznaczają ? ścieków Dozwolony postój w stronę wskazaną B | białym trójkatem - punkt tankowania wody c. |Dozwolony postój tylko dla statków wiozących ładunki ciekłe."
+  },
+  {
+    "id": 116,
+    "category": "Budowa Jachtów",
+    "question": "Żeglując prawą stroną toru wodnego zauważono Ąą Miejsce dogodne do zacumowania. Można blisko brzegu znak jak na rysunku. Co on oznacza i jak podeść blisko lub cumować się zachować! B Ostrzezenie o dużym ruchu. Żeglować ostrożnie Cc Miejsce niebezpieczne przy prawym brzegu. Ominąć w bezpiecznej odległości",
+    "options": {},
+    "raw": "Żeglując prawą stroną toru wodnego zauważono Ąą Miejsce dogodne do zacumowania. Można blisko brzegu znak jak na rysunku. Co on oznacza i jak podeść blisko lub cumować się zachować! B Ostrzezenie o dużym ruchu. Żeglować ostrożnie Cc Miejsce niebezpieczne przy prawym brzegu. Ominąć w bezpiecznej odległości"
+  },
+  {
+    "id": 117,
+    "category": "Budowa Jachtów",
+    "question": "Żeglując po jeziorze zaobserwowano statek",
+    "options": {
+      "A": "Statek stoi na kotwicy. Mijać nie za blisko który podniósł sygnał jak na rysunku (biała kula). Co Na akwenie odbywaja się zawody sportowe on oznacza i jak się zachować?",
+      "B": "(np. regaty) Nie wpływać oddalic się od tego akwenu.",
+      "C": "Statek dryfuje. Mijać po stronie nawietrznej tet RAAL (22) 541 63 69"
+    },
+    "raw": "Żeglując po jeziorze zaobserwowano statek A |Statek stoi na kotwicy. Mijać nie za blisko który podniósł sygnał jak na rysunku (biała kula). Co Na akwenie odbywaja się zawody sportowe on oznacza i jak się zachować? B | (np. regaty) Nie wpływać oddalic się od tego akwenu. | C Statek dryfuje. Mijać po stronie nawietrznej tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 118,
+    "category": "Budowa Jachtów",
+    "question": "Jacht zbliża się do mostu zwodzonego. Na A |Most uszkodzony, zakaz przejscia moście zaobserwowano sygnał jak na rysunku. Jak B | Otwarcie mostu nastąpi za dwie godziny należy się zachować! Cc Nie należy przepływać pod mostem, ale należy przygotować się do tego © ©",
+    "options": {},
+    "raw": "Jacht zbliża się do mostu zwodzonego. Na A |Most uszkodzony, zakaz przejscia moście zaobserwowano sygnał jak na rysunku. Jak B | Otwarcie mostu nastąpi za dwie godziny należy się zachować! Cc Nie należy przepływać pod mostem, ale należy przygotować się do tego © ©"
+  },
+  {
+    "id": 119,
+    "category": "Budowa Jachtów",
+    "question": "Jacht o wysokości masztu 8m, szerokości 4m i A |Nie da się przejść, należy zawrócić zanurzeniu 1m, zaobserwował przy wejściu do kanału B__ Można przejść po położeniu masztu tablice jak na rysunku. Jak należy postąpić: C_|Można przejść nie ma przeszkód",
+    "options": {},
+    "raw": "Jacht o wysokości masztu 8m, szerokości 4m i A |Nie da się przejść, należy zawrócić zanurzeniu 1m, zaobserwował przy wejściu do kanału B__ Można przejść po położeniu masztu tablice jak na rysunku. Jak należy postąpić: C_|Można przejść nie ma przeszkód"
+  },
+  {
+    "id": 120,
+    "category": "Budowa Jachtów",
+    "question": "Na brzegu zaobserwowano znak jak na rysunku. A Uwaga, mogą przepływać szybkie łodzie Jak należy się zachować? motorowe i skutery wodne. B Zmniejszyć szybkość, aby nie wytwarzac fali Cc Nierówna linia brzegowa, spłycenia, zachowac ostrożność",
+    "options": {},
+    "raw": "Na brzegu zaobserwowano znak jak na rysunku. A Uwaga, mogą przepływać szybkie łodzie Jak należy się zachować? motorowe i skutery wodne. B Zmniejszyć szybkość, aby nie wytwarzac fali Cc Nierówna linia brzegowa, spłycenia, zachowac ostrożność"
+  },
+  {
+    "id": 121,
+    "category": "Budowa Jachtów",
+    "question": "Czy pod stałymi mostami można przepływać w Nie, można przepływać tylko po dowolnym miejscu? A |zaobserwowaniu sygnału wolnego przejścia Tak, po upewnieniu się czy wysokość B | mostu jest wystarczająca i pod oznakowanym przęsłem. Cc Tak, w dowolnym miejscu jeżeli wysokość mostu jest wystarczająca",
+    "options": {},
+    "raw": "Czy pod stałymi mostami można przepływać w Nie, można przepływać tylko po dowolnym miejscu? A |zaobserwowaniu sygnału wolnego przejścia Tak, po upewnieniu się czy wysokość B | mostu jest wystarczająca i pod oznakowanym przęsłem. Cc Tak, w dowolnym miejscu jeżeli wysokość mostu jest wystarczająca"
+  },
+  {
+    "id": 122,
+    "category": "Budowa Jachtów",
+    "question": "Płynąc kanałem zaobserwowano znak jak na A |Liczbę jednostek które mogą tu cumować rysunku. Jeżeli na trójkącie z prawej strony znaku Odległość w m określająca długość odcinka znajduje się liczba to co ona oznacza? B |do cumowania Cc Głębokość przy nabrzeżu przeznaczonym P do cumowania",
+    "options": {},
+    "raw": "Płynąc kanałem zaobserwowano znak jak na A |Liczbę jednostek które mogą tu cumować rysunku. Jeżeli na trójkącie z prawej strony znaku Odległość w m określająca długość odcinka znajduje się liczba to co ona oznacza? B |do cumowania Cc Głębokość przy nabrzeżu przeznaczonym P do cumowania"
+  },
+  {
+    "id": 123,
+    "category": "Budowa Jachtów",
+    "question": "Jacht na jeziorze Śniardwy płynie na południe w A Pławę zieloną (1) lewą burtą, pławę (2) też kierunku miejscowości Pisz. Na kursie lewą burtą zaobserwowano stożkową pławę (1) a kilkadzisiąt . metrów dalej pławę jak na rysunku (2). Jak mijać te B Pławę zieloną (1) prawą burtą, pławę (2) znaki? lewą burtą c Pławę zieloną (1) prawą burtą, pławę (2) też | prawą burtą tet. (22) SAT 63 63, Tax (22) 541 63 69",
+    "options": {},
+    "raw": "Jacht na jeziorze Śniardwy płynie na południe w A Pławę zieloną (1) lewą burtą, pławę (2) też kierunku miejscowości Pisz. Na kursie lewą burtą zaobserwowano stożkową pławę (1) a kilkadzisiąt . metrów dalej pławę jak na rysunku (2). Jak mijać te B Pławę zieloną (1) prawą burtą, pławę (2) znaki? lewą burtą c Pławę zieloną (1) prawą burtą, pławę (2) też | prawą burtą tet. (22) SAT 63 63, Tax (22) 541 63 69"
+  },
+  {
+    "id": 124,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Płynąc wzdłuż brzegu jeziora zaobserwowano na A Punkt nadawania ostrzeżeń brzegu znak jak na rysunku. Co on oznacza? meteorologicznych B | Wejście do kanału - po lewej stronie znaku c Wejscie do kanału - po prawej stronie znaku",
+    "options": {},
+    "raw": "Płynąc wzdłuż brzegu jeziora zaobserwowano na A Punkt nadawania ostrzeżeń brzegu znak jak na rysunku. Co on oznacza? meteorologicznych B | Wejście do kanału - po lewej stronie znaku c Wejscie do kanału - po prawej stronie znaku"
+  },
+  {
+    "id": 125,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Na wejściu do kanału zaobserwowano znak jak",
+    "options": {
+      "A": "Zakaz przejścia na rysunku. Co on oznacza?",
+      "B": "Nakaz zrzucenia żagli",
+      "C": "Zakaz cumowania po prawej stronie E |] EH"
+    },
+    "raw": "Na wejściu do kanału zaobserwowano znak jak A |Zakaz przejścia na rysunku. Co on oznacza? B Nakaz zrzucenia żagli C Zakaz cumowania po prawej stronie E |] EH"
+  },
+  {
+    "id": 126,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Na odnodze kanału żeglownego",
+    "options": {
+      "A": "Śluza, płynąć i obserwować sygnały zaobserwowano znak jak na rysunku. Co oznacza i jak",
+      "B": "Jaz, niebezpieczeństwo, może być silny się zachować? prąd, upewnić się czymożna przepływać.",
+      "C": "Przystań można zacumować przy nabrzeżu"
+    },
+    "raw": "Na odnodze kanału żeglownego A Śluza, płynąć i obserwować sygnały zaobserwowano znak jak na rysunku. Co oznacza i jak B Jaz, niebezpieczeństwo, może być silny się zachować? prąd, upewnić się czymożna przepływać. C |Przystań można zacumować przy nabrzeżu"
+  },
+  {
+    "id": 127,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Budowla hydotechniczna pozwalająca na",
+    "options": {
+      "A": "Śluza komorowa przechodzenie jednostek z akwenu o wyższym",
+      "B": "Jaz poziomie wody do akwenu o niższym poziomie lub",
+      "C": "Zapora odwrotnie to: p"
+    },
+    "raw": "Budowla hydotechniczna pozwalająca na A Śluza komorowa przechodzenie jednostek z akwenu o wyższym B Jaz poziomie wody do akwenu o niższym poziomie lub C Zapora odwrotnie to: p"
+  },
+  {
+    "id": 128,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Gdzie można znaleźć informacje o kierunkach",
+    "options": {
+      "A": "Na mapach turystycznych oznakowania nawigacyjnego na śródlądowych W załączniku nr 9 do przepisów drogach wodnych? żeglugowych na śródlądowych drogach",
+      "B": "wodnych (Rozporzadzenie Ministra Infrastruktury z 28.04.2003 r) W Rozporządzeniu Ministra Sportu i",
+      "C": "Turystyki w sprawie uprawiania turystyki wodnej"
+    },
+    "raw": "Gdzie można znaleźć informacje o kierunkach A |Na mapach turystycznych oznakowania nawigacyjnego na śródlądowych W załączniku nr 9 do przepisów drogach wodnych? żeglugowych na śródlądowych drogach B wodnych (Rozporzadzenie Ministra Infrastruktury z 28.04.2003 r) W Rozporządzeniu Ministra Sportu i C |Turystyki w sprawie uprawiania turystyki wodnej"
+  },
+  {
+    "id": 129,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Jacht o długości 8 m i wysokości masztu 14 m",
+    "options": {
+      "A": "Nie ma przeszkód, płynąć dalej wpływa do kanału. Na brzegu ustawione są znaki jak",
+      "B": "Położyć maszt i płynąć dalej na rysunku Co należy zrobić ?",
+      "C": "Nie da się przejść jacht jest za długi"
+    },
+    "raw": "Jacht o długości 8 m i wysokości masztu 14 m A |Nie ma przeszkód, płynąć dalej wpływa do kanału. Na brzegu ustawione są znaki jak B | Położyć maszt i płynąć dalej na rysunku Co należy zrobić ? C Nie da się przejść jacht jest za długi"
+  },
+  {
+    "id": 130,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "W systemie kardynalnym pławy ustawia się w Ąą zawsze 4 pławy: na N, naS,naWinaEod stosunku do niebezpieczeństwa: niebezpieczeństwa W zależności od położenia i wielkości niebezpieczeństwa jedną lub więcej pław B | odpowiednio na N, S, W czyE od niebezpieczeństwa Cc Tylko dwie pławy na NiSlubEiWod niebezpieczeństwa tet. (22) S41 63 63, Tax (ZZ) 541 63 69",
+    "options": {},
+    "raw": "W systemie kardynalnym pławy ustawia się w Ąą zawsze 4 pławy: na N, naS,naWinaEod stosunku do niebezpieczeństwa: niebezpieczeństwa W zależności od położenia i wielkości niebezpieczeństwa jedną lub więcej pław B | odpowiednio na N, S, W czyE od niebezpieczeństwa Cc Tylko dwie pławy na NiSlubEiWod niebezpieczeństwa tet. (22) S41 63 63, Tax (ZZ) 541 63 69"
+  },
+  {
+    "id": 131,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Jacht po wypłynięciu z przesmyku między",
+    "options": {
+      "A": "Płycizne, którą można mijać z obu stron jeziorami Zaobserwował plawę jak na rysunku. Co",
+      "B": "Rozwidlenie szlaku żeglownego ona oznacza? . - A",
+      "C": "Akwen hodowli ryb, nie wpływać"
+    },
+    "raw": "Jacht po wypłynięciu z przesmyku między A |Płycizne, którą można mijać z obu stron jeziorami Zaobserwował plawę jak na rysunku. Co B |Rozwidlenie szlaku żeglownego ona oznacza? . - A C |Akwen hodowli ryb, nie wpływać |"
+  },
+  {
+    "id": 132,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Jacht płynąc kanałem na pewnym odcinku",
+    "options": {
+      "A": "Dozwolone cumowanie zauważył znak jak na rysunku. Co on oznacza?",
+      "B": "Zakaz cumowania P",
+      "C": "Parking tylko dla łodzi motorowych"
+    },
+    "raw": "Jacht płynąc kanałem na pewnym odcinku A |Dozwolone cumowanie zauważył znak jak na rysunku. Co on oznacza? B | Zakaz cumowania P C Parking tylko dla łodzi motorowych"
+  },
+  {
+    "id": 133,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "W pobliżu brzegu zaobserwowano kilka boi jak A Akwen dozwolony do żeglugi tylko z małą na rysunku. Co one oznaczają i jak się zachować? prędkością B | Akwen zamkniety. Nie wpływać Cc Niedozwolona żegluga pod żaglami, można płynąć na wiosłach.",
+    "options": {},
+    "raw": "W pobliżu brzegu zaobserwowano kilka boi jak A Akwen dozwolony do żeglugi tylko z małą na rysunku. Co one oznaczają i jak się zachować? prędkością B | Akwen zamkniety. Nie wpływać Cc Niedozwolona żegluga pod żaglami, można płynąć na wiosłach."
+  },
+  {
+    "id": 134,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Zbliżając się do mostu na kanale",
+    "options": {
+      "A": "Zakaz przejścia jachtów o długości powyżej zaobserwowano taki znak. Co on oznacza? 75m",
+      "B": "Wysokość przejścia nad linią wody 7,5 m",
+      "C": "(Zakaz cumowania jachtów o długości 7,5 m"
+    },
+    "raw": "Zbliżając się do mostu na kanale A Zakaz przejścia jachtów o długości powyżej zaobserwowano taki znak. Co on oznacza? 75m B Wysokość przejścia nad linią wody 7,5 m C (Zakaz cumowania jachtów o długości 7,5 m"
+  },
+  {
+    "id": 7,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "50",
+    "options": {},
+    "raw": "50"
+  },
+  {
+    "id": 135,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Płynąc kanałem zaobserwowano taki znak. Jak",
+    "options": {
+      "A": "Obserwować czy nie przepływa prom i postepować? ewentualnie ustapić z drogi",
+      "B": "Znak oznacza przystań - można ewentualnie cumować",
+      "C": "Małe statki mają pierwszeństwo przejścia"
+    },
+    "raw": "Płynąc kanałem zaobserwowano taki znak. Jak A Obserwować czy nie przepływa prom i postepować? ewentualnie ustapić z drogi B Znak oznacza przystań - można ewentualnie cumować C Małe statki mają pierwszeństwo przejścia"
+  },
+  {
+    "id": 136,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Płynąc kanałem zaobserwowano taki znak. Co",
+    "options": {
+      "A": "Uwaga przeszkoda podwodna oznacza?",
+      "B": "Nakaz dawania sygnału dźwiekowego [e",
+      "C": "Zakaz zatrzymywania się"
+    },
+    "raw": "Płynąc kanałem zaobserwowano taki znak. Co A |Uwaga przeszkoda podwodna oznacza? B__ Nakaz dawania sygnału dźwiekowego [e| C | Zakaz zatrzymywania się"
+  },
+  {
+    "id": 137,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Przy wyjściu z kanału zaobserwowano taki znak.",
+    "options": {
+      "A": "Nakaz żeglugi na silniku Co oznacza ?",
+      "B": "Zakaz żeglugi na silniku",
+      "C": "Dozwolone pływanie na silniku małej mocy"
+    },
+    "raw": "Przy wyjściu z kanału zaobserwowano taki znak. A |Nakaz żeglugi na silniku Co oznacza ? B_ Zakaz żeglugi na silniku C | Dozwolone pływanie na silniku małej mocy"
+  },
+  {
+    "id": 138,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Wchodząc do śluzy najważniejsze jest",
+    "options": {
+      "A": "Kotwicy do rzucenia przygotowanie:",
+      "B": "Dwóch długich cum",
+      "C": "Koła ratunkowego z rzutką"
+    },
+    "raw": "Wchodząc do śluzy najważniejsze jest A _ |Kotwicy do rzucenia przygotowanie: B_ Dwóch długich cum C Koła ratunkowego z rzutką"
+  },
+  {
+    "id": 139,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Na kursie jachtu zaobserwowano jeden z",
+    "options": {
+      "A": "Tylko lewą burtą pokazanych znaków. Jak go można minąć?",
+      "B": "Tylko prawą burtą | i",
+      "C": "Wdowolny sposób prawą lub lewą burtą"
+    },
+    "raw": "Na kursie jachtu zaobserwowano jeden z A |Tylko lewą burtą pokazanych znaków. Jak go można minąć? B Tylko prawą burtą | i C |Wdowolny sposób prawą lub lewą burtą"
+  },
+  {
+    "id": 140,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Żeglujemy na Zalewie Szczecińskim.W locji",
+    "options": {
+      "A": "Wprawo znaleźlismy informację, że do portu Stepnica",
+      "B": "Nie należy zmieniać kursu należywchodzić w nabieżniku - stawa dolna z",
+      "C": "Wlewo rombem, stawa górna z trójkątem. Zaobserwowano nabieżnik jak na rysunku. Jak zmienić kurs aby wejść w linię nabieżnika? lal"
+    },
+    "raw": "Żeglujemy na Zalewie Szczecińskim.W locji A |Wprawo znaleźlismy informację, że do portu Stepnica B_ | Nie należy zmieniać kursu należywchodzić w nabieżniku - stawa dolna z C |Wlewo rombem, stawa górna z trójkątem. Zaobserwowano nabieżnik jak na rysunku. Jak zmienić kurs aby wejść w linię nabieżnika? lal"
+  },
+  {
+    "id": 141,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Co oznacza taki znak na kanale ?",
+    "options": {
+      "A": "Zakaz cumowania",
+      "B": "Dozwolone cumowanie",
+      "C": "Punkt poboru wody [="
+    },
+    "raw": "Co oznacza taki znak na kanale ? A |Zakaz cumowania B Dozwolone cumowanie C |Punkt poboru wody [="
+  },
+  {
+    "id": 142,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Co oznacza ten znak ?",
+    "options": {
+      "A": "Nakaz żeglugi tylko z jednym żaglem",
+      "B": "Pierwszeństwo przejścia dla jachtów żaglowych",
+      "C": "Zakaz żeglugi pod żaglami"
+    },
+    "raw": "Co oznacza ten znak ? A |Nakaz żeglugi tylko z jednym żaglem B Pierwszeństwo przejścia dla jachtów żaglowych C | Zakaz żeglugi pod żaglami"
+  },
+  {
+    "id": 143,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Co oznacza ten znak i jak się zachować ?",
+    "options": {
+      "A": "Przystań statków pasażerskich, mijać daleko | uw",
+      "B": "Prom na uwięzi. Mijać za rufą nie za blisko",
+      "C": "Dozwolone cumowanie dla jachtów mimi"
+    },
+    "raw": "Co oznacza ten znak i jak się zachować ? A Przystań statków pasażerskich, mijać daleko | uw B_ Prom na uwięzi. Mijać za rufą nie za blisko C | Dozwolone cumowanie dla jachtów mimi"
+  },
+  {
+    "id": 144,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Znak zezwalający na wejście do śluzy to",
+    "options": {
+      "A": "Jedno zielone światło",
+      "B": "Dwa światła czerwone",
+      "C": "Światło czerwone i zielone obok siebie"
+    },
+    "raw": "Znak zezwalający na wejście do śluzy to: A | Jedno zielone światło B Dwa światła czerwone C | Światło czerwone i zielone obok siebie"
+  },
+  {
+    "id": 145,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Na moście stałym zaobserwowano znak jak na A Przechodzić pod mostem trzmając się rysunku. Jak przechodzić pod mostem? prawej strony B Przechodzić w dowolny sposób bo to przejście jednokierunkowe Cc Oczekiwać na sygnał zezwalający na przejście Smak AdWOGPY ODM OT",
+    "options": {},
+    "raw": "Na moście stałym zaobserwowano znak jak na A Przechodzić pod mostem trzmając się rysunku. Jak przechodzić pod mostem? prawej strony B Przechodzić w dowolny sposób bo to przejście jednokierunkowe Cc Oczekiwać na sygnał zezwalający na przejście Smak AdWOGPY ODM OT"
+  },
+  {
+    "id": 146,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Płynąc rzeką wzdłuż lewego brzegu widzisz",
+    "options": {
+      "A": "Zatrzymać się przy brzegu i złożyć maszt, w jeden ze znaków pokazanych na rysunku, wtedy pobliżu most POWINIENES: Spodziewać się przejścia szlaku",
+      "B": "żeglownego na prawy brzeg, odpowiednio A zmienić kurs",
+      "C": "Że szlak żeglowny przebiega przy lewym brzegu."
+    },
+    "raw": "Płynąc rzeką wzdłuż lewego brzegu widzisz A Zatrzymać się przy brzegu i złożyć maszt, w jeden ze znaków pokazanych na rysunku, wtedy pobliżu most POWINIENES: Spodziewać się przejścia szlaku B |żeglownego na prawy brzeg, odpowiednio A zmienić kurs C Że szlak żeglowny przebiega przy lewym brzegu."
+  },
+  {
+    "id": 147,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Co oznacza pokazana tablica ?",
+    "options": {
+      "A": "Zakaz żeglugi na silniku",
+      "B": "Dozwolone pływanie na silniku >",
+      "C": "Nakaz żeglugi na silniku"
+    },
+    "raw": "Co oznacza pokazana tablica ? A |Zakaz żeglugi na silniku B_ Dozwolone pływanie na silniku > C Nakaz żeglugi na silniku"
+  },
+  {
+    "id": 148,
+    "category": "Podstawy Locji I Pomoce Nawigacyjne",
+    "question": "Jakie minimum pomocy nawigacyjnych należy",
+    "options": {
+      "A": "Mapę, locję akwenu i kompas mieć na jachcie żeglującym na Zatoce Gdańskiej ?",
+      "B": "Sekstant i Rocznik Astronomiczny",
+      "C": "Spis radiostacji i Locję Bałtyku"
+    },
+    "raw": "Jakie minimum pomocy nawigacyjnych należy A |Mapę, locję akwenu i kompas mieć na jachcie żeglującym na Zatoce Gdańskiej ? B Sekstant i Rocznik Astronomiczny C |Spis radiostacji i Locję Bałtyku"
+  },
+  {
+    "id": 149,
+    "category": "Przepisy",
+    "question": "Gdy mały statek idący pod żaglami prawym",
+    "options": {
+      "A": "Zachować kurs i szybkość halsem idzie kursem przecinającym się z kursem",
+      "B": "Ustąpić z drogi małego statku idącego pod żaglami lewym halsem",
+      "C": "Zmnieiszyć szybkość tak, że istnieje ryzyko zderzenia to powinien: Jszyć szy"
+    },
+    "raw": "Gdy mały statek idący pod żaglami prawym A |Zachować kurs i szybkość halsem idzie kursem przecinającym się z kursem B Ustąpić z drogi małego statku idącego pod żaglami lewym halsem C |Zmnieiszyć szybkość tak, że istnieje ryzyko zderzenia to powinien: Jszyć szy"
+  },
+  {
+    "id": 150,
+    "category": "Przepisy",
+    "question": "Jacht żaglowy idzie do wejścia do kanału A |Kontynuować swój kurs odległego ok. 300 m. Statek pasażerski wychodzący z B | Zmienić swój kurs w prawo kanału na wprost jachtu dał sygnał dźwiękowy dwa \"RE p . krótkie. Co powinien zrobić jacht? <_ Zatrzymać się i rzucić kotwicę",
+    "options": {},
+    "raw": "Jacht żaglowy idzie do wejścia do kanału A |Kontynuować swój kurs odległego ok. 300 m. Statek pasażerski wychodzący z B | Zmienić swój kurs w prawo kanału na wprost jachtu dał sygnał dźwiękowy dwa \"RE p . krótkie. Co powinien zrobić jacht? <_ Zatrzymać się i rzucić kotwicę"
+  },
+  {
+    "id": 151,
+    "category": "Przepisy",
+    "question": "Jacht żaglowy idący pod żaglami i na silniku jest",
+    "options": {
+      "A": "Jacht motorowy traktowany jako:",
+      "B": "Jacht żaglowy",
+      "C": "Jacht żaglowo - motorowy"
+    },
+    "raw": "Jacht żaglowy idący pod żaglami i na silniku jest A | Jacht motorowy traktowany jako: B | Jacht żaglowy C | Jacht żaglowo - motorowy"
+  },
+  {
+    "id": 152,
+    "category": "Przepisy",
+    "question": "Jacht pod żaglami na zatoce Gdańskiej płynie",
+    "options": {
+      "A": "Utrzymać kurs i szybkość kursem przecinającym się z kursem niewielkiego",
+      "B": "Przejść mu blisko za rufą statku o napędzie mechanicznym, tak, że powoduje",
+      "C": "Ominać go z daleka to ryzyko zderzenia. Statek ten niesie sygnał dwa ac9 czarne stożki wierzchołkami do siebie. Jakie działanie powinien podjąć jacht?"
+    },
+    "raw": "Jacht pod żaglami na zatoce Gdańskiej płynie A |Utrzymać kurs i szybkość kursem przecinającym się z kursem niewielkiego B | Przejść mu blisko za rufą statku o napędzie mechanicznym, tak, że powoduje C |Ominać go z daleka to ryzyko zderzenia. Statek ten niesie sygnał dwa ac9 czarne stożki wierzchołkami do siebie. Jakie działanie powinien podjąć jacht?"
+  },
+  {
+    "id": 153,
+    "category": "Przepisy",
+    "question": "Statek żaglowy o długości 8 m, idący pod",
+    "options": {
+      "A": "Statkowi pasażerskiemu o nap. mech. żaglami na wodach śródlądowych powinien ustąpić:",
+      "B": "Motorówce o długości ok. 10m",
+      "C": "Łodzi wiosłowej w ruchu"
+    },
+    "raw": "Statek żaglowy o długości 8 m, idący pod A _ |Statkowi pasażerskiemu o nap. mech. żaglami na wodach śródlądowych powinien ustąpić: B |Motorówce o długości ok. 10m C | Łodzi wiosłowej w ruchu"
+  },
+  {
+    "id": 154,
+    "category": "Przepisy",
+    "question": "Jacht żaglowy o długości mniejszej niż 7 mw",
+    "options": {
+      "A": "Statek żaglowy myśl obowiązujących przepisów jest uważany za:",
+      "B": "Mały statek żaglowy",
+      "C": "Statek bez napędu - tet. (22) SAT 63 63, Tax (22) 541 63 69"
+    },
+    "raw": "Jacht żaglowy o długości mniejszej niż 7 mw A _ |Statek żaglowy myśl obowiązujących przepisów jest uważany za: B Mały statek żaglowy C Statek bez napędu - tet. (22) SAT 63 63, Tax (22) 541 63 69"
+  },
+  {
+    "id": 155,
+    "category": "Przepisy",
+    "question": "Wody śródlądowe. Statek pasażerski o długości",
+    "options": {
+      "A": "Statek mniejszej niż 20 m z podniesionym znakiem jak na",
+      "B": "Mały statek rysunku jest uważany w myśl przepisów za:",
+      "C": "Statek motorowy"
+    },
+    "raw": "Wody śródlądowe. Statek pasażerski o długości A |Statek mniejszej niż 20 m z podniesionym znakiem jak na B Mały statek rysunku jest uważany w myśl przepisów za: C | Statek motorowy"
+  },
+  {
+    "id": 156,
+    "category": "Przepisy",
+    "question": "Osoba prowadząca jacht żaglowy o długości 8 m A |Książeczkę żeglarska po śródlądowych drogach wodnych powinna B Patent co najmniej żeglarza jachtowego posladać: Cc Zaświadczenie o ukończeniu kursu żeglarskiego",
+    "options": {},
+    "raw": "Osoba prowadząca jacht żaglowy o długości 8 m A |Książeczkę żeglarska po śródlądowych drogach wodnych powinna B Patent co najmniej żeglarza jachtowego posladać: Cc Zaświadczenie o ukończeniu kursu żeglarskiego"
+  },
+  {
+    "id": 157,
+    "category": "Przepisy",
+    "question": "Na wodach Zatoki Gdańskiej na kursie A |Nie zbliżać się bliżej niż 2 Mm zaobserwowano statek który podniósł sygnał jak na B |Minąć go daleko przed dziobem rysunku. Co należy zrobić? Cc Minąć go z dowolnej strony w bezpiecznej odległości.",
+    "options": {},
+    "raw": "Na wodach Zatoki Gdańskiej na kursie A |Nie zbliżać się bliżej niż 2 Mm zaobserwowano statek który podniósł sygnał jak na B |Minąć go daleko przed dziobem rysunku. Co należy zrobić? Cc Minąć go z dowolnej strony w bezpiecznej odległości."
+  },
+  {
+    "id": 158,
+    "category": "Przepisy",
+    "question": "Które z odpadów są najbardziej szkodliwe dla A |Odpady organiczne (resztki żywności itp.) środowiska? B Opakowania papierowe c Odpady (opakowania itp.) z tworzyw sztucznych",
+    "options": {},
+    "raw": "Które z odpadów są najbardziej szkodliwe dla A |Odpady organiczne (resztki żywności itp.) środowiska? B Opakowania papierowe c Odpady (opakowania itp.) z tworzyw sztucznych"
+  },
+  {
+    "id": 159,
+    "category": "Przepisy",
+    "question": "Poza torem wodnym na otwartych wodach A |Przejść mu za rufą przecinającym się z kursem małego statku B | dziobem pasażerskiego, tak, że powoduje to ryzyko zderzenia. c - - — Jaki manewr powinien podjąć ? Utrzymać kurs i prędkość",
+    "options": {},
+    "raw": "Poza torem wodnym na otwartych wodach A |Przejść mu za rufą przecinającym się z kursem małego statku B | dziobem pasażerskiego, tak, że powoduje to ryzyko zderzenia. c - - — Jaki manewr powinien podjąć ? Utrzymać kurs i prędkość"
+  },
+  {
+    "id": 160,
+    "category": "Przepisy",
+    "question": "Na podejściu do portu Gdańsk jacht",
+    "options": {
+      "A": "Zdowolnej strony zaobserwował statek, który podniósł sygnały jak na",
+      "B": "Odstrony wystawionych kul rysunku. Jak go wyminąć?",
+      "C": "Odstrony wystawionych rombów"
+    },
+    "raw": "Na podejściu do portu Gdańsk jacht A |Zdowolnej strony zaobserwował statek, który podniósł sygnały jak na B |Odstrony wystawionych kul rysunku. Jak go wyminąć? C |Odstrony wystawionych rombów"
+  },
+  {
+    "id": 161,
+    "category": "Przepisy",
+    "question": "Wody śródlądowe. Statek pasażerski nadał serię",
+    "options": {
+      "A": "Nie mogę manewrować podwójnych krótkich dźwięków. Co to oznacza?",
+      "B": "Niebezpieczeństwo zderzenia",
+      "C": "Człowiek za burtą"
+    },
+    "raw": "Wody śródlądowe. Statek pasażerski nadał serię A |Nie mogę manewrować podwójnych krótkich dźwięków. Co to oznacza? B_ | Niebezpieczeństwo zderzenia C Człowiek za burtą"
+  },
+  {
+    "id": 162,
+    "category": "Przepisy",
+    "question": "Piętnastoletnia osoba posiadająca stopień A |Do 10 m2 żagla, żeglarza jachtowego jest uprawniona do B | Dowolnej, prowadzenia jachtów na wodach śródlądowych o € |Do 20 m2 żaala pod nadzorem powierzchni ożaglowania: 9a. p *",
+    "options": {},
+    "raw": "Piętnastoletnia osoba posiadająca stopień A |Do 10 m2 żagla, żeglarza jachtowego jest uprawniona do B | Dowolnej, prowadzenia jachtów na wodach śródlądowych o € |Do 20 m2 żaala pod nadzorem powierzchni ożaglowania: 9a. p *"
+  },
+  {
+    "id": 163,
+    "category": "Przepisy",
+    "question": "Wody śródlądowe. Mały statek płynący pod",
+    "options": {
+      "A": "Statkowi pasażerskiemu o napędzie żaglami powinien ustąpić: mechanicznym,",
+      "B": "Małemu statkowi o napędzie mechanicznym,",
+      "C": "Wodolotowi płynącemu z duża prędkością."
+    },
+    "raw": "Wody śródlądowe. Mały statek płynący pod A Statkowi pasażerskiemu o napędzie żaglami powinien ustąpić: mechanicznym, B Małemu statkowi o napędzie mechanicznym, C_ |Wodolotowi płynącemu z duża prędkością."
+  },
+  {
+    "id": 164,
+    "category": "Przepisy",
+    "question": "Jacht żaglowy płynący na żaglach i na silniku w",
+    "options": {
+      "A": "Czarną kulę dzień powinien nosić:",
+      "B": "Czarny stożek skierowany wierzchołkiem w dół,",
+      "C": "Czerwona kulę."
+    },
+    "raw": "Jacht żaglowy płynący na żaglach i na silniku w A |Czarną kulę dzień powinien nosić: B Czarny stożek skierowany wierzchołkiem w dół, C | Czerwona kulę."
+  },
+  {
+    "id": 165,
+    "category": "Przepisy",
+    "question": "Wody śródlądowe. W czasie manewru A Jacht wyprzedzany po jego stronie wyprzedzania jachtu żaglowego, jacht który zawietrznej w bezpiecznej odległości wyprzedza powinien z zasady wyprzedzać: 3 W sposób uzgodniony z prowadzącym jacht wyprzedzany, Cc Jacht wyprzedzany po jego stronie nawietrznej w bezpiecznej odległości",
+    "options": {},
+    "raw": "Wody śródlądowe. W czasie manewru A Jacht wyprzedzany po jego stronie wyprzedzania jachtu żaglowego, jacht który zawietrznej w bezpiecznej odległości wyprzedza powinien z zasady wyprzedzać: 3 W sposób uzgodniony z prowadzącym jacht wyprzedzany, Cc Jacht wyprzedzany po jego stronie nawietrznej w bezpiecznej odległości"
+  },
+  {
+    "id": 166,
+    "category": "Przepisy",
+    "question": "Wody śródlądowe. Na burcie stojącego statku A _ | Nie wolno mijać takiego statku, wywieszono sygnał jak na rysunku. Z której strony Można minąć z obu stron, ostrożnie, nie | | C Tylko od strony flagi czerwono-białej",
+    "options": {},
+    "raw": "Wody śródlądowe. Na burcie stojącego statku A _ | Nie wolno mijać takiego statku, wywieszono sygnał jak na rysunku. Z której strony Można minąć z obu stron, ostrożnie, nie | | C Tylko od strony flagi czerwono-białej"
+  },
+  {
+    "id": 167,
+    "category": "Przepisy",
+    "question": "Prowadzący jacht w celu uniknięcia Może odstąpić od przestrzegania bezpośrednio grożącego niebezpieczeństwa A |przepisów po uzgodnieniu z druga zderzenia (szczególnie kiedy niezbędna jest szybka jednostką reakcja): . , . A \"= B__ Nigdy nie może naruszać przepisów, c Może odstąpić od przestrzegania obowiązujących przepisów żeglugowych.",
+    "options": {},
+    "raw": "Prowadzący jacht w celu uniknięcia Może odstąpić od przestrzegania bezpośrednio grożącego niebezpieczeństwa A |przepisów po uzgodnieniu z druga zderzenia (szczególnie kiedy niezbędna jest szybka jednostką reakcja): . , . A \"= B__ Nigdy nie może naruszać przepisów, c Może odstąpić od przestrzegania obowiązujących przepisów żeglugowych."
+  },
+  {
+    "id": 168,
+    "category": "Przepisy",
+    "question": "Jacht żaglowy wyprzedzający inny jacht żaglowy Ąą maprawo drogi względem jachtu, który wyprzedza B może go ominąć tylko po uzyskaniu jego zgody Cc ustępuje jachtowi wyprzedzanemu omijając go w bezpiecznej odległości",
+    "options": {},
+    "raw": "Jacht żaglowy wyprzedzający inny jacht żaglowy Ąą maprawo drogi względem jachtu, który wyprzedza B może go ominąć tylko po uzyskaniu jego zgody Cc ustępuje jachtowi wyprzedzanemu omijając go w bezpiecznej odległości"
+  },
+  {
+    "id": 169,
+    "category": "Przepisy",
+    "question": "Statek żaglowy płynący prawym halsem po A Statkowi handlowemu o napędzie otwartych wodach morskich ustępuje: mechanicznym, B__Statkowi rybackiemu zajętemu połowem, Cc Statkowi żaglowemu płynącemu lewym halsem.",
+    "options": {},
+    "raw": "Statek żaglowy płynący prawym halsem po A Statkowi handlowemu o napędzie otwartych wodach morskich ustępuje: mechanicznym, B__Statkowi rybackiemu zajętemu połowem, Cc Statkowi żaglowemu płynącemu lewym halsem."
+  },
+  {
+    "id": 170,
+    "category": "Przepisy",
+    "question": "Na kursie jachtu jest jednostka, która podniosła A Nie zbliżać się bliżej niż 2 Mm sygnał jak na rysunku.Jak ją wyminąć? B | Minąć go daleko przed dziobem Cc Minąć go z dowolnej strony w bezpiecznej odległości. - tet. (22) S41 63 63, Tax (ZZ) 541 63 69",
+    "options": {},
+    "raw": "Na kursie jachtu jest jednostka, która podniosła A Nie zbliżać się bliżej niż 2 Mm sygnał jak na rysunku.Jak ją wyminąć? B | Minąć go daleko przed dziobem Cc Minąć go z dowolnej strony w bezpiecznej odległości. - tet. (22) S41 63 63, Tax (ZZ) 541 63 69"
+  },
+  {
+    "id": 171,
+    "category": "Przepisy",
+    "question": "Żeglarz jachtowy uprawniony jest do: Prowadzenia po wodach morskich jachtu o A |długości do 12 m w odległości do 2 Mm od linii brzegowej w porze dziennej B Prowadzenia jachtów o długości do 10 m w odległości do 10 Mm od linii brzegowej, Cc Prowadzenia jachtów o długości do 24 m po wodach morskich w porze dziennej.",
+    "options": {},
+    "raw": "Żeglarz jachtowy uprawniony jest do: Prowadzenia po wodach morskich jachtu o A |długości do 12 m w odległości do 2 Mm od linii brzegowej w porze dziennej B Prowadzenia jachtów o długości do 10 m w odległości do 10 Mm od linii brzegowej, Cc Prowadzenia jachtów o długości do 24 m po wodach morskich w porze dziennej."
+  },
+  {
+    "id": 172,
+    "category": "Przepisy",
+    "question": "Jeden długi dźwięk nadany przez statek na",
+    "options": {
+      "A": "Uwaga drodze śródlądowej oznacza:",
+      "B": "Skręcamw prawo",
+      "C": "/Skręcam w lewo"
+    },
+    "raw": "Jeden długi dźwięk nadany przez statek na A |Uwaga drodze śródlądowej oznacza: B Skręcamw prawo C /Skręcam w lewo"
+  },
+  {
+    "id": 173,
+    "category": "Przepisy",
+    "question": "Statek ma wywieszony sygnał jak na rysunku. Co",
+    "options": {
+      "A": "Wzywam pomocy, podejść i nawiązać oznacza i jak postępować? łączność",
+      "B": "Mam nurka pod wodą, mijać ostrożnie s",
+      "C": "Stoję na mieliźnie, mijać daleko"
+    },
+    "raw": "Statek ma wywieszony sygnał jak na rysunku. Co A Wzywam pomocy, podejść i nawiązać oznacza i jak postępować? łączność B Mam nurka pod wodą, mijać ostrożnie s C |Stoję na mieliźnie, mijać daleko"
+  },
+  {
+    "id": 174,
+    "category": "Przepisy",
+    "question": "Statek zbliżający się do jachtu nadał sygnał jeden A Zatrzymajcie natychmiast swój statek, krótki, jeden długi i dwa krótkie dźwięki oraz wywiesił zatrzymać się sygnał jak na rysunku. Co to oznacza i jak Mam zamiar wyprzedzić was po waszej postępować: B lewej burcie, utrzymać kurs Cc Mam zamiar zawrócić w lewo, obserwować i ruchy statku",
+    "options": {},
+    "raw": "Statek zbliżający się do jachtu nadał sygnał jeden A Zatrzymajcie natychmiast swój statek, krótki, jeden długi i dwa krótkie dźwięki oraz wywiesił zatrzymać się sygnał jak na rysunku. Co to oznacza i jak Mam zamiar wyprzedzić was po waszej postępować: B lewej burcie, utrzymać kurs Cc Mam zamiar zawrócić w lewo, obserwować i ruchy statku"
+  },
+  {
+    "id": 175,
+    "category": "Przepisy",
+    "question": "Sygnał świetlny lub dźwiękowy składający się z",
+    "options": {
+      "A": "Jeden z sygnałów manewrowych, grupy trzech krótkich, trzech długich i trzech krótkich",
+      "B": "Sygnał na postoju we mgle, świateł i/lub dźwięków oznacza:",
+      "C": "Jeden z sygnałów wzywania pomocy."
+    },
+    "raw": "Sygnał świetlny lub dźwiękowy składający się z A | Jeden z sygnałów manewrowych, grupy trzech krótkich, trzech długich i trzech krótkich B Sygnał na postoju we mgle, świateł i/lub dźwięków oznacza: C | Jeden z sygnałów wzywania pomocy."
+  },
+  {
+    "id": 176,
+    "category": "Przepisy",
+    "question": "Który z poniższych sygnałów NIE JEST sygnałem A Zataczanie kręgów flagą lub innym wzywania pomocy na wodach śródlądowych: podobnym przedmiotem, B Żółty romb widoczny ze wszystkich stron, Cc Flaga i umieszczona nad nią lub pod nią kula.",
+    "options": {},
+    "raw": "Który z poniższych sygnałów NIE JEST sygnałem A Zataczanie kręgów flagą lub innym wzywania pomocy na wodach śródlądowych: podobnym przedmiotem, B Żółty romb widoczny ze wszystkich stron, Cc Flaga i umieszczona nad nią lub pod nią kula."
+  },
+  {
+    "id": 177,
+    "category": "Przepisy",
+    "question": "Na podejściu do portu podczas ciszy nastąpiła",
+    "options": {
+      "A": "Jedną czarną kulę awaria silnika. Jest dość duży ruch. Jaki sygnał",
+      "B": "Dwie czarne kule powinien podnieść jacht.",
+      "C": "Czarny stożek"
+    },
+    "raw": "Na podejściu do portu podczas ciszy nastąpiła A | Jedną czarną kulę awaria silnika. Jest dość duży ruch. Jaki sygnał B | Dwie czarne kule powinien podnieść jacht. C | Czarny stożek"
+  },
+  {
+    "id": 178,
+    "category": "Przepisy",
+    "question": "Na jachcie płynącym na silniku z opuszczonymi",
+    "options": {
+      "A": "Natopie tylnego masztu, żaglami banderę nosimy:",
+      "B": "Pod prawym salingiem,",
+      "C": "Naflagsztoku na rufie."
+    },
+    "raw": "Na jachcie płynącym na silniku z opuszczonymi A |Natopie tylnego masztu, żaglami banderę nosimy: B Pod prawym salingiem, C |Naflagsztoku na rufie."
+  },
+  {
+    "id": 179,
+    "category": "Przepisy",
+    "question": "Gdzie nosi się banderę na jachtach",
+    "options": {
+      "A": "Natopie tylnego masztu, dwumasztowych o ożaglowaniu gaflowym?",
+      "B": "Naflagsztoku na rufie,",
+      "C": "Pod pikiem gafla tylnego żagla. - KARK"
+    },
+    "raw": "Gdzie nosi się banderę na jachtach A |Natopie tylnego masztu, dwumasztowych o ożaglowaniu gaflowym? B |Naflagsztoku na rufie, C _ |Pod pikiem gafla tylnego żagla. - KARK"
+  },
+  {
+    "id": 180,
+    "category": "Przepisy",
+    "question": "O jakiej porze podnosi się banderę na jachcie",
+    "options": {
+      "A": "Owschodzie słońca, stojącym w porcie?",
+      "B": "O godzinie 0800,",
+      "C": "Jak kapitan wejdzie na pokład."
+    },
+    "raw": "O jakiej porze podnosi się banderę na jachcie A |Owschodzie słońca, stojącym w porcie? B |O godzinie 0800, C Jak kapitan wejdzie na pokład."
+  },
+  {
+    "id": 181,
+    "category": "Przepisy",
+    "question": "Co mówią zasady bezpieczeństwa i etykiety na",
+    "options": {
+      "A": "Nie określają żadnych zasad, temat trzymania rąk i nóg poza burtą jachtu?",
+      "B": "Zdecydowanie zabraniają,",
+      "C": "Zezwalają, ale tylko podczas żeglugi."
+    },
+    "raw": "Co mówią zasady bezpieczeństwa i etykiety na A |Nie określają żadnych zasad, temat trzymania rąk i nóg poza burtą jachtu? B | Zdecydowanie zabraniają, C |Zezwalają, ale tylko podczas żeglugi."
+  },
+  {
+    "id": 182,
+    "category": "Przepisy",
+    "question": "Co mówi etykieta jachtowa o noszeniu odbijaczy Wyraźnie neguje tego typu praktykę, poza burtą podczas żeglugi? A |odbijacze wykłada się bezpośrednio przed cumowaniem B_ Nie wspomina nic o tym, Cc Jest to dopuszczalne na wodach śródlądowych.",
+    "options": {},
+    "raw": "Co mówi etykieta jachtowa o noszeniu odbijaczy Wyraźnie neguje tego typu praktykę, poza burtą podczas żeglugi? A |odbijacze wykłada się bezpośrednio przed cumowaniem B_ Nie wspomina nic o tym, Cc Jest to dopuszczalne na wodach śródlądowych."
+  },
+  {
+    "id": 183,
+    "category": "Przepisy",
+    "question": "Przed wejściem na obcy jacht należy: A Zapytać o pozwolenie wejścia i nie przeszkadzać w czasie posiłku, B Zagwizdać trzy razy, c Nic nie trzeba robić, można wejść, bo stanowimy brać żeglarską.",
+    "options": {},
+    "raw": "Przed wejściem na obcy jacht należy: A Zapytać o pozwolenie wejścia i nie przeszkadzać w czasie posiłku, B Zagwizdać trzy razy, c Nic nie trzeba robić, można wejść, bo stanowimy brać żeglarską."
+  },
+  {
+    "id": 184,
+    "category": "Przepisy",
+    "question": "Dwa jachty zacumowane są burta w burtę. A |Przechodzić cicho po jego części dziobowej Schodząc z jachtu zewnętrznego należy: B_|Przechodzić przez jego część rufową Cc Nie ma to znaczenia, bo mamy zgodę na takie cumowanie",
+    "options": {},
+    "raw": "Dwa jachty zacumowane są burta w burtę. A |Przechodzić cicho po jego części dziobowej Schodząc z jachtu zewnętrznego należy: B_|Przechodzić przez jego część rufową Cc Nie ma to znaczenia, bo mamy zgodę na takie cumowanie"
+  },
+  {
+    "id": 185,
+    "category": "Przepisy",
+    "question": "Czy wchodząc do portu państwa innej bandery A Podnieść banderę tego państwa na topie niż nasza należy? grotmasztu B Podnieść banderę tego państwa pod prawym salingiem c Podnieść tylko banderę naszego państwa dla identyfikacji",
+    "options": {},
+    "raw": "Czy wchodząc do portu państwa innej bandery A Podnieść banderę tego państwa na topie niż nasza należy? grotmasztu B Podnieść banderę tego państwa pod prawym salingiem c Podnieść tylko banderę naszego państwa dla identyfikacji"
+  },
+  {
+    "id": 186,
+    "category": "Przepisy",
+    "question": "Na jachcie w porcie podniesiona była duża gala A |Pozostawiamy galę flagową flagowa z okazji uroczystości. Jak postępujemy po B | Zamieniamy ją na małą galę flagową odejściu i dalszej żegludze pod żaglami? c Zdejmujemy galę, pod żaglami nie nosi się gali",
+    "options": {},
+    "raw": "Na jachcie w porcie podniesiona była duża gala A |Pozostawiamy galę flagową flagowa z okazji uroczystości. Jak postępujemy po B | Zamieniamy ją na małą galę flagową odejściu i dalszej żegludze pod żaglami? c Zdejmujemy galę, pod żaglami nie nosi się gali"
+  },
+  {
+    "id": 187,
+    "category": "Przepisy",
+    "question": "Jak wygląda duża gala flagowa? To flagi kodu międzynarodowego",
+    "options": {
+      "A": "podniesione wzdłuż want w dowolnej kolejności",
+      "B": "To flagi kodu międzynarodowego podniesione pod salingami masztów To flagi kodu międzynarodowego podniesione od dziobu przez topy",
+      "C": "masztów do rufy (w Polsce przyjęty układ flaga kodu i odpowiedzi, AB1, CD2 itd. )"
+    },
+    "raw": "Jak wygląda duża gala flagowa? To flagi kodu międzynarodowego A |podniesione wzdłuż want w dowolnej kolejności B To flagi kodu międzynarodowego podniesione pod salingami masztów To flagi kodu międzynarodowego podniesione od dziobu przez topy C | masztów do rufy (w Polsce przyjęty układ flaga kodu i odpowiedzi, AB1, CD2 itd. )"
+  },
+  {
+    "id": 188,
+    "category": "Przepisy",
+    "question": "Jacht idzie pod żaglami w morzu, nadeszła mgła. A | Jeden dźwięk długi co 2 minuty Jaki sygnał należy nadawać? B_|Dwa dźwięki długie co 2 minuty Cc Jeden dźwięk długi i dwa krótkie co 2 minuty",
+    "options": {},
+    "raw": "Jacht idzie pod żaglami w morzu, nadeszła mgła. A | Jeden dźwięk długi co 2 minuty Jaki sygnał należy nadawać? B_|Dwa dźwięki długie co 2 minuty Cc Jeden dźwięk długi i dwa krótkie co 2 minuty"
+  },
+  {
+    "id": 189,
+    "category": "Przepisy",
+    "question": "Idąc we mgle usłyszano na jachcie dwa dźwięki ą zmniejszyć szybkość, zmienić kurs w długie przed dziobem. Jak należy postąpić? prawo, być w gotowości do manewrów Nie zmieniać kursu, nasłuchiwać w którą B |stronę przemieszcza się statek nadający sygnał Cc Najlepiej zatrzymać się i poczekać, aż statek nadający sygnał oddali się",
+    "options": {},
+    "raw": "Idąc we mgle usłyszano na jachcie dwa dźwięki ą zmniejszyć szybkość, zmienić kurs w długie przed dziobem. Jak należy postąpić? prawo, być w gotowości do manewrów Nie zmieniać kursu, nasłuchiwać w którą B |stronę przemieszcza się statek nadający sygnał Cc Najlepiej zatrzymać się i poczekać, aż statek nadający sygnał oddali się"
+  },
+  {
+    "id": 190,
+    "category": "Przepisy",
+    "question": "Czy do wody na jeziorach i morskich wodach",
+    "options": {
+      "A": "Tak, z wyjątkiem odpadów z tworzyw przybrzeżnych można wyrzucać śmiecie sztucznych",
+      "B": "Tak ale tylko daleko od brzegu",
+      "C": "Nie wolno wyrzucać żadnych"
+    },
+    "raw": "Czy do wody na jeziorach i morskich wodach A Tak, z wyjątkiem odpadów z tworzyw przybrzeżnych można wyrzucać śmiecie sztucznych B Tak ale tylko daleko od brzegu C Nie wolno wyrzucać żadnych"
+  },
+  {
+    "id": 191,
+    "category": "Przepisy",
+    "question": "Na jachcie jest WC. Czy można go używać w Tak, jeżeli WC jachtu połączony jest ze portach i podczas żeglugi?",
+    "options": {
+      "A": "zbiornikiem lub WC \"chemiczny\" (zamknięty odpływ za burtę)",
+      "B": "Tak, ale tylko co najmniej 1000 m od brzegu",
+      "C": "Tak, byle poza portami"
+    },
+    "raw": "Na jachcie jest WC. Czy można go używać w Tak, jeżeli WC jachtu połączony jest ze portach i podczas żeglugi? A |zbiornikiem lub WC \"chemiczny\" (zamknięty odpływ za burtę) B Tak, ale tylko co najmniej 1000 m od brzegu C Tak, byle poza portami"
+  },
+  {
+    "id": 192,
+    "category": "Przepisy",
+    "question": "Podczas żeglugi zobaczyliśmy na wodzie dużą A |Szybko oddalić się od tego miejsca. plamę oleju. Co należy zrobić? B Próbować ją zlikwidować używając detergentów Powiadomić właściwe służby (na śródlądziu c |straż pożarna, na morzu służbę ruchu/kapitanat)",
+    "options": {},
+    "raw": "Podczas żeglugi zobaczyliśmy na wodzie dużą A |Szybko oddalić się od tego miejsca. plamę oleju. Co należy zrobić? B Próbować ją zlikwidować używając detergentów Powiadomić właściwe służby (na śródlądziu c |straż pożarna, na morzu służbę ruchu/kapitanat)"
+  },
+  {
+    "id": 193,
+    "category": "Przepisy",
+    "question": "Czy przy zmywaniu naczyń na jachcie wskazane A Tak, jak najwięcej bo dobrze emulgują jest użycie detergentów? tłuszcze B Jak najmniej, bo są szkodliwe dla środowiska Cc Nie ma to znaczenia, bo są obojętne dla środowiska",
+    "options": {},
+    "raw": "Czy przy zmywaniu naczyń na jachcie wskazane A Tak, jak najwięcej bo dobrze emulgują jest użycie detergentów? tłuszcze B Jak najmniej, bo są szkodliwe dla środowiska Cc Nie ma to znaczenia, bo są obojętne dla środowiska"
+  },
+  {
+    "id": 194,
+    "category": "Przepisy",
+    "question": "Do jakiego znaku żeglugowego pływającego lub A |Znaku zezwolenia na postój, brzegowego może zacumować statek żaglowy: B Znaku zezwolenia na ruch statków żaglowych, Cc zabrania się cumowania do znaków żeglugowych.",
+    "options": {},
+    "raw": "Do jakiego znaku żeglugowego pływającego lub A |Znaku zezwolenia na postój, brzegowego może zacumować statek żaglowy: B Znaku zezwolenia na ruch statków żaglowych, Cc zabrania się cumowania do znaków żeglugowych."
+  },
+  {
+    "id": 195,
+    "category": "Przepisy",
+    "question": "Wody śródlądowe. Światło zielone nad białym A |Statek stojący na kotwicy, pokazane na statku oznacza: B | Prom na uwięzi w ruchu, Cc Statek, który utracił zdolność do manewrowania. i tet RAAL (22) 541 63 69",
+    "options": {},
+    "raw": "Wody śródlądowe. Światło zielone nad białym A |Statek stojący na kotwicy, pokazane na statku oznacza: B | Prom na uwięzi w ruchu, Cc Statek, który utracił zdolność do manewrowania. i tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 196,
+    "category": "Przepisy",
+    "question": "Podniesienie miecza na kursie bajdewind",
+    "options": {
+      "A": "Konieczność balastowania na nawietrznej spowoduje:",
+      "B": "Zwiększenie dryfu",
+      "C": "Zwiększenie szybkości jachtu"
+    },
+    "raw": "Podniesienie miecza na kursie bajdewind A |Konieczność balastowania na nawietrznej spowoduje: B |Zwiększenie dryfu C Zwiększenie szybkości jachtu"
+  },
+  {
+    "id": 197,
+    "category": "Przepisy",
+    "question": "Jacht płynie bajdewindem z pewną szybkością,",
+    "options": {
+      "A": "Wiatr pozorny przy wietrze rzeczywistym o szybkości większej od",
+      "B": "Wiatr rzeczywisty zera. Największą szybkość z wymienionych poniżej",
+      "C": "Wiatr ruchu własnego ma zawsze:"
+    },
+    "raw": "Jacht płynie bajdewindem z pewną szybkością, A _ |Wiatr pozorny przy wietrze rzeczywistym o szybkości większej od B__ Wiatr rzeczywisty zera. Największą szybkość z wymienionych poniżej C_ Wiatr ruchu własnego ma zawsze:"
+  },
+  {
+    "id": 198,
+    "category": "Przepisy",
+    "question": "Jacht płynie pod wiatr z wyluzowanymi żaglami. A |Od rozmieszczenia załogi na jachcie Od czego zależy długość drogi hamowania? B Od wzajemnego położenia środka wyporu i środka ożaglowania Cc Od masy jachtu i jego prędkości w momencie ustawienia w linii wiatru",
+    "options": {},
+    "raw": "Jacht płynie pod wiatr z wyluzowanymi żaglami. A |Od rozmieszczenia załogi na jachcie Od czego zależy długość drogi hamowania? B Od wzajemnego położenia środka wyporu i środka ożaglowania Cc Od masy jachtu i jego prędkości w momencie ustawienia w linii wiatru"
+  },
+  {
+    "id": 199,
+    "category": "Przepisy",
+    "question": "Na płetwę sterową jachtu działa siła A Kąta wychylenia płetwy sterowej i jej hydrodynamiczna, wielkość tej siły zależy od? powierzchni B Kąta wychylenia płetwy sterowej, jej powierzchni i szybkości jachtu Cc Tylko od powierzchni płetwy sterowej i szybkości jachtu",
+    "options": {},
+    "raw": "Na płetwę sterową jachtu działa siła A Kąta wychylenia płetwy sterowej i jej hydrodynamiczna, wielkość tej siły zależy od? powierzchni B Kąta wychylenia płetwy sterowej, jej powierzchni i szybkości jachtu Cc Tylko od powierzchni płetwy sterowej i szybkości jachtu"
+  },
+  {
+    "id": 200,
+    "category": "Przepisy",
+    "question": "Pod jakim warunkiem jacht \"wywracalny\" (kąt A Jeżeli załoga ma założone pasy lub k hył „ok. 50”) może być kamizelki ratunkowe rytyczny przechyłu np.o y > dopuszczony do żeglugi: Jeżeli jest niezatapialny t.j. posiada B |zbiorniki wypornościowe o objętości w dm3 większej od masy jachtu w kg. c Jeżeli jest wyposażony w dwie pompy zęzowe",
+    "options": {},
+    "raw": "Pod jakim warunkiem jacht \"wywracalny\" (kąt A Jeżeli załoga ma założone pasy lub k hył „ok. 50”) może być kamizelki ratunkowe rytyczny przechyłu np.o y > dopuszczony do żeglugi: Jeżeli jest niezatapialny t.j. posiada B |zbiorniki wypornościowe o objętości w dm3 większej od masy jachtu w kg. c Jeżeli jest wyposażony w dwie pompy zęzowe"
+  },
+  {
+    "id": 201,
+    "category": "Przepisy",
+    "question": "Jacht ma postawiony grot i fok. Przed zwrotem",
+    "options": {
+      "A": "Zwiększenie zawietrzności jachtu, co przez sztag zluzowano szot foka. Co to spowoduje? utrudni zwrot",
+      "B": "Zwiększenie przechyłu jachtu",
+      "C": "Zwiększenie nawietrzności jachtu"
+    },
+    "raw": "Jacht ma postawiony grot i fok. Przed zwrotem A Zwiększenie zawietrzności jachtu, co przez sztag zluzowano szot foka. Co to spowoduje? utrudni zwrot B__ Zwiększenie przechyłu jachtu C | Zwiększenie nawietrzności jachtu"
+  },
+  {
+    "id": 202,
+    "category": "Przepisy",
+    "question": "Jacht idzie pod żaglami kursem półwiatr, żagle",
+    "options": {
+      "A": "Nadal poprawnie ustawione są poprawnie. Czy po włączeniu silnika",
+      "B": "Będzie trzeba je bardziej wybrać naprzód, co spowoduje zwiększenie szybkości jachtu",
+      "C": "Bedzie trzeba ie bardziej wyluzować żagle będą nadal pracować poprawnie? ę J Jwy"
+    },
+    "raw": "Jacht idzie pod żaglami kursem półwiatr, żagle A |Nadal poprawnie ustawione są poprawnie. Czy po włączeniu silnika B Będzie trzeba je bardziej wybrać naprzód, co spowoduje zwiększenie szybkości jachtu C Bedzie trzeba ie bardziej wyluzować żagle będą nadal pracować poprawnie? ę J Jwy"
+  },
+  {
+    "id": 203,
+    "category": "Przepisy",
+    "question": "Półwiatr to kurs jachtu przy wietrze rzeczywistym",
+    "options": {
+      "A": "Ok.90* wiejącym w stosunku do kursu jachtu pod kątem:",
+      "B": "Ok.609",
+      "C": "Ok.150* i tet RAAL (22) 541 63 69"
+    },
+    "raw": "Półwiatr to kurs jachtu przy wietrze rzeczywistym A |Ok.90* wiejącym w stosunku do kursu jachtu pod kątem: B Ok.609 C |Ok.150* i tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 204,
+    "category": "Przepisy",
+    "question": "Jakim kursem względem wiatru rzeczywistego",
+    "options": {
+      "A": "Bajdewindem płynie pokazany na rysunku jacht (wiatr rzeczywisty",
+      "B": "Baksztagiem strzałka niebieska)",
+      "C": "Półwiatrem"
+    },
+    "raw": "Jakim kursem względem wiatru rzeczywistego A |Bajdewindem płynie pokazany na rysunku jacht (wiatr rzeczywisty B Baksztagiem strzałka niebieska) C |Półwiatrem"
+  },
+  {
+    "id": 205,
+    "category": "Przepisy",
+    "question": "Jacht stoi zacumowany do boi, jaki wiatr",
+    "options": {
+      "A": "Pozorny odczuwamy na jachcie",
+      "B": "Rzeczywisty",
+      "C": "Własny (ruchu własnego)"
+    },
+    "raw": "Jacht stoi zacumowany do boi, jaki wiatr A |Pozorny odczuwamy na jachcie B |Rzeczywisty C Własny (ruchu własnego)"
+  },
+  {
+    "id": 206,
+    "category": "Przepisy",
+    "question": "Nadmierne wybieranie żagli ustawionych A |Zwiększenie siły ciągu prawidłowo - pod optymalnym kątem natarcia (np. Zmniejszenie siły ciągu i na pewnych maksymalne wybranie żagli przy żegludze kursem B_ kursach zwiększenie dryfu półwiatr czy baksztag) spowoduje: - —— ———— Cc Takie ustawienie nie zmienia siły ciągu, ale może mieć wpływ na dryf",
+    "options": {},
+    "raw": "Nadmierne wybieranie żagli ustawionych A |Zwiększenie siły ciągu prawidłowo - pod optymalnym kątem natarcia (np. Zmniejszenie siły ciągu i na pewnych maksymalne wybranie żagli przy żegludze kursem B_ kursach zwiększenie dryfu półwiatr czy baksztag) spowoduje: - —— ———— Cc Takie ustawienie nie zmienia siły ciągu, ale może mieć wpływ na dryf"
+  },
+  {
+    "id": 207,
+    "category": "Przepisy",
+    "question": "Przy konieczności żeglugi z wiatrem przy bardzo",
+    "options": {
+      "A": "Zrzucić grot i postawić mniejszy fok silnym wietrze na jachcie typu slup",
+      "B": "Zarefować grot i pozostawić normalny fok NAJBEZPIECZNIEJ/NAJKORZYSTNIEJ jest: : ; -. . 0 Żeglować pod pełnymi żaglami, gdyż wiatr",
+      "C": "pozorny przy dużej szybkości będzie słabszy od rzeczywistego"
+    },
+    "raw": "Przy konieczności żeglugi z wiatrem przy bardzo A |Zrzucić grot i postawić mniejszy fok silnym wietrze na jachcie typu slup | B_ | Zarefować grot i pozostawić normalny fok NAJBEZPIECZNIEJ/NAJKORZYSTNIEJ jest: : ; -. . 0 Żeglować pod pełnymi żaglami, gdyż wiatr C |pozorny przy dużej szybkości będzie słabszy od rzeczywistego"
+  },
+  {
+    "id": 208,
+    "category": "Przepisy",
+    "question": "Jacht mieczowy wyposażony jest w miecz o",
+    "options": {
+      "A": "Stateczność polepszy się znacznym ciężarze (np. pewne jachty \"TANGO\") Czy”",
+      "B": "Statecznośc pogorszy się podniesienie takiego miecza wpłynie na stateczność Nie wpłynie na stateczność poprzeczna poprzeczną jachtu?",
+      "C": ", jachtu"
+    },
+    "raw": "Jacht mieczowy wyposażony jest w miecz o A |Stateczność polepszy się znacznym ciężarze (np. pewne jachty \"TANGO\") Czy” B Statecznośc pogorszy się podniesienie takiego miecza wpłynie na stateczność Nie wpłynie na stateczność poprzeczna poprzeczną jachtu? C |, jachtu"
+  },
+  {
+    "id": 209,
+    "category": "Przepisy",
+    "question": "Wielkość siły aerodynamicznej na żaglu przy tej Tylko od kąta natarcia (kąt pomiędzy samej sile wiatru zależy od: A |cięciwą żagla, a kierunkiem przepływu wiatru) B Kąta natarcia, powierzchni żagla i kształtu (profilu) żagla Cc Tylko od powierzchni żagla i materiału z jakiego jest wykonany",
+    "options": {},
+    "raw": "Wielkość siły aerodynamicznej na żaglu przy tej Tylko od kąta natarcia (kąt pomiędzy samej sile wiatru zależy od: A |cięciwą żagla, a kierunkiem przepływu wiatru) B Kąta natarcia, powierzchni żagla i kształtu (profilu) żagla Cc Tylko od powierzchni żagla i materiału z jakiego jest wykonany"
+  },
+  {
+    "id": 210,
+    "category": "Przepisy",
+    "question": "Jacht przy pewnej sile wiatru płynie kursem ostry",
+    "options": {
+      "A": "Popłynąć ostrzej do wiatru bajdewind ze stałą szybkością, szkwał spowodował",
+      "B": "Musi odpadać wzrost wiatru rzeczywistego, czy jacht może w tej",
+      "C": "Musi luzować żagle, aby utrzymać kurs sytuacji:"
+    },
+    "raw": "Jacht przy pewnej sile wiatru płynie kursem ostry A |Popłynąć ostrzej do wiatru bajdewind ze stałą szybkością, szkwał spowodował B Musi odpadać wzrost wiatru rzeczywistego, czy jacht może w tej C_ |Musi luzować żagle, aby utrzymać kurs sytuacji:"
+  },
+  {
+    "id": 211,
+    "category": "Przepisy",
+    "question": "Aby ułatwić szybkie odpadanie jachtu o",
+    "options": {
+      "A": "Luzować szoty grota osprzęcie żaglowym typu slup idącego półwiatrem",
+      "B": "Luzować szoty foka przy postawionym foku i grocie należy (poza R” sterowaniem)",
+      "C": "Wybierać szoty grota i tet RAAL (22) 541 63 69"
+    },
+    "raw": "Aby ułatwić szybkie odpadanie jachtu o A |Luzować szoty grota osprzęcie żaglowym typu slup idącego półwiatrem B | Luzować szoty foka przy postawionym foku i grocie należy (poza R” sterowaniem) C Wybierać szoty grota i tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 212,
+    "category": "Przepisy",
+    "question": "Refowanie grota do bomu na jachcie typu slup A Tylko obniżenie położenia środka spowoduje zmianę położenia środka ożaglowania: ożaglowania B Obniżenie i przesunięcie do przodu środka ożaglowania Cc Położenie środka ożaglowania nie zmieni się",
+    "options": {},
+    "raw": "Refowanie grota do bomu na jachcie typu slup A Tylko obniżenie położenia środka spowoduje zmianę położenia środka ożaglowania: ożaglowania B Obniżenie i przesunięcie do przodu środka ożaglowania Cc Położenie środka ożaglowania nie zmieni się"
+  },
+  {
+    "id": 213,
+    "category": "Przepisy",
+    "question": "Na kursie baksztag siła powodująca dryf",
+    "options": {
+      "A": "Jest taka sama jak dla pozostałych kursów względem wiatru",
+      "B": "_ Jest największa.",
+      "C": "Jest najmniejsza."
+    },
+    "raw": "Na kursie baksztag siła powodująca dryf: A Jest taka sama jak dla pozostałych kursów względem wiatru B_ _ Jest największa. C Jest najmniejsza."
+  },
+  {
+    "id": 214,
+    "category": "Przepisy",
+    "question": "Przesunięcie środka bocznego oporu jachtu Odpowiednie balastowanie wzdłużne mieczowego można uzyskać przez",
+    "options": {
+      "A": "(wieksze obciążanie dziobu lub rufy) i/lub ustawienie miecza",
+      "B": "Odpowiednie ustawianie żagii i/lub ich refowanie",
+      "C": "Zmianę kursu jachtu względem wiatru"
+    },
+    "raw": "Przesunięcie środka bocznego oporu jachtu Odpowiednie balastowanie wzdłużne mieczowego można uzyskać przez: A |(wieksze obciążanie dziobu lub rufy) i/lub ustawienie miecza B Odpowiednie ustawianie żagii i/lub ich refowanie C Zmianę kursu jachtu względem wiatru"
+  },
+  {
+    "id": 215,
+    "category": "Przepisy",
+    "question": "Ciśnienie powietrza przepływajacego po obu",
+    "options": {
+      "A": "Spada po stronie zawietrznej stronach żagla:",
+      "B": "Rosnie po stronie zawietrznej",
+      "C": "Spada po stronie nawietrznej"
+    },
+    "raw": "Ciśnienie powietrza przepływajacego po obu A |Spada po stronie zawietrznej stronach żagla: B Rosnie po stronie zawietrznej C Spada po stronie nawietrznej"
+  },
+  {
+    "id": 216,
+    "category": "Przepisy",
+    "question": "Jacht zmienia kurs względem wiatru z kursu A Siła przechylająca nie ulega zmianie ustawiając żagle: C Siła przechylająca maleje.",
+    "options": {},
+    "raw": "Jacht zmienia kurs względem wiatru z kursu A Siła przechylająca nie ulega zmianie ustawiając żagle: C Siła przechylająca maleje."
+  },
+  {
+    "id": 217,
+    "category": "Przepisy",
+    "question": "Jacht typu slup jest zrównoważony żaglowo i",
+    "options": {
+      "A": "Wyostrzy płynie stałym kursem. Zerwał się szot grota i grot nie",
+      "B": "Odpadnie pracuje. Jaką tendencję wykaże jacht?",
+      "C": "Utrzyma kurs"
+    },
+    "raw": "Jacht typu slup jest zrównoważony żaglowo i A |Wyostrzy płynie stałym kursem. Zerwał się szot grota i grot nie B |Odpadnie pracuje. Jaką tendencję wykaże jacht? C_ | Utrzyma kurs"
+  },
+  {
+    "id": 218,
+    "category": "Przepisy",
+    "question": "Jacht płynie kursem pełnym (np. baksztagiem).",
+    "options": {
+      "A": "Nie ulegnie zmianie. Czy po wyostrzeniu (np. do bajdewindu) odczuwalny",
+      "B": "Jego szybkość zmaleje. wiatr pozorny ulegnie zmianie?",
+      "C": "Jego szybkość wzrośnie."
+    },
+    "raw": "Jacht płynie kursem pełnym (np. baksztagiem). A |Nie ulegnie zmianie. Czy po wyostrzeniu (np. do bajdewindu) odczuwalny B | Jego szybkość zmaleje. wiatr pozorny ulegnie zmianie? C_ | Jego szybkość wzrośnie."
+  },
+  {
+    "id": 219,
+    "category": "Przepisy",
+    "question": "Prawidłowo wykonany zwrot przez sztag to: Przejście dziobem linii wiatru od kursu A |baksztag jednego halsu do kursu baksztag przeciwnego halsu. Przejście dziobem linii wiatru od półwiatru B |jednego halsu do półwiatru przeciwnego halsu. Przejście dziobem linii wiatru od kursu c |bajdewind jednego halsu do kursu bajdewind przeciwnego halsu.",
+    "options": {},
+    "raw": "Prawidłowo wykonany zwrot przez sztag to: Przejście dziobem linii wiatru od kursu A |baksztag jednego halsu do kursu baksztag przeciwnego halsu. Przejście dziobem linii wiatru od półwiatru B |jednego halsu do półwiatru przeciwnego halsu. Przejście dziobem linii wiatru od kursu c |bajdewind jednego halsu do kursu bajdewind przeciwnego halsu."
+  },
+  {
+    "id": 220,
+    "category": "Przepisy",
+    "question": "Dla jakiego kursu względem wiatru kierunek",
+    "options": {
+      "A": "Fordewindu wiatru rzeczywistego i pozornego jest taki sam?",
+      "B": "Baksztagu",
+      "C": "/Półwiatru : Sm AdROGPY OD WOTA"
+    },
+    "raw": "Dla jakiego kursu względem wiatru kierunek A |Fordewindu wiatru rzeczywistego i pozornego jest taki sam? B Baksztagu C /Półwiatru : Sm AdROGPY OD WOTA"
+  },
+  {
+    "id": 221,
+    "category": "Przepisy",
+    "question": "Jacht płynie wstecz na silniku. Wychylono płetwę",
+    "options": {
+      "A": "Rufa będzie skręcać w kierunku wychylenia sterowa w lewo. Jak zachowa się jacht? steru",
+      "B": "Rufa będzie skręcać przeciwnie do kierunku wychylenia steru",
+      "C": "Będzie płynął prosto wstecz"
+    },
+    "raw": "Jacht płynie wstecz na silniku. Wychylono płetwę A Rufa będzie skręcać w kierunku wychylenia sterowa w lewo. Jak zachowa się jacht? steru B Rufa będzie skręcać przeciwnie do kierunku wychylenia steru C Będzie płynął prosto wstecz"
+  },
+  {
+    "id": 222,
+    "category": "Przepisy",
+    "question": "Siła ciągu działająca na żagiel to: Składowa siły aerodynamicznej działającej",
+    "options": {
+      "A": "nażagiel skierowana do tyłu równolegle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej",
+      "B": "nażagiel skierowana prostopadle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej",
+      "C": "nażagiel skierowana do przodu równolegle do osi wzdłużnej jachtu."
+    },
+    "raw": "Siła ciągu działająca na żagiel to: Składowa siły aerodynamicznej działającej A |nażagiel skierowana do tyłu równolegle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej B |nażagiel skierowana prostopadle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej C |nażagiel skierowana do przodu równolegle do osi wzdłużnej jachtu."
+  },
+  {
+    "id": 223,
+    "category": "Przepisy",
+    "question": "Siła działająca na żagiel, powodująca dryf jachtu Składowa siły aerodynamicznej działającej to",
+    "options": {
+      "A": "nażagiel skierowana do przodu równolegle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej",
+      "B": "nażagiel skierowana do tyłu równolegle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej",
+      "C": "nażagiel skierowana prostopadle do osi wzdłużnej jachtu."
+    },
+    "raw": "Siła działająca na żagiel, powodująca dryf jachtu Składowa siły aerodynamicznej działającej to: A |nażagiel skierowana do przodu równolegle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej B |nażagiel skierowana do tyłu równolegle do osi wzdłużnej jachtu. Składowa siły aerodynamicznej działającej C |nażagiel skierowana prostopadle do osi wzdłużnej jachtu."
+  },
+  {
+    "id": 224,
+    "category": "Przepisy",
+    "question": "Na rysunku pokazano schematycznie kadłub A |Przewróci się jachtu w przechyle oraz położenie środka ciężkości B | Nie przewróci się (SC) i środka wyporu (SW), oraz siły działające w tych . Ą punktach. Po zwiększeniu przechyłu taki jacht: c Nadal pozostanie w równowadze przy nowym kącie przechyłu",
+    "options": {},
+    "raw": "Na rysunku pokazano schematycznie kadłub A |Przewróci się jachtu w przechyle oraz położenie środka ciężkości B | Nie przewróci się (SC) i środka wyporu (SW), oraz siły działające w tych . Ą punktach. Po zwiększeniu przechyłu taki jacht: c Nadal pozostanie w równowadze przy nowym kącie przechyłu"
+  },
+  {
+    "id": 225,
+    "category": "Przepisy",
+    "question": "W jakim celu stosuje się na jachtach zbiorniki lub",
+    "options": {
+      "A": "Tylko dla wzmocnienia konstrukcji jachtu inne elementy wypornościowe? Dla zapewnienia pływalności po",
+      "B": "napełnieniu kadłuba wodą na skutek przewrócenia lub awarii kadłuba",
+      "C": "Dla polepszenia stateczności jachtu"
+    },
+    "raw": "W jakim celu stosuje się na jachtach zbiorniki lub A |Tylko dla wzmocnienia konstrukcji jachtu inne elementy wypornościowe? Dla zapewnienia pływalności po B |napełnieniu kadłuba wodą na skutek przewrócenia lub awarii kadłuba C Dla polepszenia stateczności jachtu"
+  },
+  {
+    "id": 226,
+    "category": "Przepisy",
+    "question": "Jacht płynący kursem bajdewind może najostrzej",
+    "options": {
+      "A": "407 płynąć w stosunku do wiatru rzeczywistego pod",
+      "B": "120? kątem 40”. Jaki będzie kąt martwy dla takiego",
+      "C": "80* jachtu?"
+    },
+    "raw": "Jacht płynący kursem bajdewind może najostrzej A 407 płynąć w stosunku do wiatru rzeczywistego pod B 120? kątem 40”. Jaki będzie kąt martwy dla takiego C |80* jachtu?"
+  },
+  {
+    "id": 227,
+    "category": "Przepisy",
+    "question": "Wyporność zbiorników i/lub elementów",
+    "options": {
+      "A": "Większa wypornościowych jachtu \"wywracalnego\" w litrach",
+      "B": "Mniejsza powinna być w stosunku do masy jachtu w kg:",
+      "C": "Równa"
+    },
+    "raw": "Wyporność zbiorników i/lub elementów A |Większa wypornościowych jachtu \"wywracalnego\" w litrach B Mniejsza powinna być w stosunku do masy jachtu w kg: C |Równa"
+  },
+  {
+    "id": 228,
+    "category": "Przepisy",
+    "question": "O stateczności poprzecznej jachtu decyduje A Środka ciężkości jachtu i środka oporu wzajemne położenie: bocznego B Środka ożaglowania i środka wyporu części zanurzonej kadłuba Cc Środka ciężkości jachtu i środka wyporu części zanurzonej kadłuba",
+    "options": {},
+    "raw": "O stateczności poprzecznej jachtu decyduje A Środka ciężkości jachtu i środka oporu wzajemne położenie: bocznego B Środka ożaglowania i środka wyporu części zanurzonej kadłuba Cc Środka ciężkości jachtu i środka wyporu części zanurzonej kadłuba"
+  },
+  {
+    "id": 229,
+    "category": "Przepisy",
+    "question": "Jaki wpływ na wielkość momentu A |Zwiększa moment przechylający przechylającego ma obniżenie środka ożaglowania B_|Zmniejsza moment porzechylający jachtu (np. przez refowanie żagli)? . , C Nie ma wpływu na moment przechylajacy",
+    "options": {},
+    "raw": "Jaki wpływ na wielkość momentu A |Zwiększa moment przechylający przechylającego ma obniżenie środka ożaglowania B_|Zmniejsza moment porzechylający jachtu (np. przez refowanie żagli)? . , C Nie ma wpływu na moment przechylajacy"
+  },
+  {
+    "id": 230,
+    "category": "Przepisy",
+    "question": "Na jakich kursach względem wiatru najbardziej",
+    "options": {
+      "A": "Na bajdewindzie jest przydatny obciągacz bomu?",
+      "B": "Tylko na półwietrze",
+      "C": "/Nafordewindzie i baksztagu WIADOMOŚCI Z ZAKRESU METEOROLOGII"
+    },
+    "raw": "Na jakich kursach względem wiatru najbardziej A |Na bajdewindzie jest przydatny obciągacz bomu? B Tylko na półwietrze C /Nafordewindzie i baksztagu WIADOMOŚCI Z ZAKRESU METEOROLOGII"
+  },
+  {
+    "id": 231,
+    "category": "Przepisy",
+    "question": "Wzrostu siły wiatru podczas żeglugi wzdłuż A | Gdzie brzeg jest wysoki lub zalesiony nawietrznego brzegu można się spodziewać w go W miejscach obniżenia (przerwach) miejscach; wysokiej linii brzegowej Cc Ukształtowanie terenu nie ma wpływu na szybkość wiatru",
+    "options": {},
+    "raw": "Wzrostu siły wiatru podczas żeglugi wzdłuż A | Gdzie brzeg jest wysoki lub zalesiony nawietrznego brzegu można się spodziewać w go W miejscach obniżenia (przerwach) miejscach; wysokiej linii brzegowej Cc Ukształtowanie terenu nie ma wpływu na szybkość wiatru"
+  },
+  {
+    "id": 232,
+    "category": "Przepisy",
+    "question": "Krótkotrwałe i gwałtowne opady występują",
+    "options": {
+      "A": "Przy przechodzeniu frontu chłodnego zazwyczaj:",
+      "B": "Przy przechodzeniu frontu ciepłego",
+      "C": "/Naobszarach o podwyższonym ciśnieniu"
+    },
+    "raw": "Krótkotrwałe i gwałtowne opady występują A |Przy przechodzeniu frontu chłodnego zazwyczaj: B_ |Przy przechodzeniu frontu ciepłego C /Naobszarach o podwyższonym ciśnieniu"
+  },
+  {
+    "id": 233,
+    "category": "Przepisy",
+    "question": "Front zokludowany powstaje na skutek: Nasunięcie się frontu ciepłego na front",
+    "options": {
+      "A": "chłodny ze względu na jego szybsze przemieszczanie się Nasunięcie się frontu chłodnego na front",
+      "B": "ciepły ze względu na jego szybsze przemieszczanie się",
+      "C": "Wzrostu ciśnienia na obszarze niżowym"
+    },
+    "raw": "Front zokludowany powstaje na skutek: Nasunięcie się frontu ciepłego na front A |chłodny ze względu na jego szybsze przemieszczanie się Nasunięcie się frontu chłodnego na front B | ciepły ze względu na jego szybsze przemieszczanie się C |Wzrostu ciśnienia na obszarze niżowym"
+  },
+  {
+    "id": 234,
+    "category": "Przepisy",
+    "question": "Stosunkowo długie i umiarkowane opady",
+    "options": {
+      "A": "Przy przechodzeniu frontu chłodnego występują zazwyczaj:",
+      "B": "Przy przechodzeniu frontu ciepłego",
+      "C": "Na obszarach wyżowych"
+    },
+    "raw": "Stosunkowo długie i umiarkowane opady A |Przy przechodzeniu frontu chłodnego występują zazwyczaj: B |Przy przechodzeniu frontu ciepłego C |Na obszarach wyżowych"
+  },
+  {
+    "id": 235,
+    "category": "Przepisy",
+    "question": "Halo wokół słońca zwiastuje: Jest spowodowane chmurami cirrostratus,",
+    "options": {
+      "A": "azatem zwiastuje zbliżanie się frontu ciepłego i pogorszenie się pogody, Jest spowodowane zmniejszoną",
+      "B": "wilgotnością powietrza, a zatem wskazuje polepszenie pogody Jest spowodowane zwiększoną",
+      "C": "wilgotnością powietrza, a zatem wskazuje na możliwość wystąpienia mgieł - tet RAAL (22) 541 63 69"
+    },
+    "raw": "Halo wokół słońca zwiastuje: Jest spowodowane chmurami cirrostratus, A |azatem zwiastuje zbliżanie się frontu ciepłego i pogorszenie się pogody, Jest spowodowane zmniejszoną B |wilgotnością powietrza, a zatem wskazuje polepszenie pogody Jest spowodowane zwiększoną C |wilgotnością powietrza, a zatem wskazuje na możliwość wystąpienia mgieł - tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 236,
+    "category": "Przepisy",
+    "question": "W jakim układzie barycznym mogą występować A |Tylko w wyżu barycznym obszary o silniejszym wietrze? B |Tylko w niżu barycznym c |Zarówno w wyżu jak i niżu bo zależy to od gradientu ciśnienia",
+    "options": {},
+    "raw": "W jakim układzie barycznym mogą występować A |Tylko w wyżu barycznym obszary o silniejszym wietrze? B |Tylko w niżu barycznym c |Zarówno w wyżu jak i niżu bo zależy to od gradientu ciśnienia"
+  },
+  {
+    "id": 237,
+    "category": "Przepisy",
+    "question": "Pogoda występująca w wyżu barycznym to: A |Pogoda zmienna B | Pogoda pochmurna - deszczowa Cc Pogoda z małym zachmurzeniem - bez opadów",
+    "options": {},
+    "raw": "Pogoda występująca w wyżu barycznym to: A |Pogoda zmienna B | Pogoda pochmurna - deszczowa Cc Pogoda z małym zachmurzeniem - bez opadów"
+  },
+  {
+    "id": 238,
+    "category": "Przepisy",
+    "question": "Izobary kreślone na mapach pogody są to: A Linie łączące punkty o jednakowej temperaturze B Linie łączące punkty o jednakowej wilgotności powietrza Cc Linie łączące punkty o jednakowej wartości ciśnienia",
+    "options": {},
+    "raw": "Izobary kreślone na mapach pogody są to: A Linie łączące punkty o jednakowej temperaturze B Linie łączące punkty o jednakowej wilgotności powietrza Cc Linie łączące punkty o jednakowej wartości ciśnienia"
+  },
+  {
+    "id": 239,
+    "category": "Przepisy",
+    "question": "Podczas bryzy nocnej wiatr wieje : A |Od lądu do wody B | Od wody do lądu Cc Zmienia kierunek na równoległy do linii brzegowej",
+    "options": {},
+    "raw": "Podczas bryzy nocnej wiatr wieje : A |Od lądu do wody B | Od wody do lądu Cc Zmienia kierunek na równoległy do linii brzegowej"
+  },
+  {
+    "id": 240,
+    "category": "Przepisy",
+    "question": "Lampa ostrzegawcza funkcjonująca w ramach Uwaga. Spodziewane burze i wiatr, bez Systemu Sygnalizacji Ostrzegawczej na szlaku A |wskazania dokładnego czasu i miejsca Wielkich Jezior Mazurskich nadaje sygnały świetlne z nadejścia zjawiska meteorologicznego. częstotliwością 40 błysków na minutę. Oznacza to: - - - - B Niebezpieczeństwo. Występowanie burzy oraz silnego wiatru w bliskim obszarze Cc Brak spodziewanych niebezpiecznych zjawisk meteorologicznych",
+    "options": {},
+    "raw": "Lampa ostrzegawcza funkcjonująca w ramach Uwaga. Spodziewane burze i wiatr, bez Systemu Sygnalizacji Ostrzegawczej na szlaku A |wskazania dokładnego czasu i miejsca Wielkich Jezior Mazurskich nadaje sygnały świetlne z nadejścia zjawiska meteorologicznego. częstotliwością 40 błysków na minutę. Oznacza to: - - - - B Niebezpieczeństwo. Występowanie burzy oraz silnego wiatru w bliskim obszarze Cc Brak spodziewanych niebezpiecznych zjawisk meteorologicznych"
+  },
+  {
+    "id": 241,
+    "category": "Przepisy",
+    "question": "Na rysunku pokazano diagram kierunku i ą na początku okresu SE 39B na końcu S-SW prędkości wiatru dla jednej doby ( godziny od 08.00 2B do 08.00). Prognoza ICM. Jak zmieni się kierunek na początku okresu SW 2*B na końcu S-SW wiatru w ciągu tej doby? B 3oB ep. TL c na początku okresu NW 3%B na końcu SE - ki 0 | 2*B",
+    "options": {},
+    "raw": "Na rysunku pokazano diagram kierunku i ą na początku okresu SE 39B na końcu S-SW prędkości wiatru dla jednej doby ( godziny od 08.00 2B do 08.00). Prognoza ICM. Jak zmieni się kierunek na początku okresu SW 2*B na końcu S-SW wiatru w ciągu tej doby? B 3oB ep. TL c na początku okresu NW 3%B na końcu SE - ki 0 | 2*B"
+  },
+  {
+    "id": 242,
+    "category": "Przepisy",
+    "question": "Na polskiej mapie synoptycznej poszczególne",
+    "options": {
+      "A": "Wiatr północny (North), wiatr zachodni skróty \" N, W,\" oznaczają kolejno : (West) SZ",
+      "B": "Centrum niżu, centrum wyżu X A",
+      "C": "Chmury niskie, chmury wysokie - tet. (22) S41 63 63, Tax (ZZ) 541 63 69"
+    },
+    "raw": "Na polskiej mapie synoptycznej poszczególne A Wiatr północny (North), wiatr zachodni skróty \" N, W,\" oznaczają kolejno : (West) SZ B_ Centrum niżu, centrum wyżu X A C | Chmury niskie, chmury wysokie - tet. (22) S41 63 63, Tax (ZZ) 541 63 69"
+  },
+  {
+    "id": 243,
+    "category": "Przepisy",
+    "question": "Pojawiające się rano i nieznacznie",
+    "options": {
+      "A": "ładniejszą, słoneczną pogodę, rozbudowujące się drobne chmury Cumulus",
+      "B": "nadejście długotrwałych opadów deszczu, pokazane na rysunku zwiastują:",
+      "C": "nadejście burz i silnych wiatrów"
+    },
+    "raw": "Pojawiające się rano i nieznacznie A |ładniejszą, słoneczną pogodę, rozbudowujące się drobne chmury Cumulus B nadejście długotrwałych opadów deszczu, pokazane na rysunku zwiastują: C |nadejście burz i silnych wiatrów"
+  },
+  {
+    "id": 244,
+    "category": "Przepisy",
+    "question": "Gdzie w układzie niżowym występuje A Najmniejsze w środku, a największe na największe i najmniejsze ciśnienie atmosferyczne? zewnątrz B Największe w środku a najmniejsze na zewnątrz Cc Największe w części północnej, a najmniejsze w południowej",
+    "options": {},
+    "raw": "Gdzie w układzie niżowym występuje A Najmniejsze w środku, a największe na największe i najmniejsze ciśnienie atmosferyczne? zewnątrz B Największe w środku a najmniejsze na zewnątrz Cc Największe w części północnej, a najmniejsze w południowej"
+  },
+  {
+    "id": 245,
+    "category": "Przepisy",
+    "question": "Silne szkwały mogą towarzyszyć chmurom",
+    "options": {
+      "A": "Nimbostratus",
+      "B": "Cumulonimbus",
+      "C": "Stratus"
+    },
+    "raw": "Silne szkwały mogą towarzyszyć chmurom: A_ |Nimbostratus B_ | Cumulonimbus C Stratus"
+  },
+  {
+    "id": 246,
+    "category": "Przepisy",
+    "question": "Bryza dzienna to wiatr wiejący",
+    "options": {
+      "A": "Wnocy od strony morza w kierunku lądu",
+      "B": "W dzień od strony morza w kierunku lądu",
+      "C": "('Wdzień od strony lądu w kierunku morza"
+    },
+    "raw": "Bryza dzienna to wiatr wiejący: A |Wnocy od strony morza w kierunku lądu B W dzień od strony morza w kierunku lądu C ('Wdzień od strony lądu w kierunku morza"
+  },
+  {
+    "id": 247,
+    "category": "Przepisy",
+    "question": "Symbol na mapie synoptycznej jak na rysunku,",
+    "options": {
+      "A": "Front chłodny oznacza:",
+      "B": "Front ciepły",
+      "C": "Front zokludowany Ama KM m"
+    },
+    "raw": "Symbol na mapie synoptycznej jak na rysunku, A Front chłodny oznacza: B_ | Front ciepły C Front zokludowany Ama KM m"
+  },
+  {
+    "id": 248,
+    "category": "Przepisy",
+    "question": "Front atmosferyczny jest to",
+    "options": {
+      "A": "Linia łącząca ośrodki wysokiego ciśnienia na danym obszarze",
+      "B": "Zasięg występowania opadów na danym obszarze Powierzchnia (warstwa) rozgraniczająca dwie masy powietrza o odmiennych",
+      "C": "właściwościach (szczególnie o różnej temperaturze)"
+    },
+    "raw": "Front atmosferyczny jest to : A Linia łącząca ośrodki wysokiego ciśnienia na danym obszarze B Zasięg występowania opadów na danym obszarze Powierzchnia (warstwa) rozgraniczająca dwie masy powietrza o odmiennych C |właściwościach (szczególnie o różnej temperaturze)"
+  },
+  {
+    "id": 249,
+    "category": "Przepisy",
+    "question": "Na rysunku pokazano fragment mapy",
+    "options": {
+      "A": "Pólnocno-wschodniego synoptycznej. Jakiego wiatru możemy spodziewać się",
+      "B": "Zachodniego ? w Polsce? BET. KC",
+      "C": "Południowo-wschodniego"
+    },
+    "raw": "Na rysunku pokazano fragment mapy A |Pólnocno-wschodniego synoptycznej. Jakiego wiatru możemy spodziewać się B | Zachodniego ? w Polsce? BET. KC | C |Południowo-wschodniego |"
+  },
+  {
+    "id": 250,
+    "category": "Przepisy",
+    "question": "Wiatr określony w komunikacie",
+    "options": {
+      "A": "Wiatr słaby meteorologicznym jako 1 - 2 w skali Beauforta to:",
+      "B": "Wiatr umiarkowany",
+      "C": "Wiatr bardzo silny"
+    },
+    "raw": "Wiatr określony w komunikacie A |Wiatr słaby meteorologicznym jako 1 - 2 w skali Beauforta to: B_ | Wiatr umiarkowany C_ Wiatr bardzo silny"
+  },
+  {
+    "id": 251,
+    "category": "Przepisy",
+    "question": "Kolejne pojawianie się chmur pokazanych na",
+    "options": {
+      "A": "Dalsze utrzymywanie się dobrej pogody rysunku Cirrus i Cirrostratus przy spadku ciśnienia",
+      "B": "Słabnięcie wiatru i wzrost temperatury zwiastuje:",
+      "C": "Zbliżanie się frontu ciepłego ZSEE 4 | - 4"
+    },
+    "raw": "Kolejne pojawianie się chmur pokazanych na A | Dalsze utrzymywanie się dobrej pogody rysunku Cirrus i Cirrostratus przy spadku ciśnienia B |Słabnięcie wiatru i wzrost temperatury zwiastuje: C |Zbliżanie się frontu ciepłego ZSEE 4 | - 4"
+  },
+  {
+    "id": 252,
+    "category": "Przepisy",
+    "question": "Wiatr przyziemny w wyżu wieje (półkula",
+    "options": {
+      "A": "Prostopadle do izobar od centrum wyżu północna):",
+      "B": "Do centrum wyżu z zewnątrz Od środka wyżu odchylony zgodnie z",
+      "C": "ruchem wskazówek zegara, kąt 20-40” do izobary"
+    },
+    "raw": "Wiatr przyziemny w wyżu wieje (półkula A |Prostopadle do izobar od centrum wyżu północna): B Do centrum wyżu z zewnątrz Od środka wyżu odchylony zgodnie z C |ruchem wskazówek zegara, kąt 20-40” do izobary"
+  },
+  {
+    "id": 253,
+    "category": "Przepisy",
+    "question": "Z których chmur można spodziewać się opadów",
+    "options": {
+      "A": "Nimbostratus, Cumulonimbus deszczu ?",
+      "B": "Cirrus i cirrostratus",
+      "C": "/Stratocumulus, Cirrocumulus"
+    },
+    "raw": "Z których chmur można spodziewać się opadów A _ | Nimbostratus, Cumulonimbus deszczu ? B__ Cirrus i cirrostratus C /Stratocumulus, Cirrocumulus"
+  },
+  {
+    "id": 254,
+    "category": "Przepisy",
+    "question": "Jeżeli w prognozie radiowej słyszymy \"niż znad",
+    "options": {
+      "A": "Słabnących wiatrów z kierunków Danii pogłębia się i przesuwa szybko na południowy wschodnich wschód\", to w ciągu najbliższej doby na Zalewie Rosnącej siły wiatru z kierunków Zegrzyńskim spodziewamy się:",
+      "B": "zachodnich",
+      "C": "Słabych wiatrów północnych"
+    },
+    "raw": "Jeżeli w prognozie radiowej słyszymy \"niż znad A Słabnących wiatrów z kierunków Danii pogłębia się i przesuwa szybko na południowy wschodnich wschód\", to w ciągu najbliższej doby na Zalewie Rosnącej siły wiatru z kierunków Zegrzyńskim spodziewamy się: B zachodnich C Słabych wiatrów północnych"
+  },
+  {
+    "id": 255,
+    "category": "Przepisy",
+    "question": "Zagęszczenie izobar na mapie pogody",
+    "options": {
+      "A": "Osłabnięciu wiatru informuje:",
+      "B": "Zmianie zachmurzenia",
+      "C": "Wystąpieniu silnego wiatru WIADOMOŚCI Z ZAKRESU RATOWNICTWA WODNEGO"
+    },
+    "raw": "Zagęszczenie izobar na mapie pogody A |Osłabnięciu wiatru informuje: B_ Zmianie zachmurzenia C | Wystąpieniu silnego wiatru WIADOMOŚCI Z ZAKRESU RATOWNICTWA WODNEGO"
+  },
+  {
+    "id": 256,
+    "category": "Przepisy",
+    "question": "Kto ogłasza alarm \"Człowiek za burtą\" A |Kapitan, po wywołaniu go na pokład; B / Kapitan, po wywołaniu załogi na pokład; c Osoba, która pierwsza zauważyła wypadnięcie człowieka",
+    "options": {},
+    "raw": "Kto ogłasza alarm \"Człowiek za burtą\" A |Kapitan, po wywołaniu go na pokład; B / Kapitan, po wywołaniu załogi na pokład; c Osoba, która pierwsza zauważyła wypadnięcie człowieka"
+  },
+  {
+    "id": 257,
+    "category": "Przepisy",
+    "question": "Jakiego koloru rakiet należy użyć celem",
+    "options": {
+      "A": "Zielonych, wezwania pomocy ?",
+      "B": "Czerwonych,",
+      "C": "Białych"
+    },
+    "raw": "Jakiego koloru rakiet należy użyć celem A Zielonych, wezwania pomocy ? B Czerwonych, C Białych"
+  },
+  {
+    "id": 258,
+    "category": "Przepisy",
+    "question": "Hipotermia jest to stan organizmu z obniżoną Zabezpieczyć przed dalszą utratą ciepła np. temperaturą wewnętrzną spowodowany czynnikami folia NRC, koc, śpiwór. Poszkodowanemu zewnętrznymi jak np. woda, wiatr itp. Jak",
+    "options": {
+      "A": "można podać alkohol. Jak najszybciej postępować z taką osobą? zapewnić opiekę lekarską Zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór. Poszkodowanemu",
+      "B": "podać ciepłe osłodzone płyny. Jak najszybciej zapewnić opiekę lekarską Zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór. Nie podawać nic do",
+      "C": "picia. Jak najszybciej zapewnić opiekę lekarską"
+    },
+    "raw": "Hipotermia jest to stan organizmu z obniżoną Zabezpieczyć przed dalszą utratą ciepła np. temperaturą wewnętrzną spowodowany czynnikami folia NRC, koc, śpiwór. Poszkodowanemu zewnętrznymi jak np. woda, wiatr itp. Jak A |można podać alkohol. Jak najszybciej postępować z taką osobą? zapewnić opiekę lekarską Zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór. Poszkodowanemu B podać ciepłe osłodzone płyny. Jak najszybciej zapewnić opiekę lekarską Zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór. Nie podawać nic do C picia. Jak najszybciej zapewnić opiekę lekarską"
+  },
+  {
+    "id": 259,
+    "category": "Przepisy",
+    "question": "Człowiekowi, który wypadł za burtę, koło",
+    "options": {
+      "A": "Od jego nawietrznej, ratunkowe należy rzucać blisko niego:",
+      "B": "Odjego zawietrznej,",
+      "C": "Odtej strony, w którą ma zwróconą twarz"
+    },
+    "raw": "Człowiekowi, który wypadł za burtę, koło A |Od jego nawietrznej, ratunkowe należy rzucać blisko niego: B |Odjego zawietrznej, C |Odtej strony, w którą ma zwróconą twarz"
+  },
+  {
+    "id": 260,
+    "category": "Przepisy",
+    "question": "W trakcie żeglugi bezpieczniej jest poruszać się",
+    "options": {
+      "A": "Zawietrznej, po pokładzie po burcie:",
+      "B": "Nawietrznej,",
+      "C": "Nie ma to znaczenia"
+    },
+    "raw": "W trakcie żeglugi bezpieczniej jest poruszać się A |Zawietrznej, po pokładzie po burcie: B | Nawietrznej, C Nie ma to znaczenia"
+  },
+  {
+    "id": 261,
+    "category": "Przepisy",
+    "question": "W pobliżu jachtu na Zatoce Gdańskiej",
+    "options": {
+      "A": "Wzywanie pomocy zaobserwowano pomarańczowy dym. Co to oznacza?",
+      "B": "Wzywanie pilota",
+      "C": "Ostrzeżenie \"manewruję z trudem\""
+    },
+    "raw": "W pobliżu jachtu na Zatoce Gdańskiej A |Wzywanie pomocy zaobserwowano pomarańczowy dym. Co to oznacza? B Wzywanie pilota C Ostrzeżenie \"manewruję z trudem\""
+  },
+  {
+    "id": 262,
+    "category": "Przepisy",
+    "question": "Po wywrotce jachtu należy przede wszystkim",
+    "options": {
+      "A": "Najpierw zebrać sprzęt, który wypadł z jachtu, a potem opuścić żagle",
+      "B": "Natychmiast wzywać pomocy Sprawdzić czy cała załoga jest na powierzchni wody, założyć pasy",
+      "C": "ratunkowe, zabezpieczyć jacht przed wywróceniem do góry dnem"
+    },
+    "raw": "Po wywrotce jachtu należy przede wszystkim: A Najpierw zebrać sprzęt, który wypadł z jachtu, a potem opuścić żagle B |Natychmiast wzywać pomocy Sprawdzić czy cała załoga jest na powierzchni wody, założyć pasy C ratunkowe, zabezpieczyć jacht przed wywróceniem do góry dnem"
+  },
+  {
+    "id": 263,
+    "category": "Przepisy",
+    "question": "Jak wzywać pomocy w nocy (wody śródlądowe",
+    "options": {
+      "A": "Nadawać długie błyski do dyspozycji jest tylko latarka)?",
+      "B": "Zataczać zapaloną latarką kręgi",
+      "C": "Poruszać latarką poziomo"
+    },
+    "raw": "Jak wzywać pomocy w nocy (wody śródlądowe - A |Nadawać długie błyski do dyspozycji jest tylko latarka)? B Zataczać zapaloną latarką kręgi C |Poruszać latarką poziomo"
+  },
+  {
+    "id": 264,
+    "category": "Przepisy",
+    "question": "Po wyłowieniu człowieka, który wypadł za burtę A Natychmiast rozpocząć akcję stwierdzono, że nie oddycha. Co robić? resuscytacyjną i wezwać pomoc. B Wezwać pomoc, jak najszybciej płynąć do brzegu i czekać na pomoc lekarską. c Ułożyć człowieka w pozycji bezpiecznej i zabezpieczyć przed utratą ciepła",
+    "options": {},
+    "raw": "Po wyłowieniu człowieka, który wypadł za burtę A Natychmiast rozpocząć akcję stwierdzono, że nie oddycha. Co robić? resuscytacyjną i wezwać pomoc. B Wezwać pomoc, jak najszybciej płynąć do brzegu i czekać na pomoc lekarską. c Ułożyć człowieka w pozycji bezpiecznej i zabezpieczyć przed utratą ciepła"
+  },
+  {
+    "id": 265,
+    "category": "Przepisy",
+    "question": "Przy złamaniu kończyny należy: A |Wezwać pogotowie ratunkowe B Ułożyć poszkodowanego w t.zw. pozycji bezpiecznej Usztywnić 2 przyległe stawy, możliwie c |szybko zapewnić poszkodowanemu pomoc lekarską",
+    "options": {},
+    "raw": "Przy złamaniu kończyny należy: A |Wezwać pogotowie ratunkowe B Ułożyć poszkodowanego w t.zw. pozycji bezpiecznej Usztywnić 2 przyległe stawy, możliwie c |szybko zapewnić poszkodowanemu pomoc lekarską"
+  },
+  {
+    "id": 266,
+    "category": "Przepisy",
+    "question": "Na jachcie zerwała się top-wanta nawietrzna, A Jak najszybciej wykonać zwrot przez sztag i maszt nie złamał się. Jakie działanie podjąć? dokonać oceny sytuacji B Wyostrzyć do linii wiatru, zrzucić żagle i dokonać prowizorycznej naprawy Cc Odpaść do baksztagu i dokonać prowizorycznej naprawy : Sm AdROGPY OD WOTA",
+    "options": {},
+    "raw": "Na jachcie zerwała się top-wanta nawietrzna, A Jak najszybciej wykonać zwrot przez sztag i maszt nie złamał się. Jakie działanie podjąć? dokonać oceny sytuacji B Wyostrzyć do linii wiatru, zrzucić żagle i dokonać prowizorycznej naprawy Cc Odpaść do baksztagu i dokonać prowizorycznej naprawy : Sm AdROGPY OD WOTA"
+  },
+  {
+    "id": 267,
+    "category": "Przepisy",
+    "question": "Człowieka z wody podejmujemy",
+    "options": {
+      "A": "W miejscu gdzie jest najłatwiej przy zachowaniu stateczności jednostki",
+      "B": "Zawsze z burty nawietrznej",
+      "C": "Przy dziobie jachtu"
+    },
+    "raw": "Człowieka z wody podejmujemy: A W miejscu gdzie jest najłatwiej przy zachowaniu stateczności jednostki B_ Zawsze z burty nawietrznej C Przy dziobie jachtu"
+  },
+  {
+    "id": 268,
+    "category": "Przepisy",
+    "question": "W jakie osobiste środki ratunkowe ma być A W pasy/ kamizelki ratunkowe w ilości takiej wyposażony jacht żeglujący na wodach jak ilość osób na pokładzie A > śródlądowych: Pasy/kamizelki ratunkowe i pasy B | bezpieczeństwa dla wszystkich osób na pokładzie Cc tyle ile jest osób na pokładzie plus jedna lub koło ratunkowe",
+    "options": {},
+    "raw": "W jakie osobiste środki ratunkowe ma być A W pasy/ kamizelki ratunkowe w ilości takiej wyposażony jacht żeglujący na wodach jak ilość osób na pokładzie A > śródlądowych: Pasy/kamizelki ratunkowe i pasy B | bezpieczeństwa dla wszystkich osób na pokładzie Cc tyle ile jest osób na pokładzie plus jedna lub koło ratunkowe"
+  },
+  {
+    "id": 269,
+    "category": "Przepisy",
+    "question": "Pierwsza pomoc przy krwawiących ranach Przemywamy ranę czystą wodą np. otwartych kończyn",
+    "options": {
+      "A": "mineralną, zakładamy opatrunek, przekazujemy poszkodowanego do lekarza Usuwamy obce ciała z rany następnie przemywamy ja czystą wodą np. mineralną,",
+      "B": "zakładamy opatrunek uciskowy, przekazujemy poszkodowanego do lekarza Pozostawiamy ranę otwartą i jak",
+      "C": "najszybciej przekazujemy poszkodowanego do lekarza"
+    },
+    "raw": "Pierwsza pomoc przy krwawiących ranach Przemywamy ranę czystą wodą np. otwartych kończyn: A |mineralną, zakładamy opatrunek, przekazujemy poszkodowanego do lekarza Usuwamy obce ciała z rany następnie przemywamy ja czystą wodą np. mineralną, B zakładamy opatrunek uciskowy, przekazujemy poszkodowanego do lekarza Pozostawiamy ranę otwartą i jak C |najszybciej przekazujemy poszkodowanego do lekarza"
+  },
+  {
+    "id": 270,
+    "category": "Przepisy",
+    "question": "Gwałtowne uderzenie bardzo silnego wiatru Podnieść miecz, załoga na pokładzie w zastało jacht mieczowy w pobliżu brzegu A |pasach/kamizelkach ratunkowych, nawietrznego (wody śródlądowe), żagle zrzucono w sztrandować z wiatrem porę jacht się nie przewrócił. Wiatr nadal bardzo - . - - — silny. Brzeg bezpieczny. Jak postępować dalej ? Przygotować kotwicę, miecza nie podnosić B |aby wolniej dryfować, blisko brzegu rzucić kotwicę. c Natychmiast rzucić kotwicę, załoga pozostaje pod pokładem.",
+    "options": {},
+    "raw": "Gwałtowne uderzenie bardzo silnego wiatru Podnieść miecz, załoga na pokładzie w zastało jacht mieczowy w pobliżu brzegu A |pasach/kamizelkach ratunkowych, nawietrznego (wody śródlądowe), żagle zrzucono w sztrandować z wiatrem porę jacht się nie przewrócił. Wiatr nadal bardzo - . - - — silny. Brzeg bezpieczny. Jak postępować dalej ? Przygotować kotwicę, miecza nie podnosić B |aby wolniej dryfować, blisko brzegu rzucić kotwicę. c Natychmiast rzucić kotwicę, załoga pozostaje pod pokładem."
+  },
+  {
+    "id": 271,
+    "category": "Przepisy",
+    "question": "Na Zalewie Szczecińskim w dzień na skutek A Przy pomocy radiotelefonu UKF (procedura pęknięcia kadłuba jacht nabiera wody (jacht MAY DAY) wyposażony zgodnie z przepisami). Jak najlepiej i . najskuteczniej wezwać pomocy? B__.Przy pomocy rakiet czerwonych Cc Podnosząc pod salingiem sygnał: kula nad flagą",
+    "options": {},
+    "raw": "Na Zalewie Szczecińskim w dzień na skutek A Przy pomocy radiotelefonu UKF (procedura pęknięcia kadłuba jacht nabiera wody (jacht MAY DAY) wyposażony zgodnie z przepisami). Jak najlepiej i . najskuteczniej wezwać pomocy? B__.Przy pomocy rakiet czerwonych Cc Podnosząc pod salingiem sygnał: kula nad flagą"
+  },
+  {
+    "id": 272,
+    "category": "Przepisy",
+    "question": "Na jeziorach Mazurskich w dzień na jachcie Podnosząc i opuszczając ręce i/lub złamał się maszt, jacht jest bez silnika, brak telefonu.",
+    "options": {
+      "A": "zataczając koła dobrze widocznym Jak najlepiej wzywać pomocy? przedmiotem",
+      "B": "Krzycząc głośno ratunku - pomocy",
+      "C": "/Nadając latarką sygnał SOS"
+    },
+    "raw": "Na jeziorach Mazurskich w dzień na jachcie Podnosząc i opuszczając ręce i/lub złamał się maszt, jacht jest bez silnika, brak telefonu. A |zataczając koła dobrze widocznym Jak najlepiej wzywać pomocy? przedmiotem B_ |Krzycząc głośno ratunku - pomocy C /Nadając latarką sygnał SOS"
+  },
+  {
+    "id": 273,
+    "category": "Przepisy",
+    "question": "Czy na jachcie żeglującym na Jeziorach A |Tak Mazurskich kapitan ma prawo zarządzić, aby załoga B_ | Nie, to indywidualna decyzja członka załogi założyła pasy/kamizelki ratunkowe? . . o; - tet RAAL (22) 541 63 69",
+    "options": {},
+    "raw": "Czy na jachcie żeglującym na Jeziorach A |Tak Mazurskich kapitan ma prawo zarządzić, aby załoga B_ | Nie, to indywidualna decyzja członka załogi założyła pasy/kamizelki ratunkowe? . . o; - tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 274,
+    "category": "Przepisy",
+    "question": "Czy na Zatoce Gdańskiej i Zalewie Szczecińskim",
+    "options": {
+      "A": "Tak, z centrum koordynacyjnym w Gdynii działa służba ratownictwa morskiego SAR? Stacjami ratownictwa w portach.",
+      "B": "Nie, SAR działa tylko na pełnym morzu",
+      "C": "Nie, działa tam tylko WOPR"
+    },
+    "raw": "Czy na Zatoce Gdańskiej i Zalewie Szczecińskim A Tak, z centrum koordynacyjnym w Gdynii działa służba ratownictwa morskiego SAR? Stacjami ratownictwa w portach. B_ Nie, SAR działa tylko na pełnym morzu C |Nie, działa tam tylko WOPR"
+  },
+  {
+    "id": 275,
+    "category": "Przepisy",
+    "question": "Prowadzący jacht polecił załodze założyć pasy A |Założyć pasy pod pokładem /kamizelki ratunkowe. Jak powinna postępować B | Wyjść z pasami na pokład i tam je założyć załoga? T \" . A . Cc rzymać je przy sobie, a zakładać dopiero w wodzie",
+    "options": {},
+    "raw": "Prowadzący jacht polecił załodze założyć pasy A |Założyć pasy pod pokładem /kamizelki ratunkowe. Jak powinna postępować B | Wyjść z pasami na pokład i tam je założyć załoga? T \" . A . Cc rzymać je przy sobie, a zakładać dopiero w wodzie"
+  },
+  {
+    "id": 276,
+    "category": "Przepisy",
+    "question": "Pierwszej pomocy przy oparzeniach udzielamy Szybkie ochłodzenie oparzonego miejsca następująco: A |przez polewanie zimną woda i nałożenie jałowego opatrunku. B Nałożenie tłustego kremu lub oliwy i jałowego opatrunku Cc Przemycie alkoholem i nałożenie opatrunku",
+    "options": {},
+    "raw": "Pierwszej pomocy przy oparzeniach udzielamy Szybkie ochłodzenie oparzonego miejsca następująco: A |przez polewanie zimną woda i nałożenie jałowego opatrunku. B Nałożenie tłustego kremu lub oliwy i jałowego opatrunku Cc Przemycie alkoholem i nałożenie opatrunku"
+  },
+  {
+    "id": 277,
+    "category": "Przepisy",
+    "question": "Przed rozpoczęciem sztucznego oddychania u A Udrożnić drogi oddechowe i prowadzić osoby nieprzytomnej należy: akcję sztucznego oddychania B Zabezpieczyć poszkodowaną osobę przed utratą ciepła i prowadzić akcję Cc Położyć osobę poszkodowaną na miękkim podłożu i natychmiast rozpocząć akcję",
+    "options": {},
+    "raw": "Przed rozpoczęciem sztucznego oddychania u A Udrożnić drogi oddechowe i prowadzić osoby nieprzytomnej należy: akcję sztucznego oddychania B Zabezpieczyć poszkodowaną osobę przed utratą ciepła i prowadzić akcję Cc Położyć osobę poszkodowaną na miękkim podłożu i natychmiast rozpocząć akcję"
+  },
+  {
+    "id": 278,
+    "category": "Przepisy",
+    "question": "Z prawej burty jachtu zaobserwowano jednostkę A Zmienić kurs i podejść do tej jednostki, nadającą sygnał jak na rysunku. Jak należy postąpić? nawiązać z nią łączność B Nie zbliżać się, jednostka wykonuje prace podwodne Cc Zatrzymać się i czekać na dalsze sygnały tej jednostki",
+    "options": {},
+    "raw": "Z prawej burty jachtu zaobserwowano jednostkę A Zmienić kurs i podejść do tej jednostki, nadającą sygnał jak na rysunku. Jak należy postąpić? nawiązać z nią łączność B Nie zbliżać się, jednostka wykonuje prace podwodne Cc Zatrzymać się i czekać na dalsze sygnały tej jednostki"
+  },
+  {
+    "id": 279,
+    "category": "Przepisy",
+    "question": "Wybierz właściwy sposób postępowania osoby, A Zachować spokój, wzywać pomocy, płynąć która wypadła za burtę: do brzegu, B Płynąć za jachtem lub do brzegu możliwie jak najszybciej Zachować spokój, oszczędzać energię i siły, c |podpłynąć do rzuconego już koła i spokojnie czekać.",
+    "options": {},
+    "raw": "Wybierz właściwy sposób postępowania osoby, A Zachować spokój, wzywać pomocy, płynąć która wypadła za burtę: do brzegu, B Płynąć za jachtem lub do brzegu możliwie jak najszybciej Zachować spokój, oszczędzać energię i siły, c |podpłynąć do rzuconego już koła i spokojnie czekać."
+  },
+  {
+    "id": 280,
+    "category": "Przepisy",
+    "question": "Prowadząc sztuczne oddychanie i pośredni A 15 uciśnięć mostka i 2 wdmuchnięcia masaż serca wykonujemy: powietrza, B 5 uciśnięć mostka i 1 wdmuchnięcie powietrza, Cc 30 uciśnięć mostka i 2 wdmuchnięcia powietrza ; tet. (22) S41 63 63, Tax (ZZ) 541 63 69 WIADOMOŚCI Z ZAKRESU RATOWNICTWA WODNEGO ABM OE OOM.",
+    "options": {},
+    "raw": "Prowadząc sztuczne oddychanie i pośredni A 15 uciśnięć mostka i 2 wdmuchnięcia masaż serca wykonujemy: powietrza, B 5 uciśnięć mostka i 1 wdmuchnięcie powietrza, Cc 30 uciśnięć mostka i 2 wdmuchnięcia powietrza ; tet. (22) S41 63 63, Tax (ZZ) 541 63 69 WIADOMOŚCI Z ZAKRESU RATOWNICTWA WODNEGO ABM OE OOM."
+  },
+  {
+    "id": 281,
+    "category": "Przepisy",
+    "question": "Po całodziennej żegludze w lecie załoganta boli",
+    "options": {
+      "A": "Wyziębienia ciała, podać ciepły napój głowa, ma zaburzenia świadomości, ciepłą , Porażenia słonecznego, zastosować zimne zaczerwienioną skórę i nudności. Czego to mogą być",
+      "B": "okłady, podać wodę mineralną, potrzebna objawy i jak postępować ? pomoc lekarska",
+      "C": "Choroby morskiej, podać aviomarin"
+    },
+    "raw": "Po całodziennej żegludze w lecie załoganta boli A |Wyziębienia ciała, podać ciepły napój głowa, ma zaburzenia świadomości, ciepłą , Porażenia słonecznego, zastosować zimne zaczerwienioną skórę i nudności. Czego to mogą być B okłady, podać wodę mineralną, potrzebna objawy i jak postępować ? pomoc lekarska C |Choroby morskiej, podać aviomarin"
+  },
+  {
+    "id": 282,
+    "category": "Przepisy",
+    "question": "Jacht na Zatoce Gdańskiej dryfuje przy bardzo A Ostrzeżenie o niebezpiecznym miejscu, silnym wietrze do brzegu, nadano sygnały wzywania starać się sztrandować w innym miejscu pomocy. Na brzegu wystrzelono zieloną rakietę, a Informacia o dobrym miejscu do stojący na brzegu macha białą chorągiewką. Co to Ja O « ym miej A -. A B |sztrandowania, starać się sztrandować w oznacza i jak postępować ? M \"R ym miejscu Cc Informacja, że wkrótce nadejdzie jednostka ratownicza",
+    "options": {},
+    "raw": "Jacht na Zatoce Gdańskiej dryfuje przy bardzo A Ostrzeżenie o niebezpiecznym miejscu, silnym wietrze do brzegu, nadano sygnały wzywania starać się sztrandować w innym miejscu pomocy. Na brzegu wystrzelono zieloną rakietę, a Informacia o dobrym miejscu do stojący na brzegu macha białą chorągiewką. Co to Ja O « ym miej A -. A B |sztrandowania, starać się sztrandować w oznacza i jak postępować ? M \"R ym miejscu Cc Informacja, że wkrótce nadejdzie jednostka ratownicza"
+  },
+  {
+    "id": 283,
+    "category": "Przepisy",
+    "question": "Jakie są PODSTAWOWE/NAJWAŻNIEJSZE Zapoznanie załogi ze sprzętem obowiązki prowadzącego jacht przed wyjściem w ratunkowym na jachcie, jego rejs? rozmieszczeniu i obsłudze (np. pasy/ A |kamizelki ratunkowe i bezpieczeństwa, gaśnice, itp.) i postępowaniem w niebezpieczeństwie Zapoznanie załogi z przepisami prawa B | drogi i oznakowaniem nawigacyjnym danego akwenu Cc Zapoznanie załogi z zasadami etykiety jachtowej",
+    "options": {},
+    "raw": "Jakie są PODSTAWOWE/NAJWAŻNIEJSZE Zapoznanie załogi ze sprzętem obowiązki prowadzącego jacht przed wyjściem w ratunkowym na jachcie, jego rejs? rozmieszczeniu i obsłudze (np. pasy/ A |kamizelki ratunkowe i bezpieczeństwa, gaśnice, itp.) i postępowaniem w niebezpieczeństwie Zapoznanie załogi z przepisami prawa B | drogi i oznakowaniem nawigacyjnym danego akwenu Cc Zapoznanie załogi z zasadami etykiety jachtowej"
+  },
+  {
+    "id": 284,
+    "category": "Przepisy",
+    "question": "W celu ugaszenia gaśnicą pożaru w komorze A Lekko uchylić pokrywę komory i silnika należy: natychmiast użyć gaśnicy B Otworzyć szeroko pokrywę komory, sprawdzić co się pali i dopiero użyć gaśnicy Cc Otworzyć szeroko pokrywę komory i gasić ogień wodą podawaną z za burty",
+    "options": {},
+    "raw": "W celu ugaszenia gaśnicą pożaru w komorze A Lekko uchylić pokrywę komory i silnika należy: natychmiast użyć gaśnicy B Otworzyć szeroko pokrywę komory, sprawdzić co się pali i dopiero użyć gaśnicy Cc Otworzyć szeroko pokrywę komory i gasić ogień wodą podawaną z za burty"
+  },
+  {
+    "id": 285,
+    "category": "Przepisy",
+    "question": "Po podjęciu nieprzytomnego człowieka z wody",
+    "options": {
+      "A": "Oddech i tętno należy w PIERWSZEJ KOLEJNOŚCI sprawdzić:",
+      "B": "Czynie jest zraniony",
+      "C": "Reakcję źrenic na światło"
+    },
+    "raw": "Po podjęciu nieprzytomnego człowieka z wody A |Oddech i tętno należy w PIERWSZEJ KOLEJNOŚCI sprawdzić: B |Czynie jest zraniony C Reakcję źrenic na światło"
+  },
+  {
+    "id": 286,
+    "category": "Przepisy",
+    "question": "Niezatapialny jacht w lecie przewrócił się na A Załoga w pasach/kamizelkach ratunkowych dużym jeziorze w odległości ok. 1 km od powinna w grupie płynąć do lądu zawietrznego brzegu. Wzywano pomoc ale na razie Załoga ciepło ubrana w bez skutku. Jakie powinno być dalsze postępowanie? pasach/kamizelkach ratunkowych powinna B_ siedzieć na jachcie możliwie nie w wodzie. Nadal wzywać pomocy. Cc Osoba najlepiej pływająca powinna płynąć do lądu po pomoc. - tet RAAL (22) 541 63 69",
+    "options": {},
+    "raw": "Niezatapialny jacht w lecie przewrócił się na A Załoga w pasach/kamizelkach ratunkowych dużym jeziorze w odległości ok. 1 km od powinna w grupie płynąć do lądu zawietrznego brzegu. Wzywano pomoc ale na razie Załoga ciepło ubrana w bez skutku. Jakie powinno być dalsze postępowanie? pasach/kamizelkach ratunkowych powinna B_ siedzieć na jachcie możliwie nie w wodzie. Nadal wzywać pomocy. Cc Osoba najlepiej pływająca powinna płynąć do lądu po pomoc. - tet RAAL (22) 541 63 69"
+  },
+  {
+    "id": 287,
+    "category": "Przepisy",
+    "question": "Zaobserwowano, że znajdujący się w pobliżu A Taki sygnał nic nie oznacza, kontynuować jacht ma podniesiony sygnał jak na rysunku. Co swoje pływanie. należy zrobić : B Jacht stoi na mieliźnie, nie podchodzić w pobliże Cc Jacht wzywa pomocy, podejść i podjąć odpowiednie działania",
+    "options": {},
+    "raw": "Zaobserwowano, że znajdujący się w pobliżu A Taki sygnał nic nie oznacza, kontynuować jacht ma podniesiony sygnał jak na rysunku. Co swoje pływanie. należy zrobić : B Jacht stoi na mieliźnie, nie podchodzić w pobliże Cc Jacht wzywa pomocy, podejść i podjąć odpowiednie działania"
+  },
+  {
+    "id": 288,
+    "category": "Przepisy",
+    "question": "Jak zachować się przy wywracaniu się jachtu",
+    "options": {
+      "A": "Działać tak aby nie wpaść pod żagiel (wywrotka już nieunikniona)?",
+      "B": "Wyskoczyć od strony burty zawietrznej jak najdalej od jachtu",
+      "C": "Wyskoczyć za rufę"
+    },
+    "raw": "Jak zachować się przy wywracaniu się jachtu A |Działać tak aby nie wpaść pod żagiel (wywrotka już nieunikniona)? B Wyskoczyć od strony burty zawietrznej jak najdalej od jachtu C | Wyskoczyć za rufę"
+  },
+  {
+    "id": 289,
+    "category": "Przepisy",
+    "question": "Na jachcie czuć zapach tlącej się izolacji. Co A Jak najszybciej zlokalizować miejsce zrobić w pierwszej kolejności? uszkodzenia B Przygotować gaśnicę i czekać gdzie pojawi się dym Cc Wyłączyć główny wyłącznik akumulatorów lub zdjąć klemy z akumulatora",
+    "options": {},
+    "raw": "Na jachcie czuć zapach tlącej się izolacji. Co A Jak najszybciej zlokalizować miejsce zrobić w pierwszej kolejności? uszkodzenia B Przygotować gaśnicę i czekać gdzie pojawi się dym Cc Wyłączyć główny wyłącznik akumulatorów lub zdjąć klemy z akumulatora"
+  },
+  {
+    "id": 290,
+    "category": "Przepisy",
+    "question": "Po wywrotce jachtu Omega wieczorem (jesień - A Tak, bo do tego brzegu jest bliżej, a istnieje temp. wody ok. 10”C, wiatr słabnący, do brzegu niebezpieczeństwo wychłodzenia zawietrznego odl. ok. 3 km, do nawietrznego ok. 300 Nie, niady nie powinno sie opuszczać m) sternik ocenił, że należy płynąć na prowizorycznej Bo. yg nigdy p <0P - . h jachtu tratwie do brzegu nawietrznego. Czy decyzja była słuszna? Tak, ale dopiero jeżeli próby wzywania Cc |pomocy nie dały rezultatu (w rozsądnym czasie)",
+    "options": {},
+    "raw": "Po wywrotce jachtu Omega wieczorem (jesień - A Tak, bo do tego brzegu jest bliżej, a istnieje temp. wody ok. 10”C, wiatr słabnący, do brzegu niebezpieczeństwo wychłodzenia zawietrznego odl. ok. 3 km, do nawietrznego ok. 300 Nie, niady nie powinno sie opuszczać m) sternik ocenił, że należy płynąć na prowizorycznej Bo. yg nigdy p <0P - . h jachtu tratwie do brzegu nawietrznego. Czy decyzja była słuszna? Tak, ale dopiero jeżeli próby wzywania Cc |pomocy nie dały rezultatu (w rozsądnym czasie)"
+  },
+  {
+    "id": 291,
+    "category": "Przepisy",
+    "question": "Co może być pomocne przy próbie postawienia",
+    "options": {
+      "A": "Podniesienie miecza i steru niewielkiego jachtu mieczowego po WYW OLE, oo",
+      "B": "/Zrzucenie żagli i położenie masztu dotychczasowe proby postawienia nie dały rezultatu?",
+      "C": "Ustawienie jachtu rufą do wiatru"
+    },
+    "raw": "Co może być pomocne przy próbie postawienia A |Podniesienie miecza i steru niewielkiego jachtu mieczowego po WYW OLE, oo B /Zrzucenie żagli i położenie masztu dotychczasowe proby postawienia nie dały rezultatu? C_ |Ustawienie jachtu rufą do wiatru"
+  },
+  {
+    "id": 292,
+    "category": "Przepisy",
+    "question": "Jaki jest numer ratunkowy telefonu WOPR A .600 100 100 C [601 101 101",
+    "options": {},
+    "raw": "Jaki jest numer ratunkowy telefonu WOPR A .600 100 100 C [601 101 101"
+  },
+  {
+    "id": 293,
+    "category": "Ratownictwo",
+    "question": "Członek załogi przewrócił się na pokładzie, ma Umieścić go w pozycji półsiedzącej w silny ból klatki piersiowej szczególnie przy wdechu. miejscu najmniej narażonym na kołysanie, Jak udzielic mu pierwszej pomocy? A założyć okrężna opaskę z szerokiego bandaża na klatkę piersiową, podać środki przeciwbólowe B Ułożyć go w pozycji bezpiecznej, w miejscu dobrze wentylowanym Cc Podawać ciepłe płyny i środki przeciwkaszlowe : Sm AdROGPY OD WOTA",
+    "options": {},
+    "raw": "Członek załogi przewrócił się na pokładzie, ma Umieścić go w pozycji półsiedzącej w silny ból klatki piersiowej szczególnie przy wdechu. miejscu najmniej narażonym na kołysanie, Jak udzielic mu pierwszej pomocy? A założyć okrężna opaskę z szerokiego bandaża na klatkę piersiową, podać środki przeciwbólowe B Ułożyć go w pozycji bezpiecznej, w miejscu dobrze wentylowanym Cc Podawać ciepłe płyny i środki przeciwkaszlowe : Sm AdROGPY OD WOTA"
+  },
+  {
+    "id": 294,
+    "category": "Ratownictwo",
+    "question": "Przy pracach konserwacyjnych członek załogi A Nałożyć na miejsce oparzone sterylny oparzył się kwasem z akumulatora. Jak udzielić opatrunek I . > pierwszej pomocy: Starannie i długo płukać miejsce oparzone wodą, a następnie roztworem sody B | oczyszczonej lub mydła. Nałożyć sterylny opatrunek. Cc Nałożyć na miejsce oparzone okład alkaliczny np.z mydła",
+    "options": {},
+    "raw": "Przy pracach konserwacyjnych członek załogi A Nałożyć na miejsce oparzone sterylny oparzył się kwasem z akumulatora. Jak udzielić opatrunek I . > pierwszej pomocy: Starannie i długo płukać miejsce oparzone wodą, a następnie roztworem sody B | oczyszczonej lub mydła. Nałożyć sterylny opatrunek. Cc Nałożyć na miejsce oparzone okład alkaliczny np.z mydła"
+  },
+  {
+    "id": 295,
+    "category": "Ratownictwo",
+    "question": "Członek załogi doznał urazu stawu skokowego (",
+    "options": {
+      "A": "Nałożyć ciasny bandaż, trzymać nogę w ból i zasinienie) jak należy postępować? cieple",
+      "B": "Unieruchomić całą kończynę, wzywać natychmiast pomoc lekarską Zastosować zimne okłady przez 15 - 30 minut, unieruchomić staw, podać środki",
+      "C": "przeciwbólowe, przekazać poszkodowanego pod opiekę lekarską"
+    },
+    "raw": "Członek załogi doznał urazu stawu skokowego ( A Nałożyć ciasny bandaż, trzymać nogę w ból i zasinienie) jak należy postępować? cieple B Unieruchomić całą kończynę, wzywać natychmiast pomoc lekarską Zastosować zimne okłady przez 15 - 30 minut, unieruchomić staw, podać środki C przeciwbólowe, przekazać poszkodowanego pod opiekę lekarską"
+  },
+  {
+    "id": 296,
+    "category": "Ratownictwo",
+    "question": "Na małym jachcie wywracalnym(np. OMEGA) jest Podejść bajdewindem burtą nawietrzną, 5 osób. Jedna wypadła za burtę. Jak do niej podejść i",
+    "options": {
+      "A": "przeprowadzić osobę w wodzie na rufę i jak ją najbezpieczniej wyciagnąć na jacht? tam ją wyciągnąć na pokład. Podejść bajdewindem burtą nawietrzną,",
+      "B": "przeprowadzić osobę w wodzie na dziob i tam ją wyciągnąć na pokład. Podejść bajdewindem burtą nawietrzną,",
+      "C": "dwie osoby balastują, a dwie wyciągają człowieka na pokład na śródokręciu."
+    },
+    "raw": "Na małym jachcie wywracalnym(np. OMEGA) jest Podejść bajdewindem burtą nawietrzną, 5 osób. Jedna wypadła za burtę. Jak do niej podejść i A |przeprowadzić osobę w wodzie na rufę i jak ją najbezpieczniej wyciagnąć na jacht? tam ją wyciągnąć na pokład. Podejść bajdewindem burtą nawietrzną, B | przeprowadzić osobę w wodzie na dziob i tam ją wyciągnąć na pokład. Podejść bajdewindem burtą nawietrzną, C |dwie osoby balastują, a dwie wyciągają człowieka na pokład na śródokręciu."
+  },
+  {
+    "id": 297,
+    "category": "Ratownictwo",
+    "question": "Na jachcie jest silnik przyczepny na pantografie ą Na silniku w bajdewindzie lub pod wiatr rufowym po stronie lewej burty. Wypadł człowiek za lewą burtą burtę, uruchomiono silnik. Jak podchodzić do \"EE . RE . człowieka najszybciej i najbezpieczniej? B Na silniku w bajdewindzie lub pod wiatr prawą burtą Cc Najpierw zrzucić żagle i dopiero potem podchodzić w dowolny sposób",
+    "options": {},
+    "raw": "Na jachcie jest silnik przyczepny na pantografie ą Na silniku w bajdewindzie lub pod wiatr rufowym po stronie lewej burty. Wypadł człowiek za lewą burtą burtę, uruchomiono silnik. Jak podchodzić do \"EE . RE . człowieka najszybciej i najbezpieczniej? B Na silniku w bajdewindzie lub pod wiatr prawą burtą Cc Najpierw zrzucić żagle i dopiero potem podchodzić w dowolny sposób"
+  },
+  {
+    "id": 298,
+    "category": "Ratownictwo",
+    "question": "Jacht żegluje bajdewindem lewego halsu, A Zmienić kurs do linii wiatru, zrzucić żagle, zauważono, że zerwała się prawa topwanta (rozkręcił uruchomić silnik, płynąć do portu się ściągacz) Co należy zrobić? \"EE . . EE Zluzować nieco żagle nie zmieniając kursu, B |połączyć i skręcić ściągacz i zabezpieczyć go Cc Wykonać zwrot przez sztag, zrzucić żagle, jak najszybciej założyć awaryjną wantę",
+    "options": {},
+    "raw": "Jacht żegluje bajdewindem lewego halsu, A Zmienić kurs do linii wiatru, zrzucić żagle, zauważono, że zerwała się prawa topwanta (rozkręcił uruchomić silnik, płynąć do portu się ściągacz) Co należy zrobić? \"EE . . EE Zluzować nieco żagle nie zmieniając kursu, B |połączyć i skręcić ściągacz i zabezpieczyć go Cc Wykonać zwrot przez sztag, zrzucić żagle, jak najszybciej założyć awaryjną wantę"
+  },
+  {
+    "id": 299,
+    "category": "Ratownictwo",
+    "question": "Na jeziorach Mazurskich na maszcie sygnałowym",
+    "options": {
+      "A": "Zakaz wejscia do kanału przy wejściu do kanału Jeglińskiego zaobserwowano",
+      "B": "Oznaczenie wejścia do kanału żółte światło pulsujace ( błysk częściej niż co 1 Ostrzeżenie bezpośrednim ż 7 sekundę). Co to może oznaczać :",
+      "C": "niebezpieczeństwie wystapienia burzi bardzo silnego wiatru"
+    },
+    "raw": "Na jeziorach Mazurskich na maszcie sygnałowym A |Zakaz wejscia do kanału przy wejściu do kanału Jeglińskiego zaobserwowano B Oznaczenie wejścia do kanału żółte światło pulsujace ( błysk częściej niż co 1 Ostrzeżenie bezpośrednim ż 7 sekundę). Co to może oznaczać : C |niebezpieczeństwie wystapienia burzi bardzo silnego wiatru"
+  },
+  {
+    "id": 300,
+    "category": "Ratownictwo",
+    "question": "Czy pływając jachtem na jeziorach Mazurskich",
+    "options": {
+      "A": "Tak, telefonując na nr informacyjny Rejonu można korzystać z telefonicznych ostrzeżeń Dróg Wodnych i ? meteorologicznych:",
+      "B": "Tak, zamawiając usługę ostrzeżeń w Mazurskim W. O.P.R wysyłanych jako SMS",
+      "C": "Nie, takich możliwości nie ma"
+    },
+    "raw": "Czy pływając jachtem na jeziorach Mazurskich A Tak, telefonując na nr informacyjny Rejonu można korzystać z telefonicznych ostrzeżeń Dróg Wodnych i ? meteorologicznych: B Tak, zamawiając usługę ostrzeżeń w Mazurskim W. O.P.R wysyłanych jako SMS C Nie, takich możliwości nie ma"
+  },
+  {
+    "id": 301,
+    "category": "Ratownictwo",
+    "question": "Zauważyliśmy wywrócony jacht i załogę tego A Płyniemy jak najszybcej do najbliższej jachtu w wodzie. Jak postępujemy? przystani celem wezwania pomocy W bezpiecznej odległości od przewróconego jachtu zrzucamy żagle iz p prędkością minimalną podpływamy do przewróconego jachtu i ratujemy ludzi, a potem sprzęt W bezpiecznej odległości od C |przewróconego jachtu, słownie instruujemy jak mają postępować",
+    "options": {},
+    "raw": "Zauważyliśmy wywrócony jacht i załogę tego A Płyniemy jak najszybcej do najbliższej jachtu w wodzie. Jak postępujemy? przystani celem wezwania pomocy W bezpiecznej odległości od przewróconego jachtu zrzucamy żagle iz p prędkością minimalną podpływamy do przewróconego jachtu i ratujemy ludzi, a potem sprzęt W bezpiecznej odległości od C |przewróconego jachtu, słownie instruujemy jak mają postępować"
+  }
+]

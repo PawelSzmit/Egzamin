@@ -3016,8 +3016,8 @@
       "B": "Nie zmieniać kursu, nasłuchiwać w którą stronę przemieszcza się statek nadający sygnał",
       "C": "Najlepiej zatrzymać się i poczekać, aż statek nadający sygnał oddali się"
     },
-    "correct": "C",
-    "correct_answer": "Najlepiej zatrzymać się i poczekać, aż statek nadający sygnał oddali się",
+    "correct": "A",
+    "correct_answer": "Zmniejszyć szybkość, zmienić kurs w prawo, być w gotowości do manewrów",
     "source": {
       "questions": "PZŻ / KanaJacht PDF",
       "answer_key": "Quizlet public flashcard set 1061896430"

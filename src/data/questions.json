@@ -3168,8 +3168,8 @@
       "B": "Zmniejszyć szybkość i przepuścić go przed dziobem",
       "C": "Utrzymać kurs i prędkość"
     },
-    "correct": "A",
-    "correct_answer": "Przejść mu za rufą",
+    "correct": "C",
+    "correct_answer": "Utrzymać kurs i prędkość",
     "source": {
       "questions": "PZŻ / KanaJacht PDF",
       "answer_key": "Quizlet public flashcard set 1061896430"
